@@ -1,0 +1,1304 @@
+/* No comment provided by engineer. */
+" in the menu bar to start!" = " in the menu bar to start!";
+
+/* No comment provided by engineer. */
+" will be always hidden." = " will be always hidden.";
+
+/* No comment provided by engineer. */
+" will be hidden." = " will be hidden.";
+
+/* No comment provided by engineer. */
+"sec(s)" = "sec(s)";
+
+/* No comment provided by engineer. */
+"• Manage the menu bar icons as you want" = "• Manage the menu bar icons as you want";
+
+/* No comment provided by engineer. */
+"• Various menu appearance styles" = "• Various menu appearance styles";
+
+/* No comment provided by engineer. */
+"• Reduce menu bar icon spacing" = "• Reduce menu bar icon spacing";
+
+/* No comment provided by engineer. */
+"• Support the menu bar with a notch" = "• Support the menu bar with a notch";
+
+/* No comment provided by engineer. */
+"• Unlimited number of times you can show/hide menu bar icons" = "• Unlimited number of times you can show/hide menu bar icons";
+
+/* No comment provided by engineer. */
+"⌘ Shortcut List:" = "⌘ Shortcut List:";
+
+/* No comment provided by engineer. */
+"⏰️  Monitor menu bar item changes, then perform an action" = "⏰️  Monitor menu bar item changes, then perform an action";
+
+/* No comment provided by engineer. */
+"⚠️⚠️⚠️Unresponsive Item %@" = "⚠️⚠️⚠️Unresponsive Item %@";
+
+/* No comment provided by engineer. */
+"⛔️️ Barbee does not collect or track any of your personal data and Barbee does not apply for any network permissions." = "⛔️️ Barbee does not collect or track any of your personal data and Barbee does not apply for any network permissions.";
+
+/* No comment provided by engineer. */
+"✅️ Accessibility permission granted" = "✅️ Accessibility permission granted";
+
+/* No comment provided by engineer. */
+"✅️ Screen Recording permission granted" = "✅️ Screen Recording permission granted";
+
+/* No comment provided by engineer. */
+"✉️ Contact us" = "✉️ Contact us";
+
+/* No comment provided by engineer. */
+"⭐️️ Drag to arrange your menu bar items as you want!" = "⭐️️ Drag to arrange your menu bar items as you want!";
+
+/* No comment provided by engineer. */
+"🐝 Relaunch Barbee" = "🐝 Relaunch Barbee";
+
+/* No comment provided by engineer. */
+"🐞 Report bugs" = "🐞 Report bugs";
+
+/* No comment provided by engineer. */
+"👀 View details..." = "👀 View details...";
+
+/* No comment provided by engineer. */
+"👉 In the pop-up authorization window, please 🔓unlock in the lower-left corner first, then ✔️allow Barbee in the right list." = "👉 In the pop-up authorization window, please 🔓unlock in the lower-left corner first, then ✔️allow Barbee in the right list.";
+
+/* No comment provided by engineer. */
+"💥Supercharge your scripts or shortcuts with Barbee" = "💥Supercharge your scripts or shortcuts with Barbee";
+
+/* No comment provided by engineer. */
+"📊 Export logs..." = "📊 Export logs...";
+
+/* No comment provided by engineer. */
+"🔥️ Enhanced Mode" = "🔥️ Enhanced Mode";
+
+/* No comment provided by engineer. */
+"🕶️ You are the VIP" = "🕶️ You are the VIP";
+
+/* No comment provided by engineer. */
+"🦄 Join TestFlight..." = "🦄 Join TestFlight...";
+
+/* No comment provided by engineer. */
+"🧩 Right-click to customize Barbee widget group" = "🧩 Right-click to customize Barbee widget group";
+
+/* No comment provided by engineer. */
+"🧩 Right-click to customize Barbee widgets" = "🧩 Right-click to customize Barbee widgets";
+
+/* No comment provided by engineer. */
+"🧩 Widget Management" = "🧩 Widget Management";
+
+/* No comment provided by engineer. */
+"3-day Free Trial" = "3-day Free Trial";
+
+/* No comment provided by engineer. */
+"About" = "About";
+
+/* No comment provided by engineer. */
+"Accessibility" = "Accessibility";
+
+/* No comment provided by engineer. */
+"Action" = "Action";
+
+/* No comment provided by engineer. */
+"Action:" = "Action:";
+
+/* No comment provided by engineer. */
+"Activate for %d second(s)" = "Activate for %d second(s)";
+
+/* No comment provided by engineer. */
+"Activate for a while" = "Activate for a while";
+
+/* No comment provided by engineer. */
+"Activate seconds: %d" = "Activate seconds: %d";
+
+/* No comment provided by engineer. */
+"Active" = "Active";
+
+/* No comment provided by engineer. */
+"Active Barbee profile with name: ${profileName}" = "Active Barbee profile with name: ${profileName}";
+
+/* No comment provided by engineer. */
+"Active Barbee profile with name." = "Active Barbee profile with name.";
+
+/* No comment provided by engineer. */
+"Active Profile" = "Active Profile";
+
+/* No comment provided by engineer. */
+"Actived profile successfully" = "Actived profile successfully";
+
+/* No comment provided by engineer. */
+"Add" = "Add";
+
+/* No comment provided by engineer. */
+"Add/Remove menu bar inner shadow and drop shadow." = "Add/Remove menu bar inner shadow and drop shadow.";
+
+/* No comment provided by engineer. */
+"All Menu Bar Item" = "All Menu Bar Item";
+
+/* No comment provided by engineer. */
+"All menu bar items are visible on external screens" = "All menu bar items are visible on external screens";
+
+/* No comment provided by engineer. */
+"Alpha Value" = "Alpha Value";
+
+/* No comment provided by engineer. */
+"Always Hidden" = "Always Hidden";
+
+/* No comment provided by engineer. */
+"Always Hidden Items" = "Always Hidden Items";
+
+/* No comment provided by engineer. */
+"Always Hidden Items:" = "Always Hidden Items:";
+
+/* No comment provided by engineer. */
+"Always Hidden Menu Bar Item" = "Always Hidden Menu Bar Item";
+
+/* No comment provided by engineer. */
+"App Modules" = "App Modules";
+
+/* No comment provided by engineer. */
+"Apply" = "Apply";
+
+/* No comment provided by engineer. */
+"Authorize" = "Authorize";
+
+/* No comment provided by engineer. */
+"Automation" = "Automation";
+
+/* No comment provided by engineer. */
+"Automation feature requires additional permissions!" = "Automation feature requires additional permissions!";
+
+/* No comment provided by engineer. */
+"Backup profile successfully." = "Backup profile successfully.";
+
+/* No comment provided by engineer. */
+"Backup to iCloud drive" = "Backup to iCloud drive";
+
+/* No comment provided by engineer. */
+"Barbee requires Accessibility access to show/hide the menu bar items." = "Barbee requires Accessibility access to show/hide the menu bar items.";
+
+/* No comment provided by engineer. */
+"Barbee requires Screen Recording access to monitor the menu bar item list and capture the images of changed items." = "Barbee requires Screen Recording access to monitor the menu bar item list and capture the images of changed items.";
+
+/* No comment provided by engineer. */
+"Barbee requires your permissions to access system capabilities to provide its functionality. Please review the permissions below." = "Barbee requires your permissions to access system capabilities to provide its functionality. Please review the permissions below.";
+
+/* No comment provided by engineer. */
+"Become VIP to use without limitation" = "Become VIP to use without limitation";
+
+/* No comment provided by engineer. */
+"Beta Testing" = "Beta Testing";
+
+/* No comment provided by engineer. */
+"Bundle Identifier" = "Bundle Identifier";
+
+/* No comment provided by engineer. */
+"Change inner shadow state: ${innerShadowState}, drop shadow state: ${dropShadowState}" = "Change inner shadow state: ${innerShadowState}, drop shadow state: ${dropShadowState}";
+
+/* No comment provided by engineer. */
+"Change Menu Bar Color" = "Change Menu Bar Color";
+
+/* No comment provided by engineer. */
+"Change menu bar color: ${color}" = "Change menu bar color: ${color}";
+
+/* No comment provided by engineer. */
+"Change Menu Bar Shadow State" = "Change Menu Bar Shadow State";
+
+/* No comment provided by engineer. */
+"Change Top Notch State" = "Change Top Notch State";
+
+/* No comment provided by engineer. */
+"Change top notch state: ${state}" = "Change top notch state: ${state}";
+
+/* No comment provided by engineer. */
+"Change Wallpaper..." = "Change Wallpaper...";
+
+/* No comment provided by engineer. */
+"Change your current screen menu bar color, enter your color hex string(e.g. \"0AB188FF\"). Restore the color of the menu bar if the hex string is empty." = "Change your current screen menu bar color, enter your color hex string(e.g. \"0AB188FF\"). Restore the color of the menu bar if the hex string is empty.";
+
+/* No comment provided by engineer. */
+"Changing menu bar color requires user directory authorization" = "Changing menu bar color requires user directory authorization";
+
+/* No comment provided by engineer. */
+"Changing menu item gaps requires user directory authorization" = "Changing menu item gaps requires user directory authorization";
+
+/* No comment provided by engineer. */
+"Choose a menu bar item" = "Choose a menu bar item";
+
+/* No comment provided by engineer. */
+"Choose Barbee Mode" = "Choose Barbee Mode";
+
+/* No comment provided by engineer. */
+"Click menu bar item" = "Click menu bar item";
+
+/* No comment provided by engineer. */
+"Click Menu Bar Item (Enhanced mode only)" = "Click Menu Bar Item (Enhanced mode only)";
+
+/* No comment provided by engineer. */
+"Click menu bar item by identifier: ${itemIdentifier}" = "Click menu bar item by identifier: ${itemIdentifier}";
+
+/* No comment provided by engineer. */
+"Click menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "Click menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\").";
+
+/* No comment provided by engineer. */
+"Click on the menu bar Barbee icon to toggle the visibility of hidden items directly" = "Click on the menu bar Barbee icon to toggle the visibility of hidden items directly";
+
+/* No comment provided by engineer. */
+"Click on the menu bar to toggle the visibility of hidden items" = "Click on the menu bar to toggle the visibility of hidden items";
+
+/* No comment provided by engineer. */
+"Click the icon " = "Click the icon ";
+
+/* No comment provided by engineer. */
+"Close" = "Close";
+
+/* No comment provided by engineer. */
+"Color" = "Color";
+
+/* No comment provided by engineer. */
+"Configuration" = "Configuration";
+
+/* No comment provided by engineer. */
+"Confirm" = "Confirm";
+
+/* No comment provided by engineer. */
+"Content" = "Content";
+
+/* No comment provided by engineer. */
+"Continue" = "Continue";
+
+/* No comment provided by engineer. */
+"Corner Radius" = "Corner Radius";
+
+/* No comment provided by engineer. */
+"Current Item" = "Current Item";
+
+/* No comment provided by engineer. */
+"Custom shortcuts feature requires additional permissions!" = "Custom shortcuts feature requires additional permissions!";
+
+/* No comment provided by engineer. */
+"Dark Background Color" = "Dark Background Color";
+
+/* No comment provided by engineer. */
+"Default Gap - system default spacing between items" = "Default Gap - system default spacing between items";
+
+/* No comment provided by engineer. */
+"Delay before hiding items again." = "Delay before hiding items again.";
+
+/* No comment provided by engineer. */
+"Delete" = "Delete";
+
+/* No comment provided by engineer. */
+"Delete `%@`" = "Delete `%@`";
+
+/* No comment provided by engineer. */
+"Diagnostics" = "Diagnostics";
+
+/* No comment provided by engineer. */
+"Do you want to backup profiles to iCloud?" = "Do you want to backup profiles to iCloud?";
+
+/* No comment provided by engineer. */
+"Do you want to delete profile `%@`?" = "Do you want to delete profile `%@`?";
+
+/* No comment provided by engineer. */
+"Do you want to delete this automation?" = "Do you want to delete this automation?";
+
+/* No comment provided by engineer. */
+"Do you want to delete this shortcut?" = "Do you want to delete this shortcut?";
+
+/* No comment provided by engineer. */
+"Do you want to import this profile?" = "Do you want to import this profile?";
+
+/* No comment provided by engineer. */
+"Do you want to sync profiles from iCloud?" = "Do you want to sync profiles from iCloud?";
+
+/* No comment provided by engineer. */
+"Drop Shadow" = "Drop Shadow";
+
+/* No comment provided by engineer. */
+"Drop Shadow State" = "Drop Shadow State";
+
+/* No comment provided by engineer. */
+"Edit" = "Edit";
+
+/* No comment provided by engineer. */
+"Energy Saver" = "Energy Saver";
+
+/* No comment provided by engineer. */
+"Enhanced Mode" = "Enhanced Mode";
+
+/* No comment provided by engineer. */
+"Enhanced mode is only available for Notch screens" = "Enhanced mode is only available for Notch screens";
+
+/* No comment provided by engineer. */
+"Export" = "Export";
+
+/* No comment provided by engineer. */
+"Failed to active profile" = "Failed to active profile";
+
+/* No comment provided by engineer. */
+"Failed to backup profile." = "Failed to backup profile.";
+
+/* No comment provided by engineer. */
+"Failed to change menu item gap" = "Failed to change menu item gap";
+
+/* No comment provided by engineer. */
+"Failed to export profile." = "Failed to export profile.";
+
+/* No comment provided by engineer. */
+"Failed to import profile." = "Failed to import profile.";
+
+/* No comment provided by engineer. */
+"Failed to restore" = "Failed to restore";
+
+/* No comment provided by engineer. */
+"Failed to sync profile." = "Failed to sync profile.";
+
+/* No comment provided by engineer. */
+"Feedback" = "Feedback";
+
+/* No comment provided by engineer. */
+"For the setting to work, you must turn on Barbee's `Launch At Login`, log out and log back into macOS." = "For the setting to work, you must turn on Barbee's `Launch At Login`, log out and log back into macOS.";
+
+/* No comment provided by engineer. */
+"Found %d profile(s)" = "Found %d profile(s)";
+
+/* No comment provided by engineer. */
+"Frame" = "Frame";
+
+/* No comment provided by engineer. */
+"Generic" = "Generic";
+
+/* No comment provided by engineer. */
+"Get all menu bar items" = "Get all menu bar items";
+
+/* No comment provided by engineer. */
+"Get All Menu Bar Items" = "Get All Menu Bar Items";
+
+/* No comment provided by engineer. */
+"Get always hidden menu bar items" = "Get always hidden menu bar items";
+
+/* No comment provided by engineer. */
+"Get Always Hidden Menu Bar Items" = "Get Always Hidden Menu Bar Items";
+
+/* No comment provided by engineer. */
+"Get App Modules" = "Get App Modules";
+
+/* No comment provided by engineer. */
+"Get app modules using app bundle identifier: ${bundleIdentifier}" = "Get app modules using app bundle identifier: ${bundleIdentifier}";
+
+/* No comment provided by engineer. */
+"Get hidden menu bar items" = "Get hidden menu bar items";
+
+/* No comment provided by engineer. */
+"Get Hidden Menu Bar Items" = "Get Hidden Menu Bar Items";
+
+/* No comment provided by engineer. */
+"Get shown menu bar items" = "Get shown menu bar items";
+
+/* No comment provided by engineer. */
+"Get Shown Menu Bar Items" = "Get Shown Menu Bar Items";
+
+/* No comment provided by engineer. */
+"Get Started" = "Get Started";
+
+/* No comment provided by engineer. */
+"Go to Barbee preferences..." = "Go to Barbee preferences...";
+
+/* No comment provided by engineer. */
+"Grant Permissions to Barbee" = "Grant Permissions to Barbee";
+
+/* No comment provided by engineer. */
+"Has Top Notch" = "Has Top Notch";
+
+/* No comment provided by engineer. */
+"Has top notch?" = "Has top notch?";
+
+/* No comment provided by engineer. */
+"Height" = "Height";
+
+/* No comment provided by engineer. */
+"Help Center" = "Help Center";
+
+/* No comment provided by engineer. */
+"Hidden" = "Hidden";
+
+/* No comment provided by engineer. */
+"Hidden Items" = "Hidden Items";
+
+/* No comment provided by engineer. */
+"Hidden Items:" = "Hidden Items:";
+
+/* No comment provided by engineer. */
+"Hidden Menu Bar Item" = "Hidden Menu Bar Item";
+
+/* No comment provided by engineer. */
+"Hide" = "Hide";
+
+/* No comment provided by engineer. */
+"Hide All" = "Hide All";
+
+/* No comment provided by engineer. */
+"Hide Menu Bar Item (Enhanced mode only)" = "Hide Menu Bar Item (Enhanced mode only)";
+
+/* No comment provided by engineer. */
+"Hide menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "Hide menu bar item by identifier: ${itemIdentifier}, to X: ${x}";
+
+/* No comment provided by engineer. */
+"Hide menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional." = "Hide menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional.";
+
+/* No comment provided by engineer. */
+"Hide not-showing items" = "Hide not-showing items";
+
+/* No comment provided by engineer. */
+"Hold CONTROL(⌃) and click on the menu bar icon to show / hide all items" = "Hold CONTROL(⌃) and click on the menu bar icon to show / hide all items";
+
+/* No comment provided by engineer. */
+"Hold CONTROL(⌃) and click on the menu bar to show / hide all items" = "Hold CONTROL(⌃) and click on the menu bar to show / hide all items";
+
+/* No comment provided by engineer. */
+"Hold OPTION(⌥) and click on the menu bar icon to show / hide hidden items" = "Hold OPTION(⌥) and click on the menu bar icon to show / hide hidden items";
+
+/* No comment provided by engineer. */
+"Hold the COMMAND(⌘) to drag the menu bar items" = "Hold the COMMAND(⌘) to drag the menu bar items";
+
+/* No comment provided by engineer. */
+"Hovered" = "Hovered";
+
+/* No comment provided by engineer. */
+"Icon:" = "Icon:";
+
+/* No comment provided by engineer. */
+"If you encounter any problems or would like to help us improve, or localize Barbee, please feel free to contact us!" = "If you encounter any problems or would like to help us improve, or localize Barbee, please feel free to contact us!";
+
+/* No comment provided by engineer. */
+"If you want to use Barbee in normal mode, just remove the granted permissions in System Preferences." = "If you want to use Barbee in normal mode, just remove the granted permissions in System Preferences.";
+
+/* No comment provided by engineer. */
+"Import" = "Import";
+
+/* No comment provided by engineer. */
+"In the case of multiple screens, non-notch screens will use normal mode to show/hide menu bar items" = "In the case of multiple screens, non-notch screens will use normal mode to show/hide menu bar items";
+
+/* No comment provided by engineer. */
+"Inner Shadow" = "Inner Shadow";
+
+/* No comment provided by engineer. */
+"Inner Shadow State" = "Inner Shadow State";
+
+/* No comment provided by engineer. */
+"InterItem Horizontal Padding" = "InterItem Horizontal Padding";
+
+/* No comment provided by engineer. */
+"InterItem Vertical Padding" = "InterItem Vertical Padding";
+
+/* No comment provided by engineer. */
+"Is Menu Bar Visible" = "Is Menu Bar Visible";
+
+/* No comment provided by engineer. */
+"Is menu bar visible?" = "Is menu bar visible?";
+
+/* No comment provided by engineer. */
+"Is Movable by Window Background" = "Is Movable by Window Background";
+
+/* No comment provided by engineer. */
+"Item has any changes" = "Item has any changes";
+
+/* No comment provided by engineer. */
+"Item Identifier" = "Item Identifier";
+
+/* No comment provided by engineer. */
+"Items" = "Items";
+
+/* No comment provided by engineer. */
+"Items dragged to the left will be always hidden. Hold the command ⌘ key to drag the items in menu bar." = "Items dragged to the left will be always hidden. Hold the command ⌘ key to drag the items in menu bar.";
+
+/* No comment provided by engineer. */
+"Items dragged to the left will be hidden. Hold the command ⌘ key to drag the items in menu bar." = "Items dragged to the left will be hidden. Hold the command ⌘ key to drag the items in menu bar.";
+
+/* No comment provided by engineer. */
+"Items on the left side of the icon " = "Items on the left side of the icon ";
+
+/* No comment provided by engineer. */
+"Launch At Login" = "Launch At Login";
+
+/* No comment provided by engineer. */
+"Level" = "Level";
+
+/* No comment provided by engineer. */
+"Lifetime" = "Lifetime";
+
+/* No comment provided by engineer. */
+"Lifetime - %@" = "Lifetime - %@";
+
+/* No comment provided by engineer. */
+"Light Background Color" = "Light Background Color";
+
+/* No comment provided by engineer. */
+"Lowest" = "Lowest";
+
+/* No comment provided by engineer. */
+"macOS log out required" = "macOS log out required";
+
+/* No comment provided by engineer. */
+"Makes the notch disappear like a NINJA 🥷. (You can also set the menu bar color to ⬛️)" = "Makes the notch disappear like a NINJA 🥷. (You can also set the menu bar color to ⬛️)";
+
+/* No comment provided by engineer. */
+"Manage App Modules in Menu Bar" = "Manage App Modules in Menu Bar";
+
+/* No comment provided by engineer. */
+"Manage System Modules in Menu Bar" = "Manage System Modules in Menu Bar";
+
+/* No comment provided by engineer. */
+"Managing app modules requires user directory authorization" = "Managing app modules requires user directory authorization";
+
+/* No comment provided by engineer. */
+"Menu Bar" = "Menu Bar";
+
+/* No comment provided by engineer. */
+"Menu Bar Appearance" = "Menu Bar Appearance";
+
+/* No comment provided by engineer. */
+"Menu Bar Color:" = "Menu Bar Color:";
+
+/* No comment provided by engineer. */
+"Menu Bar Item Gap:" = "Menu Bar Item Gap:";
+
+/* No comment provided by engineer. */
+"Menu Bar Layout" = "Menu Bar Layout";
+
+/* No comment provided by engineer. */
+"Menu Bar Layout feature requires additional permissions!" = "Menu Bar Layout feature requires additional permissions!";
+
+/* No comment provided by engineer. */
+"Menu Bar Shadow:" = "Menu Bar Shadow:";
+
+/* No comment provided by engineer. */
+"Menu Bar:" = "Menu Bar:";
+
+/* No comment provided by engineer. */
+"Mode has been changed successfully" = "Mode has been changed successfully";
+
+/* No comment provided by engineer. */
+"Mode:" = "Mode:";
+
+/* No comment provided by engineer. */
+"More" = "More";
+
+/* No comment provided by engineer. */
+"Multi-screen:" = "Multi-screen:";
+
+/* No comment provided by engineer. */
+"Name" = "Name";
+
+/* No comment provided by engineer. */
+"Name:" = "Name:";
+
+/* No comment provided by engineer. */
+"New" = "New";
+
+/* No comment provided by engineer. */
+"New Items Location" = "New Items Location";
+
+/* No comment provided by engineer. */
+"🆕️ Request new features" = "🆕️ Request new features";
+
+/* No comment provided by engineer. */
+"New Single Widget..." = "New Single Widget...";
+
+/* No comment provided by engineer. */
+"New Widget" = "New Widget";
+
+/* No comment provided by engineer. */
+"New Widget Group" = "New Widget Group";
+
+/* No comment provided by engineer. */
+"New Widget Group..." = "New Widget Group...";
+
+/* No comment provided by engineer. */
+"Newly discovered menu bar items will be moved to:" = "Newly discovered menu bar items will be moved to:";
+
+/* No comment provided by engineer. */
+"No" = "No";
+
+/* No comment provided by engineer. */
+"No action" = "No action";
+
+/* No comment provided by engineer. */
+"No backups" = "No backups";
+
+/* No comment provided by engineer. */
+"No configurable app modules found" = "No configurable app modules found";
+
+/* No comment provided by engineer. */
+"No Gap - no spacing between items" = "No Gap - no spacing between items";
+
+/* No comment provided by engineer. */
+"No matching results" = "No matching results";
+
+/* No comment provided by engineer. */
+"Non-subscription, totally free" = "Non-subscription, totally free";
+
+/* No comment provided by engineer. */
+"Normal" = "Normal";
+
+/* No comment provided by engineer. */
+"Normal Gap - normal spacing between items" = "Normal Gap - normal spacing between items";
+
+/* No comment provided by engineer. */
+"Normal Mode" = "Normal Mode";
+
+/* No comment provided by engineer. */
+"Not Now" = "Not Now";
+
+/* No comment provided by engineer. */
+"Notch:" = "Notch:";
+
+/* No comment provided by engineer. */
+"Ok" = "Ok";
+
+/* No comment provided by engineer. */
+"One-time purchase" = "One-time purchase";
+
+/* No comment provided by engineer. */
+"Oops, No Hidden Items! 🔥️You can arrange items in the Preferences." = "Oops, No Hidden Items! 🔥️You can arrange items in the Preferences.";
+
+/* No comment provided by engineer. */
+"Open System Preferences..." = "Open System Preferences...";
+
+/* No comment provided by engineer. */
+"Please hold command(⌘) and drag the `<`, `|` and `Barbee icons` in the menu bar and place them in the correct order. The order is: always hidden icons `<` hidden icons `|` shown icons `Barbee icon`." = "Please hold command(⌘) and drag the `<`, `|` and `Barbee icons` in the menu bar and place them in the correct order. The order is: always hidden icons `<` hidden icons `|` shown icons `Barbee icon`.";
+
+/* No comment provided by engineer. */
+"Preferences" = "Preferences";
+
+/* No comment provided by engineer. */
+"Preferences..." = "Preferences...";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Privacy Policy";
+
+/* No comment provided by engineer. */
+"Profile" = "Profile";
+
+/* No comment provided by engineer. */
+"Profile Entry:" = "Profile Entry:";
+
+/* No comment provided by engineer. */
+"Profile Name" = "Profile Name";
+
+/* No comment provided by engineer. */
+"Purchase & Restore" = "Purchase & Restore";
+
+/* No comment provided by engineer. */
+"Quick Search" = "Quick Search";
+
+/* No comment provided by engineer. */
+"Quick Search Entry:" = "Quick Search Entry:";
+
+/* No comment provided by engineer. */
+"Quick Search feature requires additional permissions!" = "Quick Search feature requires additional permissions!";
+
+/* No comment provided by engineer. */
+"Quick Search:" = "Quick Search:";
+
+/* No comment provided by engineer. */
+"Quick Start Guide" = "Quick Start Guide";
+
+/* No comment provided by engineer. */
+"Quit" = "Quit";
+
+/* No comment provided by engineer. */
+"Recommended for users with a large screen or no icons hidden by the system." = "Recommended for users with a large screen or no icons hidden by the system.";
+
+/* No comment provided by engineer. */
+"Recommended for users with bangs on the screen or users with hidden icons in the system." = "Recommended for users with bangs on the screen or users with hidden icons in the system.";
+
+/* No comment provided by engineer. */
+"Reduce Refresh Rate When Using Battery Power" = "Reduce Refresh Rate When Using Battery Power";
+
+/* No comment provided by engineer. */
+"Refresh" = "Refresh";
+
+/* No comment provided by engineer. */
+"Refresh Interval in Seconds" = "Refresh Interval in Seconds";
+
+/* No comment provided by engineer. */
+"Refresh menu bar items" = "Refresh menu bar items";
+
+/* No comment provided by engineer. */
+"Refresh Menu Bar Items" = "Refresh Menu Bar Items";
+
+/* No comment provided by engineer. */
+"Related Item:" = "Related Item:";
+
+/* No comment provided by engineer. */
+"Reduce useable screen space to mask notch" = "Reduce useable screen space to mask notch";
+
+/* No comment provided by engineer. */
+"Remove/Add top notch when you use the notched Mac." = "Remove/Add top notch when you use the notched Mac.";
+
+/* No comment provided by engineer. */
+"Request Access..." = "Request Access...";
+
+/* No comment provided by engineer. */
+"Reset" = "Reset";
+
+/* No comment provided by engineer. */
+"Restore Purchase" = "Restore Purchase";
+
+/* No comment provided by engineer. */
+"Restore successfully! If it still doesn't work, please reinstall the app." = "Restore successfully! If it still doesn't work, please reinstall the app.";
+
+/* No comment provided by engineer. */
+"Returns all menu bar items." = "Returns all menu bar items.";
+
+/* No comment provided by engineer. */
+"Returns always hidden menu bar items." = "Returns always hidden menu bar items.";
+
+/* No comment provided by engineer. */
+"Returns app modules using app bundle identifier." = "Returns app modules using app bundle identifier.";
+
+/* No comment provided by engineer. */
+"Returns hidden menu bar items." = "Returns hidden menu bar items.";
+
+/* No comment provided by engineer. */
+"Returns shown menu bar items." = "Returns shown menu bar items.";
+
+/* No comment provided by engineer. */
+"Returns whether the current active scrren has top notch." = "Returns whether the current active scrren has top notch.";
+
+/* No comment provided by engineer. */
+"Returns whether the current active scrren menu bar is visible." = "Returns whether the current active scrren menu bar is visible.";
+
+/* No comment provided by engineer. */
+"Reveal In Finder" = "Reveal In Finder";
+
+/* No comment provided by engineer. */
+"Scopes:" = "Scopes:";
+
+/* No comment provided by engineer. */
+"Screen Recording" = "Screen Recording";
+
+/* No comment provided by engineer. */
+"Search for a menu bar item" = "Search for a menu bar item";
+
+/* No comment provided by engineer. */
+"Select" = "Select";
+
+/* No comment provided by engineer. */
+"Select a related menu bar item" = "Select a related menu bar item";
+
+/* No comment provided by engineer. */
+"Select..." = "Select...";
+
+/* No comment provided by engineer. */
+"Shortcut to show / hide all items:" = "Shortcut to show / hide all items:";
+
+/* No comment provided by engineer. */
+"Shortcut to show / hide hidden items:" = "Shortcut to show / hide hidden items:";
+
+/* No comment provided by engineer. */
+"Shortcut:" = "Shortcut:";
+
+/* No comment provided by engineer. */
+"Shortcuts" = "Shortcuts";
+
+/* No comment provided by engineer. */
+"Show" = "Show";
+
+/* No comment provided by engineer. */
+"Show all" = "Show all";
+
+/* No comment provided by engineer. */
+"Show All" = "Show All";
+
+/* No comment provided by engineer. */
+"Show all menu bar items" = "Show all menu bar items";
+
+/* No comment provided by engineer. */
+"Show Entry in Menu" = "Show Entry in Menu";
+
+/* No comment provided by engineer. */
+"Show hidden menu bar items" = "Show hidden menu bar items";
+
+/* No comment provided by engineer. */
+"Show in All Spaces" = "Show in All Spaces";
+
+/* No comment provided by engineer. */
+"Show Menu Bar Item (Enhanced mode only)" = "Show Menu Bar Item (Enhanced mode only)";
+
+/* No comment provided by engineer. */
+"Show menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "Show menu bar item by identifier: ${itemIdentifier}, to X: ${x}";
+
+/* No comment provided by engineer. */
+"Show menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional." = "Show menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional.";
+
+/* No comment provided by engineer. */
+"Show Profile in Menu" = "Show Profile in Menu";
+
+/* No comment provided by engineer. */
+"Shown Items" = "Shown Items";
+
+/* No comment provided by engineer. */
+"Shown Items:" = "Shown Items:";
+
+/* No comment provided by engineer. */
+"Shown Menu Bar Item" = "Shown Menu Bar Item";
+
+/* No comment provided by engineer. */
+"Small Gap - proper spacing between items" = "Small Gap - proper spacing between items";
+
+/* No comment provided by engineer. */
+"Some of the menu bar items will be moved into a separate menu bar in enhanced mode, this mode requires the user to authorize some necessary permissions (Screen Recording & Accessibility), but there will be no extra permission requests in the normal mode." = "Some of the menu bar items will be moved into a separate menu bar in enhanced mode, this mode requires the user to authorize some necessary permissions (Screen Recording & Accessibility), but there will be no extra permission requests in the normal mode.";
+
+/* No comment provided by engineer. */
+"Something Wrong?" = "Something Wrong?";
+
+/* No comment provided by engineer. */
+"🆘 If the app still prompts that there is no permission after you authorize Barbee, please cancel the authorization of Barbee and delete Barbee in the authorization list, then relaunch Barbee and grant permissions again." = "🆘 If the app still prompts that there is no permission after you authorize Barbee, please cancel the authorization of Barbee and delete Barbee in the authorization list, then relaunch Barbee and grant permissions again.";
+
+/* No comment provided by engineer. */
+"Start" = "Start";
+
+/* No comment provided by engineer. */
+"Start BarBee automatically at login." = "Start BarBee automatically at login.";
+
+/* No comment provided by engineer. */
+"Startup:" = "Startup:";
+
+/* No comment provided by engineer. */
+"State" = "State";
+
+/* No comment provided by engineer. */
+"Switch App Module State" = "Switch App Module State";
+
+/* No comment provided by engineer. */
+"Switch Barbee Mode" = "Switch Barbee Mode";
+
+/* No comment provided by engineer. */
+"Switch the app module state in menu bar by its identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "Switch the app module state in menu bar by its identifier(e.g. \"com.apple.controlcenter-WiFi\").";
+
+/* No comment provided by engineer. */
+"Switch the app module state:${state} in menu bar by its identifier: ${itemIdentifier}" = "Switch the app module state:${state} in menu bar by its identifier: ${itemIdentifier}";
+
+/* No comment provided by engineer. */
+"Switch to Enhanced Mode" = "Switch to Enhanced Mode";
+
+/* No comment provided by engineer. */
+"Switch to Normal Mode" = "Switch to Normal Mode";
+
+/* No comment provided by engineer. */
+"Symbol:" = "Symbol:";
+
+/* No comment provided by engineer. */
+"Sync from iCloud drive" = "Sync from iCloud drive";
+
+/* No comment provided by engineer. */
+"Sync profile successfully." = "Sync profile successfully.";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Terms of Use";
+
+/* No comment provided by engineer. */
+"Thanks for purchasing Barbee VIP" = "Thanks for purchasing Barbee VIP";
+
+/* No comment provided by engineer. */
+"Thanks for trying Barbee" = "Thanks for trying Barbee";
+
+/* No comment provided by engineer. */
+"The automation will be deleted and changes take effect immediately" = "The automation will be deleted and changes take effect immediately";
+
+/* No comment provided by engineer. */
+"The beta version may contain bugs or cause issues. Any feedback you can provide is always greatly appreciated." = "The beta version may contain bugs or cause issues. Any feedback you can provide is always greatly appreciated.";
+
+/* No comment provided by engineer. */
+"The changes have been saved, and it will take effect after exiting and restarting the app `%@`." = "The changes have been saved, and it will take effect after exiting and restarting the app `%@`.";
+
+/* No comment provided by engineer. */
+"The following modules have been found that may be displayed in the menu bar, you can enable or disable them." = "The following modules have been found that may be displayed in the menu bar, you can enable or disable them.";
+
+/* No comment provided by engineer. */
+"The hidden menu bar icon will appear in a separate menu bar in the upper right corner." = "The hidden menu bar icon will appear in a separate menu bar in the upper right corner.";
+
+/* No comment provided by engineer. */
+"The hidden menu bar icons will be collapsed." = "The hidden menu bar icons will be collapsed.";
+
+/* No comment provided by engineer. */
+"The hover area of the menu bar include the app menu and Apple logo area" = "The hover area of the menu bar include the app menu and Apple logo area";
+
+/* No comment provided by engineer. */
+"The iCloud profiles will be replaced by the local profiles, which cannot be restored." = "The iCloud profiles will be replaced by the local profiles, which cannot be restored.";
+
+/* No comment provided by engineer. */
+"The item is invisible" = "The item is invisible";
+
+/* No comment provided by engineer. */
+"The item is invisible because of the top notch, you can hide the notch, adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "The item is invisible because of the top notch, you can hide the notch, adjust the resolution of the display or reduce the number of visible items in the Barbee preferences.";
+
+/* No comment provided by engineer. */
+"The item is invisible because the menu bar does not have enough space, you can adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "The item is invisible because the menu bar does not have enough space, you can adjust the resolution of the display or reduce the number of visible items in the Barbee preferences.";
+
+/* No comment provided by engineer. */
+"The local profiles will be replaced by the iCloud profiles, which cannot be restored." = "The local profiles will be replaced by the iCloud profiles, which cannot be restored.";
+
+/* No comment provided by engineer. */
+"The profile has been exported." = "The profile has been exported.";
+
+/* No comment provided by engineer. */
+"The profile has been imported." = "The profile has been imported.";
+
+/* No comment provided by engineer. */
+"The selected item is not in the menu bar now" = "The selected item is not in the menu bar now";
+
+/* No comment provided by engineer. */
+"The shadow below the menu bar" = "The shadow below the menu bar";
+
+/* No comment provided by engineer. */
+"The shadow in the menu bar" = "The shadow in the menu bar";
+
+/* No comment provided by engineer. */
+"The shortcut will be deleted and changes take effect immediately" = "The shortcut will be deleted and changes take effect immediately";
+
+/* No comment provided by engineer. */
+"Then: %@" = "Then: %@";
+
+/* No comment provided by engineer. */
+"Top Notch" = "Top Notch";
+
+/* No comment provided by engineer. */
+"Topmost" = "Topmost";
+
+/* No comment provided by engineer. */
+"Trigger:" = "Trigger:";
+
+/* No comment provided by engineer. */
+"Upgrade to Barbee VIP" = "Upgrade to Barbee VIP";
+
+/* No comment provided by engineer. */
+"Use Barbee in enhanced mode?" = "Use Barbee in enhanced mode?";
+
+/* No comment provided by engineer. */
+"Use in Shortcuts" = "Use in Shortcuts";
+
+/* No comment provided by engineer. */
+"View iCloud profiles" = "View iCloud profiles";
+
+/* No comment provided by engineer. */
+"View URL Schemes" = "View URL Schemes";
+
+/* No comment provided by engineer. */
+"Welcome to Barbee!" = "Welcome to Barbee!";
+
+/* No comment provided by engineer. */
+"When hovering for more than a certain period of time, show hidden items." = "When hovering for more than a certain period of time, show hidden items.";
+
+/* No comment provided by engineer. */
+"When hovering over the menu bar, hidden items will be shown automatically" = "When hovering over the menu bar, hidden items will be shown automatically";
+
+/* No comment provided by engineer. */
+"When hovering over the menu of the app or the Apple(🍎) logo, hidden items will be also shown automatically" = "When hovering over the menu of the app or the Apple(🍎) logo, hidden items will be also shown automatically";
+
+/* No comment provided by engineer. */
+"When leaving the menu bar, hidden items will be hidden again" = "When leaving the menu bar, hidden items will be hidden again";
+
+/* No comment provided by engineer. */
+"When the external screen becomes the focus, all menu bar items will be visible, and when the focus is lost, they will be hidden again." = "When the external screen becomes the focus, all menu bar items will be visible, and when the focus is lost, they will be hidden again.";
+
+/* No comment provided by engineer. */
+"When there is a problem with Barbee, you can try to relaunch Barbee to solve this problem." = "When there is a problem with Barbee, you can try to relaunch Barbee to solve this problem.";
+
+/* No comment provided by engineer. */
+"When you click on the blank area of the menu bar, Barbee will toggle showing hidden items." = "When you click on the blank area of the menu bar, Barbee will toggle showing hidden items.";
+
+/* No comment provided by engineer. */
+"When you click on the menu bar icon, Barbee will toggle showing hidden items instead of Barbee menu. The Barbee menu will be displayed when you right-click the menu bar icon." = "When you click on the menu bar icon, Barbee will toggle showing hidden items instead of Barbee menu. The Barbee menu will be displayed when you right-click the menu bar icon.";
+
+/* No comment provided by engineer. */
+"When you hold CONTROL(⌃) and click on the menu bar icon, Barbee will toggle showing / hiding all items." = "When you hold CONTROL(⌃) and click on the menu bar icon, Barbee will toggle showing / hiding all items.";
+
+/* No comment provided by engineer. */
+"When you hold CONTROL(⌃) and click on the menu bar, Barbee will toggle showing / hiding all items." = "When you hold CONTROL(⌃) and click on the menu bar, Barbee will toggle showing / hiding all items.";
+
+/* No comment provided by engineer. */
+"When you hold OPTION(⌥) and click on the menu bar icon, Barbee will toggle showing / hiding hidden items." = "When you hold OPTION(⌥) and click on the menu bar icon, Barbee will toggle showing / hiding hidden items.";
+
+/* No comment provided by engineer. */
+"When: %@" = "When: %@";
+
+/* No comment provided by engineer. */
+"Which mode of tutorial would you like to see?" = "Which mode of tutorial would you like to see?";
+
+/* No comment provided by engineer. */
+"Widget" = "Widget";
+
+/* No comment provided by engineer. */
+"Widget Entry:" = "Widget Entry:";
+
+/* No comment provided by engineer. */
+"Widget feature requires additional permissions!" = "Widget feature requires additional permissions!";
+
+/* No comment provided by engineer. */
+"Width" = "Width";
+
+/* No comment provided by engineer. */
+"Wrong order of Barbee menu bar icons" = "Wrong order of Barbee menu bar icons";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"Y" = "Y";
+
+/* No comment provided by engineer. */
+"Yes" = "Yes";
+
+/* No comment provided by engineer. */
+"You can check out the quick start guide to learn more about the two modes of Barbee." = "You can check out the quick start guide to learn more about the two modes of Barbee.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Profile` entry in Barbee's menu." = "You can enable or disable the `Profile` entry in Barbee's menu.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Quick Search` entry in Barbee's menu." = "You can enable or disable the `Quick Search` entry in Barbee's menu.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Widget` entry in Barbee's menu." = "You can enable or disable the `Widget` entry in Barbee's menu.";
+
+/* No comment provided by engineer. */
+"You can export diagnostic logs and send them back to the developer, which can help the developer resolve your issue." = "You can export diagnostic logs and send them back to the developer, which can help the developer resolve your issue.";
+
+/* No comment provided by engineer. */
+"You can modify the layout of the extra menu bar in the app's preferences window" = "You can modify the layout of the extra menu bar in the app's preferences window";
+
+/* No comment provided by engineer. */
+"You have unlocked all the features for 3 days, enjoy it now!" = "You have unlocked all the features for 3 days, enjoy it now!";
+
+/* No comment provided by engineer. */
+"You have unlocked all the features, enjoy it now!" = "You have unlocked all the features, enjoy it now!";
+
+/* No comment provided by engineer. */
+"Arrange" = "Arrange";
+
+/* No comment provided by engineer. */
+"• Cloud backup and sync profiles" = "• Cloud backup and sync profiles";
+
+/* No comment provided by engineer. */
+"• Supercharge your scripts or shortcuts with Barbee" = "• Supercharge your scripts or shortcuts with Barbee";
+
+/* No comment provided by engineer. */
+"No items found" = "No items found";
+
+/* No comment provided by engineer. */
+"This prompt will appear when Barbee is running on the new macOS to capture the screenshot of menu bar items. \\n⛔️ Barbee is an offline app with no network permissions." = "This prompt will appear when Barbee is running on the new macOS to capture the screenshot of menu bar items. \n⛔️ Barbee is an offline app with no network permissions.";
+
+/* No comment provided by engineer. */
+"Got it" = "Got it";
+
+/* No comment provided by engineer. */
+"🧮 Restore Patches" = "🧮 Restore Patches";
+
+/* No comment provided by engineer. */
+"Reset All Permissions" = "Reset All Permissions";
+
+/* No comment provided by engineer. */
+"Do you want to import this patch?" = "Do you want to import this patch?";
+
+/* No comment provided by engineer. */
+"The patch has been imported." = "The patch has been imported.";
+
+/* No comment provided by engineer. */
+"Failed to import patch." = "Failed to import patch.";
+
+/* No comment provided by engineer. */
+"Active Symbol" = "Active Symbol";
+
+/* No comment provided by engineer. */
+"Active Barbee symbol with number: ${number}" = "Active Barbee symbol with number: ${number}";
+
+/* No comment provided by engineer. */
+"Active Barbee symbol with number." = "Active Barbee symbol with number.";
+
+/* No comment provided by engineer. */
+"Symbol Number" = "Symbol Number";
+
+/* No comment provided by engineer. */
+"Text" = "Text";
+
+/* No comment provided by engineer. */
+"Image" = "Image";
+
+/* No comment provided by engineer. */
+"Search" = "Search";
+
+/* No comment provided by engineer. */
+"Cancel" = "Cancel";
+
+/* No comment provided by engineer. */
+"Launch Barbee at login?" = "Launch Barbee at login?";
+
+/* No comment provided by engineer. */
+"It is strongly recommended to launch Barbee at login, do you want to enable it?" = "It is strongly recommended to launch Barbee at login, do you want to enable it?";
+
+/* No comment provided by engineer. */
+"Rate on Mac App Store" = "Rate on Mac App Store";
+
+/* No comment provided by engineer. */
+"Rate Now" = "Rate Now";
+
+/* No comment provided by engineer. */
+"Love Barbee?" = "Love Barbee?";
+
+/* No comment provided by engineer. */
+"Whether you do love Barbee or feel we could be doing better, we want to know!" = "Whether you do love Barbee or feel we could be doing better, we want to know!";
+
+/* No comment provided by engineer. */
+"Barbee's menu bar icon has been hidden" = "Barbee's menu bar icon has been hidden";
+
+/* No comment provided by engineer. */
+"You can change the location of Barbee's menu bar icon in the `Menu Bar Layout` setting" = "You can change the location of Barbee's menu bar icon in the `Menu Bar Layout` setting";
+
+/* No comment provided by engineer. */
+"Ignore" = "Ignore";
+
+/* No comment provided by engineer. */
+"The icon may persist in the menu bar. Using this feature may impact user experience." = "The icon may persist in the menu bar. Using this feature may impact user experience.";
+
+/* No comment provided by engineer. */
+"Cursor Keeps Flickering?" = "Cursor Keeps Flickering?";
+
+/* No comment provided by engineer. */
+"If your cursor keeps flickering, you can try to click the button to fix cursor flickering." = "If your cursor keeps flickering, you can try to click the button to fix cursor flickering.";
+
+/* No comment provided by engineer. */
+"🔨 Fix cursor issues" = "🔨 Fix cursor issues";
+
+/* No comment provided by engineer. */
+"Fixed cursor issues successfully" = "Fixed cursor issues successfully";
+
+/* No comment provided by engineer. */
+"Failed to fix cursor issues" = "Failed to fix cursor issues";
+
+/* No comment provided by engineer. */
+"Menu Bar Style:" = "Menu Bar Style:";
+
+/* No comment provided by engineer. */
+"Menu Bar Size:" = "Menu Bar Size:";
+
+/* No comment provided by engineer. */
+"Unified" = "Unified";
+
+/* No comment provided by engineer. */
+"Separated" = "Separated";
+
+/* No comment provided by engineer. */
+"Regular" = "Regular";
+
+/* No comment provided by engineer. */
+"Thin" = "Thin";
+
+/* No comment provided by engineer. */
+"Mini" = "Mini";
+
+/* No comment provided by engineer. */
+"Menu Bar Tint:" = "Menu Bar Tint:";
+
+/* No comment provided by engineer. */
+"⬅️Left" = "⬅️Left";
+
+/* No comment provided by engineer. */
+"Right➡️" = "Right➡️";
+
+/* No comment provided by engineer. */
+"Menu Bar Corner Radius:" = "Menu Bar Corner Radius:";
+
+/* No comment provided by engineer. */
+"Default" = "Default";
+
+/* No comment provided by engineer. */
+"Menu Bar Border Color:" = "Menu Bar Border Color:";
+
+/* No comment provided by engineer. */
+"Menu Bar Border Width:" = "Menu Bar Border Width:";
+
+/* No comment provided by engineer. */
+"Thank you to everyone who supports Barbee🖤.\\nYour encouragement is the fuel that keeps me going.\\n\\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\\n👋 please reach out. You will get if for free🆓️. \\n\\n🌐️ If you can help translate Barbee into your languages or improve Barbee's translations, \\nyou will have the lifetime version and your name will be listed in the contributors of Barbee." = "Thank you to everyone who supports Barbee🖤.\nYour encouragement is the fuel that keeps me going.\n\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\n👋 please reach out. You will get if for free🆓️. \n\n🌐️ If you can help translate Barbee into your languages or improve Barbee's translations, \nyou will have the lifetime version and your name will be listed in the contributors of Barbee.";
+
+/* No comment provided by engineer. */
+"Get it for free" = "Get it for free";
+
+/* No comment provided by engineer. */
+"Use redeem code" = "Use redeem code";
+
+/* No comment provided by engineer. */
+"Award" = "Award";
+
+/* No comment provided by engineer. */
+"Yearly" = "Yearly";
+
+/* No comment provided by engineer. */
+"Yearly VIP membership subscription" = "Yearly VIP membership subscription";
+
+/* No comment provided by engineer. */
+"Yearly - %@" = "Yearly - %@";
+
+/* No comment provided by engineer. */
+"Your payment will be charged to your iTunes Account once you confirm your purchase. Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase." = "Your payment will be charged to your iTunes Account once you confirm your purchase. Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase.";
+
+/* No comment provided by engineer. */
+"Manage Subscription" = "Manage Subscription";
+
+/* No comment provided by engineer. */
+"When the screen width is wide enough, menu bar icons will be no longer hidden" = "When the screen width is wide enough, menu bar icons will be no longer hidden";
+
+/* No comment provided by engineer. */
+"The screen width threshold" = "The screen width threshold";
+
+/* No comment provided by engineer. */
+"pixel(s)" = "pixel(s)";
+
+/* No comment provided by engineer. */
+"Found screen size(s):" = "Found screen size(s):";
+
+/* No comment provided by engineer. */
+"Reset All" = "Reset All";
+
+/* No comment provided by engineer. */
+"Reset to default appearance:" = "Reset to default appearance:";
+
+/* No comment provided by engineer. */
+"Follow us" = "Follow us";
+
+/* No comment provided by engineer. */
+"Translate Barbee" = "Translate Barbee";
+
+/* No comment provided by engineer. */
+"Start Translating" = "Start Translating";
+
+/* No comment provided by engineer. */
+"💦Contributors" = "💦Contributors";
+
+/* No comment provided by engineer. */
+"Special thanks to users for helping with Barbee Localization! 🌍🌎🌏" = "Special thanks to users for helping with Barbee Localization! 🌍🌎🌏";
+
+/* No comment provided by engineer. */
+"👋Translating Barbee" = "👋Translating Barbee";
+
+/* No comment provided by engineer. */
+"If you want to help translate Barbee into other languages or improve existing translations, we would very appreciate that." = "If you want to help translate Barbee into other languages or improve existing translations, we would very appreciate that.";
+
+/* No comment provided by engineer. */
+"Optimization:" = "Optimization:";
+
+/* No comment provided by engineer. */
+"Reduce the interference of the `Screen Recording` icon" = "Reduce the interference of the `Screen Recording` icon";
+
+/* No comment provided by engineer. */
+"Reduce the refresh frequency of the menu bar icon and optimize the appearance probability of the `Screen Recording` icon." = "Reduce the refresh frequency of the menu bar icon and optimize the appearance probability of the `Screen Recording` icon.";
+
+/* No comment provided by engineer. */
+"Special thanks to:" = "Special thanks to:";
+
+/* No comment provided by engineer. */
+"Optimize the cursor click, unable to move, flicker and disappear issues" = "Optimize the cursor click, unable to move, flicker and disappear issues";
+
+/* No comment provided by engineer. */
+"Use the more optimized menu bar icon management algorithm" = "Use the more optimized menu bar icon management algorithm";
