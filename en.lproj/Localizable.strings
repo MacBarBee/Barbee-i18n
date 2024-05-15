@@ -1302,3 +1302,6 @@
 
 /* No comment provided by engineer. */
 "Use the more optimized menu bar icon management algorithm" = "Use the more optimized menu bar icon management algorithm";
+
+/* No comment provided by engineer. */
+"Tip: You can also hold down command ⌘ and drag the icon in the menu bar to change the menu bar layout." = "Tip: You can also hold down command ⌘ and drag the icon in the menu bar to change the menu bar layout.";
