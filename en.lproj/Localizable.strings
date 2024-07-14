@@ -1305,3 +1305,78 @@
 
 /* No comment provided by engineer. */
 "Tip: You can also hold down command ⌘ and drag the icon in the menu bar to change the menu bar layout." = "Tip: You can also hold down command ⌘ and drag the icon in the menu bar to change the menu bar layout.";
+
+/* No comment provided by engineer. */
+"Special Item Library:" = "Special Item Library:";
+
+/* No comment provided by engineer. */
+"Add spacer between items" = "Add spacer between items";
+
+/* No comment provided by engineer. */
+"Put items into a group" = "Put items into a group";
+
+/* No comment provided by engineer. */
+"Spacer width: %d" = "Spacer width: %d";
+
+/* No comment provided by engineer. */
+"Width:" = "Width:";
+
+/* No comment provided by engineer. */
+"Spacer width: %d" = "Spacer width: %d";
+
+/* No comment provided by engineer. */
+"Automatically hide other items before showing hidden items" = "Automatically hide other items before showing hidden items";
+
+/* No comment provided by engineer. */
+"Show hidden items more concisely and focused, but only works in 'Enhanced Mode'" = "Show hidden items more concisely and focused, but only works in 'Enhanced Mode'";
+
+/* No comment provided by engineer. */
+"Items in group:" = "Items in group:";
+
+/* No comment provided by engineer. */
+"Candidates:" = "Candidates:";
+
+/* No comment provided by engineer. */
+"Group: %@" = "Group: %@";
+
+/* No comment provided by engineer. */
+"No name" = "No name";
+
+/* No comment provided by engineer. */
+"Drop down menu bar participates in macOS window cycling" = "Drop down menu bar participates in macOS window cycling";
+
+/* No comment provided by engineer. */
+"The drop down menu bar can become the user's active window." = "The drop down menu bar can become the user's active window.";
+
+/* No comment provided by engineer. */
+"Show group on click" = "Show group on click";
+
+/* No comment provided by engineer. */
+"Show group on hover" = "Show group on hover";
+
+/* No comment provided by engineer. */
+"Auto sync with iCloud" = "Auto sync with iCloud";
+
+/* No comment provided by engineer. */
+"Rename" = "Rename";
+
+/* No comment provided by engineer. */
+"Matches icon state" = "Matches icon state";
+
+/* No comment provided by engineer. */
+"Does not match icon state" = "Does not match icon state";
+
+/* No comment provided by engineer. */
+"Battery state" = "Battery state";
+
+/* No comment provided by engineer. */
+"Power source" = "Power source";
+
+/* No comment provided by engineer. */
+"⚡️Any Power Source" = "⚡️Any Power Source";
+
+/* No comment provided by engineer. */
+"🔋 Battery" = "🔋 Battery";
+
+/* No comment provided by engineer. */
+"🔌 Power Adapter" = "🔌 Power Adapter";
