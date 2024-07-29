@@ -1070,16 +1070,16 @@
 "You can modify the layout of the extra menu bar in the app's preferences window" = "You can modify the layout of the extra menu bar in the app's preferences window";
 
 /* No comment provided by engineer. */
-"You have unlocked all the features for 3 days, enjoy it now!" = "You have unlocked all the features for 3 days, enjoy it now!";
+"You have unlocked all features for 3 days, enjoy!" = "You have unlocked all features for 3 days, enjoy!";
 
 /* No comment provided by engineer. */
-"You have unlocked all the features, enjoy it now!" = "You have unlocked all the features, enjoy it now!";
+"You have unlocked all features, enjoy!" = "You have unlocked all features, enjoy!";
 
 /* No comment provided by engineer. */
 "Arrange" = "Arrange";
 
 /* No comment provided by engineer. */
-"• Cloud backup and sync profiles" = "• Cloud backup and sync profiles";
+"• Cloud backup and sync profiles" = "• Cloud backup and profile syncing";
 
 /* No comment provided by engineer. */
 "• Supercharge your scripts or shortcuts with Barbee" = "• Supercharge your scripts or shortcuts with Barbee";
@@ -1088,7 +1088,7 @@
 "No items found" = "No items found";
 
 /* No comment provided by engineer. */
-"This prompt will appear when Barbee is running on the new macOS to capture the screenshot of menu bar items. \\n⛔️ Barbee is an offline app with no network permissions." = "This prompt will appear when Barbee is running on the new macOS to capture the screenshot of menu bar items. \n⛔️ Barbee is an offline app with no network permissions.";
+"This prompt will appear when Barbee is running on a newer version of macOS to capture the screenshot of menu bar items. \\n⛔️ Barbee is an offline app with no network permissions." = "This prompt will appear when Barbee is running on a newer version of macOS to capture the screenshot of menu bar items. \n⛔️ Barbee is an offline app with no network permissions.";
 
 /* No comment provided by engineer. */
 "Got it" = "Got it";
@@ -1136,10 +1136,10 @@
 "Launch Barbee at login?" = "Launch Barbee at login?";
 
 /* No comment provided by engineer. */
-"It is strongly recommended to launch Barbee at login, do you want to enable it?" = "It is strongly recommended to launch Barbee at login, do you want to enable it?";
+"It is strongly recommended to launch Barbee at login, would you like to enable it?" = "It is strongly recommended to launch Barbee at login, would you like to enable it?";
 
 /* No comment provided by engineer. */
-"Rate on Mac App Store" = "Rate on Mac App Store";
+"Rate on the Mac App Store" = "Rate on the Mac App Store";
 
 /* No comment provided by engineer. */
 "Rate Now" = "Rate Now";
@@ -1148,7 +1148,7 @@
 "Love Barbee?" = "Love Barbee?";
 
 /* No comment provided by engineer. */
-"Whether you do love Barbee or feel we could be doing better, we want to know!" = "Whether you do love Barbee or feel we could be doing better, we want to know!";
+"Whether you love Barbee or feel we could be doing better, we want to know!" = "Whether you love Barbee or feel we could be doing better, we want to know!";
 
 /* No comment provided by engineer. */
 "Barbee's menu bar icon has been hidden" = "Barbee's menu bar icon has been hidden";
@@ -1160,22 +1160,22 @@
 "Ignore" = "Ignore";
 
 /* No comment provided by engineer. */
-"The icon may persist in the menu bar. Using this feature may impact user experience." = "The icon may persist in the menu bar. Using this feature may impact user experience.";
+"The icon may persist in the menu bar and impact your experience using Barbee." = "The icon may persist in the menu bar and impact your experience using Barbee.";
 
 /* No comment provided by engineer. */
 "Cursor Keeps Flickering?" = "Cursor Keeps Flickering?";
 
 /* No comment provided by engineer. */
-"If your cursor keeps flickering, you can try to click the button to fix cursor flickering." = "If your cursor keeps flickering, you can try to click the button to fix cursor flickering.";
+"If your cursor keeps flickering, try clicking the button to fix it." = "If your cursor keeps flickering, try clicking the button to fix it.";
 
 /* No comment provided by engineer. */
 "🔨 Fix cursor issues" = "🔨 Fix cursor issues";
 
 /* No comment provided by engineer. */
-"Fixed cursor issues successfully" = "Fixed cursor issues successfully";
+"Cursor issues fixed successfully" = "Cursor issues fixed successfully";
 
 /* No comment provided by engineer. */
-"Failed to fix cursor issues" = "Failed to fix cursor issues";
+"Cursor issue fix failed" = "Cursor issue fix failed";
 
 /* No comment provided by engineer. */
 "Menu Bar Style:" = "Menu Bar Style:";
@@ -1220,13 +1220,13 @@
 "Menu Bar Border Width:" = "Menu Bar Border Width:";
 
 /* No comment provided by engineer. */
-"Thank you to everyone who supports Barbee🖤.\\nYour encouragement is the fuel that keeps me going.\\n\\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\\n👋 please reach out. You will get if for free🆓️. \\n\\n🌐️ If you can help translate Barbee into your languages or improve Barbee's translations, \\nyou will have the lifetime version and your name will be listed in the contributors of Barbee." = "Thank you to everyone who supports Barbee🖤.\nYour encouragement is the fuel that keeps me going.\n\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\n👋 please reach out. You will get if for free🆓️. \n\n🌐️ If you can help translate Barbee into your languages or improve Barbee's translations, \nyou will have the lifetime version and your name will be listed in the contributors of Barbee.";
+"Thanks to all who keep supporting Barbee🖤.\\nYour encouragement is the fuel that keeps me going.\\n\\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\\n👋 please reach out. You will get it free of charge🆓️. \\n\\n🌐️ If you can help translate Barbee into your language or improve Barbee's current translations, \\nyou will have the lifetime version and your name will be listed as a contributor to Barbee." = "Thanks to all who keep supporting Barbee🖤.\nYour encouragement is the fuel that keeps me going.\n\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\n👋 please reach out. You will get it free of charge🆓️. \n\n🌐️ If you can help translate Barbee into your language or improve Barbee's current translations, \nyou will have the lifetime version and your name will be listed as a contributor to Barbee.";
 
 /* No comment provided by engineer. */
 "Get it for free" = "Get it for free";
 
 /* No comment provided by engineer. */
-"Use redeem code" = "Use redeem code";
+"Redeem code" = "Redeem code";
 
 /* No comment provided by engineer. */
 "Award" = "Award";
@@ -1235,7 +1235,7 @@
 "Yearly" = "Yearly";
 
 /* No comment provided by engineer. */
-"Yearly VIP membership subscription" = "Yearly VIP membership subscription";
+"Yearly VIP membership" = "Yearly VIP membership";
 
 /* No comment provided by engineer. */
 "Yearly - %@" = "Yearly - %@";
@@ -1247,7 +1247,7 @@
 "Manage Subscription" = "Manage Subscription";
 
 /* No comment provided by engineer. */
-"When the screen width is wide enough, menu bar icons will be no longer hidden" = "When the screen width is wide enough, menu bar icons will be no longer hidden";
+"When the screen width is wide enough, menu bar icons will no longer be hidden" = "When the screen width is wide enough, menu bar icons will no longer be hidden";
 
 /* No comment provided by engineer. */
 "The screen width threshold" = "The screen width threshold";
@@ -1277,7 +1277,7 @@
 "💦Contributors" = "💦Contributors";
 
 /* No comment provided by engineer. */
-"Special thanks to users for helping with Barbee Localization! 🌍🌎🌏" = "Special thanks to users for helping with Barbee Localization! 🌍🌎🌏";
+"Special thanks to these volunteers for helping with Barbee Localization! 🌍🌎🌏" = "Special thanks to these volunteers for helping with Barbee Localization! 🌍🌎🌏";
 
 /* No comment provided by engineer. */
 "👋Translating Barbee" = "👋Translating Barbee";
