@@ -1,0 +1,1382 @@
+/* No comment provided by engineer. */
+" in the menu bar to start!" = "शुरू करने के लिए मेनू बार में!";
+
+/* No comment provided by engineer. */
+" will be always hidden." = "हमेशा छिपा रहेगा।";
+
+/* No comment provided by engineer. */
+" will be hidden." = "छिपा रहेगा।";
+
+/* No comment provided by engineer. */
+"sec(s)" = "सेकंड(s)";
+
+/* No comment provided by engineer. */
+"• Manage the menu bar icons as you want" = "• मेनू बार आइकन को अपनी इच्छानुसार प्रबंधित करें";
+
+/* No comment provided by engineer. */
+"• Various menu appearance styles" = "• विभिन्न मेनू दिखावट शैलियाँ";
+
+/* No comment provided by engineer. */
+"• Reduce menu bar icon spacing" = "• मेनू बार आइकन रिक्ति कम करें";
+
+/* No comment provided by engineer. */
+"• Support the menu bar with a notch" = "• एक नॉच के साथ मेनू बार का समर्थन करें";
+
+/* No comment provided by engineer. */
+"• Unlimited number of times you can show/hide menu bar icons" = "• आप जितनी बार चाहें मेनू बार आइकन दिखा/छुपा सकते हैं";
+
+/* No comment provided by engineer. */
+"⌘ Shortcut List:" = "⌘ शॉर्टकट सूची:";
+
+/* No comment provided by engineer. */
+"⏰️ Monitor menu bar item changes, then perform an action" = "⏰️ मेनू बार आइटम परिवर्तनों की निगरानी करें, फिर एक क्रिया करें";
+
+/* No comment provided by engineer. */
+"⚠️⚠️⚠️Unresponsive Item %@" = "⚠️⚠️⚠️अनुत्तरदायी आइटम %@";
+
+/* No comment provided by engineer. */
+"⛔️️ Barbee does not collect or track any of your personal data and Barbee does not apply for any network permissions." = "⛔️️ बारबी आपकी किसी भी व्यक्तिगत जानकारी को एकत्र या ट्रैक नहीं करता है और बारबी किसी भी नेटवर्क अनुमति के लिए आवेदन नहीं करता है।";
+
+/* No comment provided by engineer. */
+"✅️ Accessibility permission granted" = "✅️ एक्सेसिबिलिटी अनुमति प्रदान की गई";
+
+/* No comment provided by engineer. */
+"✅️ Screen Recording permission granted" = "✅️ स्क्रीन रिकॉर्डिंग अनुमति प्रदान की गई";
+
+/* No comment provided by engineer. */
+"✉️ Contact us" = "✉️ हमसे संपर्क करें";
+
+/* No comment provided by engineer. */
+"⭐️️ Drag to arrange your menu bar items as you want!" = "⭐️️ अपनी इच्छानुसार अपने मेनू बार आइटम को व्यवस्थित करने के लिए खींचें!";
+
+/* No comment provided by engineer. */
+"🐝 Relaunch Barbee" = "🐝 बारबी को पुनः लॉन्च करें";
+
+/* No comment provided by engineer. */
+"🐞 Report bugs" = "🐞 बग की रिपोर्ट करें";
+
+/* No comment provided by engineer. */
+"👀 View details..." = "👀 विवरण देखें...";
+
+/* No comment provided by engineer. */
+"👉 In the pop-up authorization window, please 🔓unlock in the lower-left corner first, then ✔️allow Barbee in the right list." = "👉 पॉप-अप प्राधिकरण विंडो में, कृपया पहले निचले-बाएँ कोने में 🔓अनलॉक करें, फिर दाएँ सूची में ✔️बारबी को अनुमति दें।";
+
+/* No comment provided by engineer. */
+"💥Supercharge your scripts or shortcuts with Barbee" = "💥बारबी के साथ अपने स्क्रिप्ट या शॉर्टकट को सुपरचार्ज करें";
+
+/* No comment provided by engineer. */
+"📊 Export logs..." = "📊 लॉग निर्यात करें...";
+
+/* No comment provided by engineer. */
+"🔥️ Enhanced Mode" = "🔥️ उन्नत मोड";
+
+/* No comment provided by engineer. */
+"🕶️ You are the VIP" = "🕶️ आप वीआईपी हैं";
+
+/* No comment provided by engineer. */
+"🦄 Join TestFlight..." = "🦄 टेस्टफ्लाइट में शामिल हों...";
+
+/* No comment provided by engineer. */
+"🧩 Right-click to customize Barbee widget group" = "🧩 बारबी विजेट समूह को अनुकूलित करने के लिए राइट-क्लिक करें";
+
+/* No comment provided by engineer. */
+"🧩 Right-click to customize Barbee widgets" = "🧩 बारबी विजेट को अनुकूलित करने के लिए राइट-क्लिक करें";
+
+/* No comment provided by engineer. */
+"🧩 Widget Management" = "🧩 विजेट प्रबंधन";
+
+/* No comment provided by engineer. */
+"3-day Free Trial" = "3-दिन का निःशुल्क परीक्षण";
+
+/* No comment provided by engineer. */
+"About" = "के बारे में";
+
+/* No comment provided by engineer. */
+"Accessibility" = "अभिगम्यता";
+
+/* No comment provided by engineer. */
+"Action" = "क्रिया";
+
+/* No comment provided by engineer. */
+"Action:" = "क्रिया:";
+
+/* No comment provided by engineer. */
+"Activate for %d second(s)" = "%d सेकंड(s) के लिए सक्रिय करें";
+
+/* No comment provided by engineer. */
+"Activate for a while" = "कुछ समय के लिए सक्रिय करें";
+
+/* No comment provided by engineer. */
+"Activate seconds: %d" = "सक्रिय सेकंड: %d";
+
+/* No comment provided by engineer. */
+"Active" = "सक्रिय";
+
+/* No comment provided by engineer. */
+"Active Barbee profile with name: ${profileName}" = "नाम के साथ सक्रिय बारबी प्रोफ़ाइल: ${profileName}";
+
+/* No comment provided by engineer. */
+"Active Barbee profile with name." = "नाम के साथ सक्रिय बारबी प्रोफ़ाइल।";
+
+/* No comment provided by engineer. */
+"Active Profile" = "सक्रिय प्रोफ़ाइल";
+
+/* No comment provided by engineer. */
+"Actived profile successfully" = "प्रोफ़ाइल सफलतापूर्वक सक्रिय की गई";
+
+/* No comment provided by engineer. */
+"Add" = "जोड़ें";
+
+/* No comment provided by engineer. */
+"Add/Remove menu bar inner shadow and drop shadow." = "मेनू बार आंतरिक छाया और ड्रॉप छाया जोड़ें/हटाएं।";
+
+/* No comment provided by engineer. */
+"All Menu Bar Item" = "सभी मेनू बार आइटम";
+
+/* No comment provided by engineer. */
+"All menu bar items are visible on external screens" = "सभी मेनू बार आइटम बाहरी स्क्रीन पर दिखाई देते हैं";
+
+/* No comment provided by engineer. */
+"Alpha Value" = "अल्फा मान";
+
+/* No comment provided by engineer. */
+"Always Hidden" = "हमेशा छिपा हुआ";
+
+/* No comment provided by engineer. */
+"Always Hidden Items" = "हमेशा छिपे हुए आइटम";
+
+/* No comment provided by engineer. */
+"Always Hidden Items:" = "हमेशा छिपे हुए आइटम:";
+
+/* No comment provided by engineer. */
+"Always Hidden Menu Bar Item" = "हमेशा छिपा हुआ मेनू बार आइटम";
+
+/* No comment provided by engineer. */
+"App Modules" = "ऐप मॉड्यूल";
+
+/* No comment provided by engineer. */
+"Apply" = "लागू करें";
+
+/* No comment provided by engineer. */
+"Authorize" = "अधिकृत करें";
+
+/* No comment provided by engineer. */
+"Automation" = "स्वचालन";
+
+/* No comment provided by engineer. */
+"Automation feature requires additional permissions!" = "स्वचालन सुविधा के लिए अतिरिक्त अनुमतियों की आवश्यकता है!";
+
+/* No comment provided by engineer. */
+"Backup profile successfully." = "प्रोफ़ाइल का सफलतापूर्वक बैकअप लिया गया।";
+
+/* No comment provided by engineer. */
+"Backup to iCloud drive" = "iCloud ड्राइव पर बैकअप लें";
+
+/* No comment provided by engineer. */
+"Barbee requires Accessibility access to show/hide the menu bar items." = "मेनू बार आइटम को दिखाने/छुपाने के लिए बारबी को अभिगम्यता पहुंच की आवश्यकता है।";
+
+/* No comment provided by engineer. */
+"Barbee requires Screen Recording access to monitor the menu bar item list and capture the images of changed items." = "मेनू बार आइटम सूची की निगरानी करने और बदले गए आइटम की छवियों को कैप्चर करने के लिए बारबी को स्क्रीन रिकॉर्डिंग पहुंच की आवश्यकता है।";
+
+/* No comment provided by engineer. */
+"Barbee requires your permissions to access system capabilities to provide its functionality. Please review the permissions below." = "बारबी को अपनी कार्यक्षमता प्रदान करने के लिए सिस्टम क्षमताओं तक पहुंचने के लिए आपकी अनुमतियों की आवश्यकता है। कृपया नीचे दी गई अनुमतियों की समीक्षा करें।";
+
+/* No comment provided by engineer. */
+"Become VIP to use without limitation" = "बिना सीमा के उपयोग करने के लिए वीआईपी बनें";
+
+/* No comment provided by engineer. */
+"Beta Testing" = "बीटा परीक्षण";
+
+/* No comment provided by engineer. */
+"Bundle Identifier" = "बंडल पहचानकर्ता";
+
+/* No comment provided by engineer. */
+"Change inner shadow state: ${innerShadowState}, drop shadow state: ${dropShadowState}" = "आंतरिक छाया स्थिति बदलें: ${innerShadowState}, ड्रॉप छाया स्थिति: ${dropShadowState}";
+
+/* No comment provided by engineer. */
+"Change Menu Bar Color" = "मेनू बार का रंग बदलें";
+
+/* No comment provided by engineer. */
+"Change menu bar color: ${color}" = "मेनू बार का रंग बदलें: ${color}";
+
+/* No comment provided by engineer. */
+"Change Menu Bar Shadow State" = "मेनू बार छाया स्थिति बदलें";
+
+/* No comment provided by engineer. */
+"Change Top Notch State" = "शीर्ष पायदान स्थिति बदलें";
+
+/* No comment provided by engineer. */
+"Change top notch state: ${state}" = "शीर्ष पायदान स्थिति बदलें: ${state}";
+
+/* No comment provided by engineer. */
+"Change Wallpaper..." = "वॉलपेपर बदलें...";
+
+/* No comment provided by engineer. */
+"Change your current screen menu bar color, enter your color hex string(e.g. \"0AB188FF\"). Restore the color of the menu bar if the hex string is empty." = "अपनी वर्तमान स्क्रीन मेनू बार का रंग बदलें, अपना रंग हेक्स स्ट्रिंग दर्ज करें (जैसे \"0AB188FF\")। यदि हेक्स स्ट्रिंग खाली है तो मेनू बार का रंग पुनर्स्थापित करें।";
+
+/* No comment provided by engineer. */
+"Changing menu bar color requires user directory authorization" = "मेनू बार का रंग बदलने के लिए उपयोगकर्ता निर्देशिका प्राधिकरण की आवश्यकता होती है";
+
+/* No comment provided by engineer. */
+"Changing menu item gaps requires user directory authorization" = "मेनू आइटम अंतराल बदलने के लिए उपयोगकर्ता निर्देशिका प्राधिकरण की आवश्यकता होती है";
+
+/* No comment provided by engineer. */
+"Choose a menu bar item" = "एक मेनू बार आइटम चुनें";
+
+/* No comment provided by engineer. */
+"Choose Barbee Mode" = "बारबी मोड चुनें";
+
+/* No comment provided by engineer. */
+"Click menu bar item" = "मेनू बार आइटम पर क्लिक करें";
+
+/* No comment provided by engineer. */
+"Click Menu Bar Item (Enhanced mode only)" = "मेनू बार आइटम पर क्लिक करें (केवल उन्नत मोड)";
+
+/* No comment provided by engineer. */
+"Click menu bar item by identifier: ${itemIdentifier}" = "पहचानकर्ता द्वारा मेनू बार आइटम पर क्लिक करें: ${itemIdentifier}";
+
+/* No comment provided by engineer. */
+"Click menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "पहचानकर्ता द्वारा मेनू बार आइटम पर क्लिक करें (जैसे \"com.apple.controlcenter-WiFi\")।";
+
+/* No comment provided by engineer. */
+"Click on the menu bar Barbee icon to toggle the visibility of hidden items directly" = "छिपे हुए आइटम की दृश्यता को सीधे टॉगल करने के लिए मेनू बार बारबी आइकन पर क्लिक करें";
+
+/* No comment provided by engineer. */
+"Click on the menu bar to toggle the visibility of hidden items" = "छिपे हुए आइटम की दृश्यता को टॉगल करने के लिए मेनू बार पर क्लिक करें";
+
+/* No comment provided by engineer. */
+"Click the icon " = "आइकन पर क्लिक करें ";
+
+/* No comment provided by engineer. */
+"Close" = "बंद करें";
+
+/* No comment provided by engineer. */
+"Color" = "रंग";
+
+/* No comment provided by engineer. */
+"Configuration" = "विन्यास";
+
+/* No comment provided by engineer. */
+"Confirm" = "पुष्टि करें";
+
+/* No comment provided by engineer. */
+"Content" = "सामग्री";
+
+/* No comment provided by engineer. */
+"Continue" = "जारी रखें";
+
+/* No comment provided by engineer. */
+"Corner Radius" = "कोने की त्रिज्या";
+
+/* No comment provided by engineer. */
+"Current Item" = "वर्तमान आइटम";
+
+/* No comment provided by engineer. */
+"Custom shortcuts feature requires additional permissions!" = "कस्टम शॉर्टकट सुविधा के लिए अतिरिक्त अनुमतियों की आवश्यकता है!";
+
+/* No comment provided by engineer. */
+"Dark Background Color" = "गहरा पृष्ठभूमि रंग";
+
+/* No comment provided by engineer. */
+"Default Gap - system default spacing between items" = "डिफ़ॉल्ट गैप - आइटम के बीच सिस्टम डिफ़ॉल्ट रिक्ति";
+
+/* No comment provided by engineer. */
+"Delay before hiding items again." = "आइटम को फिर से छिपाने से पहले देरी।";
+
+/* No comment provided by engineer. */
+"Delete" = "हटाएं";
+
+/* No comment provided by engineer. */
+"Delete `%@`" = "`%@` हटाएं";
+
+/* No comment provided by engineer. */
+"Diagnostics" = "नैदानिक";
+
+/* No comment provided by engineer. */
+"Do you want to backup profiles to iCloud?" = "क्या आप iCloud पर प्रोफ़ाइल का बैकअप लेना चाहते हैं?";
+
+/* No comment provided by engineer. */
+"Do you want to delete profile `%@`?" = "क्या आप प्रोफ़ाइल `%@` हटाना चाहते हैं?";
+
+/* No comment provided by engineer. */
+"Do you want to delete this automation?" = "क्या आप इस स्वचालन को हटाना चाहते हैं?";
+
+/* No comment provided by engineer. */
+"Do you want to delete this shortcut?" = "क्या आप इस शॉर्टकट को हटाना चाहते हैं?";
+
+/* No comment provided by engineer. */
+"Do you want to import this profile?" = "क्या आप इस प्रोफ़ाइल को आयात करना चाहते हैं?";
+
+/* No comment provided by engineer. */
+"Do you want to sync profiles from iCloud?" = "क्या आप iCloud से प्रोफ़ाइल को सिंक करना चाहते हैं?";
+
+/* No comment provided by engineer. */
+"Drop Shadow" = "ड्रॉप छाया";
+
+/* No comment provided by engineer. */
+"Drop Shadow State" = "ड्रॉप छाया स्थिति";
+
+/* No comment provided by engineer. */
+"Edit" = "संपादित करें";
+
+/* No comment provided by engineer. */
+"Energy Saver" = "ऊर्जा बचतकर्ता";
+
+/* No comment provided by engineer. */
+"Enhanced Mode" = "उन्नत मोड";
+
+/* No comment provided by engineer. */
+"Enhanced mode is only available for Notch screens" = "उन्नत मोड केवल नॉच स्क्रीन के लिए उपलब्ध है";
+
+/* No comment provided by engineer. */
+"Export" = "निर्यात करें";
+
+/* No comment provided by engineer. */
+"Failed to active profile" = "प्रोफ़ाइल सक्रिय करने में विफल";
+
+/* No comment provided by engineer. */
+"Failed to backup profile." = "प्रोफ़ाइल का बैकअप लेने में विफल।";
+
+/* No comment provided by engineer. */
+"Failed to change menu item gap" = "मेनू आइटम अंतराल बदलने में विफल";
+
+/* No comment provided by engineer. */
+"Failed to export profile." = "प्रोफ़ाइल निर्यात करने में विफल।";
+
+/* No comment provided by engineer. */
+"Failed to import profile." = "प्रोफ़ाइल आयात करने में विफल।";
+
+/* No comment provided by engineer. */
+"Failed to restore" = "पुनर्स्थापित करने में विफल";
+
+/* No comment provided by engineer. */
+"Failed to sync profile." = "प्रोफ़ाइल सिंक्रनाइज़ करने में विफल।";
+
+/* No comment provided by engineer. */
+"Feedback" = "प्रतिक्रिया";
+
+/* No comment provided by engineer. */
+"For the setting to work, you must turn on Barbee's `Launch At Login`, log out and log back into macOS." = "सेटिंग को काम करने के लिए, आपको बारबी के `लॉन्च एट लॉग इन` को चालू करना होगा, लॉग आउट करना होगा और macOS में वापस लॉग इन करना होगा।";
+
+/* No comment provided by engineer. */
+"Found %d profile(s)" = "%d प्रोफ़ाइल(s) मिलीं";
+
+/* No comment provided by engineer. */
+"Frame" = "फ़्रेम";
+
+/* No comment provided by engineer. */
+"Generic" = "सामान्य";
+
+/* No comment provided by engineer. */
+"Get all menu bar items" = "सभी मेनू बार आइटम प्राप्त करें";
+
+/* No comment provided by engineer. */
+"Get All Menu Bar Items" = "सभी मेनू बार आइटम प्राप्त करें";
+
+/* No comment provided by engineer. */
+"Get always hidden menu bar items" = "हमेशा छिपे हुए मेनू बार आइटम प्राप्त करें";
+
+/* No comment provided by engineer. */
+"Get Always Hidden Menu Bar Items" = "हमेशा छिपे हुए मेनू बार आइटम प्राप्त करें";
+
+/* No comment provided by engineer. */
+"Get App Modules" = "ऐप मॉड्यूल प्राप्त करें";
+
+/* No comment provided by engineer. */
+"Get app modules using app bundle identifier: ${bundleIdentifier}" = "ऐप बंडल पहचानकर्ता का उपयोग करके ऐप मॉड्यूल प्राप्त करें: ${bundleIdentifier}";
+
+/* No comment provided by engineer. */
+"Get hidden menu bar items" = "छिपे हुए मेनू बार आइटम प्राप्त करें";
+
+/* No comment provided by engineer. */
+"Get Hidden Menu Bar Items" = "छिपे हुए मेनू बार आइटम प्राप्त करें";
+
+/* No comment provided by engineer. */
+"Get shown menu bar items" = "दिखाए गए मेनू बार आइटम प्राप्त करें";
+
+/* No comment provided by engineer. */
+"Get Shown Menu Bar Items" = "दिखाए गए मेनू बार आइटम प्राप्त करें";
+
+/* No comment provided by engineer. */
+"Get Started" = "शुरू करें";
+
+/* No comment provided by engineer. */
+"Go to Barbee preferences..." = "बारबी प्राथमिकताओं पर जाएं...";
+
+/* No comment provided by engineer. */
+"Grant Permissions to Barbee" = "बारबी को अनुमतियां दें";
+
+/* No comment provided by engineer. */
+"Has Top Notch" = "शीर्ष पायदान है";
+
+/* No comment provided by engineer. */
+"Has top notch?" = "क्या शीर्ष पायदान है?";
+
+/* No comment provided by engineer. */
+"Height" = "ऊँचाई";
+
+/* No comment provided by engineer. */
+"Help Center" = "सहायता केंद्र";
+
+/* No comment provided by engineer. */
+"Hidden" = "छिपा हुआ";
+
+/* No comment provided by engineer. */
+"Hidden Items" = "छिपे हुए आइटम";
+
+/* No comment provided by engineer. */
+"Hidden Items:" = "छिपे हुए आइटम:";
+
+/* No comment provided by engineer. */
+"Hidden Menu Bar Item" = "छिपा हुआ मेनू बार आइटम";
+
+/* No comment provided by engineer. */
+"Hide" = "छुपाएं";
+
+/* No comment provided by engineer. */
+"Hide All" = "सभी छुपाएं";
+
+/* No comment provided by engineer. */
+"Hide Menu Bar Item (Enhanced mode only)" = "मेनू बार आइटम छुपाएं (केवल उन्नत मोड)";
+
+/* No comment provided by engineer. */
+"Hide menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "पहचानकर्ता द्वारा मेनू बार आइटम छुपाएं: ${itemIdentifier}, X पर: ${x}";
+
+/* No comment provided by engineer. */
+"Hide menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional." = "पहचानकर्ता द्वारा मेनू बार आइटम छुपाएं (जैसे \"com.apple.controlcenter-WiFi\"), X वैकल्पिक है।";
+
+/* No comment provided by engineer. */
+"Hide not-showing items" = "नहीं दिखाने वाले आइटम छुपाएं";
+
+/* No comment provided by engineer. */
+"Hold CONTROL(⌃) and click on the menu bar icon to show / hide all items" = "सभी आइटम दिखाने/छुपाने के लिए CONTROL(⌃) दबाएं और मेनू बार आइकन पर क्लिक करें";
+
+/* No comment provided by engineer. */
+"Hold CONTROL(⌃) and click on the menu bar to show / hide all items" = "सभी आइटम दिखाने/छुपाने के लिए CONTROL(⌃) दबाएं और मेनू बार पर क्लिक करें";
+
+/* No comment provided by engineer. */
+"Hold OPTION(⌥) and click on the menu bar icon to show / hide hidden items" = "छिपे हुए आइटम दिखाने/छुपाने के लिए OPTION(⌥) दबाएं और मेनू बार आइकन पर क्लिक करें";
+
+/* No comment provided by engineer. */
+"Hold the COMMAND(⌘) to drag the menu bar items" = "मेनू बार आइटम को खींचने के लिए COMMAND(⌘) दबाएं";
+
+/* No comment provided by engineer. */
+"Hovered" = "मंडराया हुआ";
+
+/* No comment provided by engineer. */
+"Icon:" = "आइकन:";
+
+/* No comment provided by engineer. */
+"If you encounter any problems or would like to help us improve, or localize Barbee, please feel free to contact us!" = "यदि आपको कोई समस्या आती है या आप हमें बारबी को बेहतर बनाने या स्थानीयकृत करने में मदद करना चाहते हैं, तो कृपया हमसे संपर्क करने में संकोच न करें!";
+
+/* No comment provided by engineer. */
+"If you want to use Barbee in normal mode, just remove the granted permissions in System Preferences." = "यदि आप बारबी को सामान्य मोड में उपयोग करना चाहते हैं, तो सिस्टम प्राथमिकताएं में दी गई अनुमतियों को हटा दें।";
+
+/* No comment provided by engineer. */
+"Import" = "आयात करें";
+
+/* No comment provided by engineer. */
+"In the case of multiple screens, non-notch screens will use normal mode to show/hide menu bar items" = "कई स्क्रीन के मामले में, गैर-नॉच स्क्रीन मेनू बार आइटम दिखाने/छुपाने के लिए सामान्य मोड का उपयोग करेंगी";
+
+/* No comment provided by engineer. */
+"Inner Shadow" = "आंतरिक छाया";
+
+/* No comment provided by engineer. */
+"Inner Shadow State" = "आंतरिक छाया स्थिति";
+
+/* No comment provided by engineer. */
+"InterItem Horizontal Padding" = "इंटरआइटम क्षैतिज पैडिंग";
+
+/* No comment provided by engineer. */
+"InterItem Vertical Padding" = "इंटरआइटम ऊर्ध्वाधर पैडिंग";
+
+/* No comment provided by engineer. */
+"Is Menu Bar Visible" = "क्या मेनू बार दिखाई दे रहा है";
+
+/* No comment provided by engineer. */
+"Is menu bar visible?" = "क्या मेनू बार दिखाई दे रहा है?";
+
+/* No comment provided by engineer. */
+"Is Movable by Window Background" = "क्या विंडो पृष्ठभूमि द्वारा चलनीय है";
+
+/* No comment provided by engineer. */
+"Item has any changes" = "आइटम में कोई बदलाव है";
+
+/* No comment provided by engineer. */
+"Item Identifier" = "आइटम पहचानकर्ता";
+
+/* No comment provided by engineer. */
+"Items" = "आइटम";
+
+/* No comment provided by engineer. */
+"Items dragged to the left will be always hidden. Hold the command ⌘ key to drag the items in menu bar." = "बाएं खींचे गए आइटम हमेशा छिपे रहेंगे। मेनू बार में आइटम को खींचने के लिए कमांड ⌘ कुंजी दबाएं।";
+
+/* No comment provided by engineer. */
+"Items dragged to the left will be hidden. Hold the command ⌘ key to drag the items in menu bar." = "बाएं खींचे गए आइटम छिपे रहेंगे। मेनू बार में आइटम को खींचने के लिए कमांड ⌘ कुंजी दबाएं।";
+
+/* No comment provided by engineer. */
+"Items on the left side of the icon " = "आइकन के बाईं ओर के आइटम ";
+
+/* No comment provided by engineer. */
+"Launch At Login" = "लॉगिन पर लॉन्च करें";
+
+/* No comment provided by engineer. */
+"Level" = "स्तर";
+
+/* No comment provided by engineer. */
+"Lifetime" = "आजीवन";
+
+/* No comment provided by engineer. */
+"Lifetime - %@" = "आजीवन - %@";
+
+/* No comment provided by engineer. */
+"Light Background Color" = "हल्का पृष्ठभूमि रंग";
+
+/* No comment provided by engineer. */
+"Lowest" = "सबसे कम";
+
+/* No comment provided by engineer. */
+"macOS log out required" = "macOS लॉग आउट आवश्यक";
+
+/* No comment provided by engineer. */
+"Makes the notch disappear like a NINJA 🥷. (You can also set the menu bar color to ⬛️)" = "नॉच को एक निंजा 🥷 की तरह गायब कर देता है। (आप मेनू बार का रंग ⬛️ पर भी सेट कर सकते हैं)";
+
+/* No comment provided by engineer. */
+"Manage App Modules in Menu Bar" = "मेनू बार में ऐप मॉड्यूल प्रबंधित करें";
+
+/* No comment provided by engineer. */
+"Manage System Modules in Menu Bar" = "मेनू बार में सिस्टम मॉड्यूल प्रबंधित करें";
+
+/* No comment provided by engineer. */
+"Managing app modules requires user directory authorization" = "ऐप मॉड्यूल प्रबंधित करने के लिए उपयोगकर्ता निर्देशिका प्राधिकरण की आवश्यकता होती है";
+
+/* No comment provided by engineer. */
+"Menu Bar" = "मेनू बार";
+
+/* No comment provided by engineer. */
+"Menu Bar Appearance" = "मेनू बार उपस्थिति";
+
+/* No comment provided by engineer. */
+"Menu Bar Color:" = "मेनू बार रंग:";
+
+/* No comment provided by engineer. */
+"Menu Bar Item Gap:" = "मेनू बार आइटम अंतराल:";
+
+/* No comment provided by engineer. */
+"Menu Bar Layout" = "मेनू बार लेआउट";
+
+/* No comment provided by engineer. */
+"Menu Bar Layout feature requires additional permissions!" = "मेनू बार लेआउट सुविधा के लिए अतिरिक्त अनुमतियों की आवश्यकता है!";
+
+/* No comment provided by engineer. */
+"Menu Bar Shadow:" = "मेनू बार छाया:";
+
+/* No comment provided by engineer. */
+"Menu Bar:" = "मेनू बार:";
+
+/* No comment provided by engineer. */
+"Mode has been changed successfully" = "मोड सफलतापूर्वक बदल दिया गया है";
+
+/* No comment provided by engineer. */
+"Mode:" = "मोड:";
+
+/* No comment provided by engineer. */
+"More" = "और";
+
+/* No comment provided by engineer. */
+"Multi-screen:" = "बहु-स्क्रीन:";
+
+/* No comment provided by engineer. */
+"Name" = "नाम";
+
+/* No comment provided by engineer. */
+"Name:" = "नाम:";
+
+/* No comment provided by engineer. */
+"New" = "नया";
+
+/* No comment provided by engineer. */
+"New Items Location" = "नए आइटम स्थान";
+
+/* No comment provided by engineer. */
+"🆕️ Request new features" = "🆕️ नई सुविधाओं का अनुरोध करें";
+
+/* No comment provided by engineer. */
+"New Single Widget..." = "नया एकल विजेट...";
+
+/* No comment provided by engineer. */
+"New Widget" = "नया विजेट";
+
+/* No comment provided by engineer. */
+"New Widget Group" = "नया विजेट समूह";
+
+/* No comment provided by engineer. */
+"New Widget Group..." = "नया विजेट समूह...";
+
+/* No comment provided by engineer. */
+"Newly discovered menu bar items will be moved to:" = "नए खोजे गए मेनू बार आइटम यहां ले जाए जाएंगे:";
+
+/* No comment provided by engineer. */
+"No" = "नहीं";
+
+/* No comment provided by engineer. */
+"No action" = "कोई क्रिया नहीं";
+
+/* No comment provided by engineer. */
+"No backups" = "कोई बैकअप नहीं";
+
+/* No comment provided by engineer. */
+"No configurable app modules found" = "कोई विन्यास योग्य ऐप मॉड्यूल नहीं मिला";
+
+/* No comment provided by engineer. */
+"No Gap - no spacing between items" = "कोई अंतराल नहीं - आइटम के बीच कोई रिक्ति नहीं";
+
+/* No comment provided by engineer. */
+"No matching results" = "कोई मिलान परिणाम नहीं";
+
+/* No comment provided by engineer. */
+"Non-subscription, totally free" = "गैर-सदस्यता, पूरी तरह से मुफ्त";
+
+/* No comment provided by engineer. */
+"Normal" = "सामान्य";
+
+/* No comment provided by engineer. */
+"Normal Gap - normal spacing between items" = "सामान्य अंतराल - आइटम के बीच सामान्य रिक्ति";
+
+/* No comment provided by engineer. */
+"Normal Mode" = "सामान्य मोड";
+
+/* No comment provided by engineer. */
+"Not Now" = "अभी नहीं";
+
+/* No comment provided by engineer. */
+"Notch:" = "नॉच:";
+
+/* No comment provided by engineer. */
+"Ok" = "ठीक है";
+
+/* No comment provided by engineer. */
+"One-time purchase" = "एक बार की खरीदारी";
+
+/* No comment provided by engineer. */
+"Oops, No Hidden Items! 🔥️You can arrange items in the Preferences." = "उफ़, कोई छिपे हुए आइटम नहीं! 🔥️आप प्राथमिकताओं में आइटम व्यवस्थित कर सकते हैं।";
+
+/* No comment provided by engineer. */
+"Open System Preferences..." = "सिस्टम प्राथमिकताएं खोलें...";
+
+/* No comment provided by engineer. */
+"Please hold command(⌘) and drag the `<`, `|` and `Barbee icons` in the menu bar and place them in the correct order. The order is: always hidden icons `<` hidden icons `|` shown icons `Barbee icon`." = "कृपया कमांड(⌘) दबाएं और मेनू बार में `<`, `|` और `बारबी आइकन` को खींचें और उन्हें सही क्रम में रखें। क्रम है: हमेशा छिपे हुए आइकन `<` छिपे हुए आइकन `|` दिखाए गए आइकन `बारबी आइकन`।";
+
+/* No comment provided by engineer. */
+"Preferences" = "प्राथमिकताएं";
+
+/* No comment provided by engineer. */
+"Preferences..." = "प्राथमिकताएं...";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "गोपनीयता नीति";
+
+/* No comment provided by engineer. */
+"Profile" = "प्रोफ़ाइल";
+
+/* No comment provided by engineer. */
+"Profile Entry:" = "प्रोफ़ाइल प्रविष्टि:";
+
+/* No comment provided by engineer. */
+"Profile Name" = "प्रोफ़ाइल नाम";
+
+/* No comment provided by engineer. */
+"Purchase & Restore" = "खरीदें और पुनर्स्थापित करें";
+
+/* No comment provided by engineer. */
+"Quick Search" = "त्वरित खोज";
+
+/* No comment provided by engineer. */
+"Quick Search Entry:" = "त्वरित खोज प्रविष्टि:";
+
+/* No comment provided by engineer. */
+"Quick Search feature requires additional permissions!" = "त्वरित खोज सुविधा के लिए अतिरिक्त अनुमतियों की आवश्यकता है!";
+
+/* No comment provided by engineer. */
+"Quick Search:" = "त्वरित खोज:";
+
+/* No comment provided by engineer. */
+"Quick Start Guide" = "त्वरित आरंभ गाइड";
+
+/* No comment provided by engineer. */
+"Quit" = "छोड़ें";
+
+/* No comment provided by engineer. */
+"Recommended for users with a large screen or no icons hidden by the system." = "बड़ी स्क्रीन वाले उपयोगकर्ताओं या सिस्टम द्वारा छिपे हुए आइकन न होने वाले उपयोगकर्ताओं के लिए अनुशंसित।";
+
+/* No comment provided by engineer. */
+"Recommended for users with bangs on the screen or users with hidden icons in the system." = "स्क्रीन पर बैंग्स वाले उपयोगकर्ताओं या सिस्टम में छिपे हुए आइकन वाले उपयोगकर्ताओं के लिए अनुशंसित।";
+
+/* No comment provided by engineer. */
+"Reduce Refresh Rate When Using Battery Power" = "बैटरी पावर का उपयोग करते समय रीफ्रेश दर कम करें";
+
+/* No comment provided by engineer. */
+"Refresh" = "रीफ्रेश करें";
+
+/* No comment provided by engineer. */
+"Refresh Interval in Seconds" = "सेकंड में रीफ्रेश अंतराल";
+
+/* No comment provided by engineer. */
+"Refresh menu bar items" = "मेनू बार आइटम रीफ्रेश करें";
+
+/* No comment provided by engineer. */
+"Refresh Menu Bar Items" = "मेनू बार आइटम रीफ्रेश करें";
+
+/* No comment provided by engineer. */
+"Related Item:" = "संबंधित आइटम:";
+
+/* No comment provided by engineer. */
+"Reduce useable screen space to mask notch" = "नॉच को मास्क करने के लिए उपयोग करने योग्य स्क्रीन स्थान कम करें";
+
+/* No comment provided by engineer. */
+"Remove/Add top notch when you use the notched Mac." = "जब आप नॉच्ड मैक का उपयोग करते हैं तो शीर्ष पायदान हटाएं/जोड़ें।";
+
+/* No comment provided by engineer. */
+"Request Access..." = "पहुंच का अनुरोध करें...";
+
+/* No comment provided by engineer. */
+"Reset" = "रीसेट करें";
+
+/* No comment provided by engineer. */
+"Restore Purchase" = "खरीदारी पुनर्स्थापित करें";
+
+/* No comment provided by engineer. */
+"Restore successfully! If it still doesn't work, please reinstall the app." = "सफलतापूर्वक पुनर्स्थापित किया गया! यदि यह अभी भी काम नहीं करता है, तो कृपया ऐप को पुनर्स्थापित करें।";
+
+/* No comment provided by engineer. */
+"Returns all menu bar items." = "सभी मेनू बार आइटम लौटाता है।";
+
+/* No comment provided by engineer. */
+"Returns always hidden menu bar items." = "हमेशा छिपे हुए मेनू बार आइटम लौटाता है।";
+
+/* No comment provided by engineer. */
+"Returns app modules using app bundle identifier." = "ऐप बंडल पहचानकर्ता का उपयोग करके ऐप मॉड्यूल लौटाता है।";
+
+/* No comment provided by engineer. */
+"Returns hidden menu bar items." = "छिपे हुए मेनू बार आइटम लौटाता है।";
+
+/* No comment provided by engineer. */
+"Returns shown menu bar items." = "दिखाए गए मेनू बार आइटम लौटाता है।";
+
+/* No comment provided by engineer. */
+"Returns whether the current active scrren has top notch." = "लौटाता है कि क्या वर्तमान सक्रिय स्क्रीन में शीर्ष पायदान है।";
+
+/* No comment provided by engineer. */
+"Returns whether the current active scrren menu bar is visible." = "लौटाता है कि क्या वर्तमान सक्रिय स्क्रीन मेनू बार दिखाई दे रहा है।";
+
+/* No comment provided by engineer. */
+"Reveal In Finder" = "फाइंडर में प्रकट करें";
+
+/* No comment provided by engineer. */
+"Scopes:" = "दायरे:";
+
+/* No comment provided by engineer. */
+"Screen Recording" = "स्क्रीन रिकॉर्डिंग";
+
+/* No comment provided by engineer. */
+"Search for a menu bar item" = "मेनू बार आइटम खोजें";
+
+/* No comment provided by engineer. */
+"Select" = "चुनें";
+
+/* No comment provided by engineer. */
+"Select a related menu bar item" = "एक संबंधित मेनू बार आइटम चुनें";
+
+/* No comment provided by engineer. */
+"Select..." = "चुनें...";
+
+/* No comment provided by engineer. */
+"Shortcut to show / hide all items:" = "सभी आइटम दिखाने / छिपाने के लिए शॉर्टकट:";
+
+/* No comment provided by engineer. */
+"Shortcut to show / hide hidden items:" = "छिपे हुए आइटम दिखाने / छिपाने के लिए शॉर्टकट:";
+
+/* No comment provided by engineer. */
+"Shortcut:" = "शॉर्टकट:";
+
+/* No comment provided by engineer. */
+"Shortcuts" = "शॉर्टकट";
+
+/* No comment provided by engineer. */
+"Show" = "दिखाएं";
+
+/* No comment provided by engineer. */
+"Show all" = "सभी दिखाएं";
+
+/* No comment provided by engineer. */
+"Show All" = "सभी दिखाएं";
+
+/* No comment provided by engineer. */
+"Show all menu bar items" = "सभी मेनू बार आइटम दिखाएं";
+
+/* No comment provided by engineer. */
+"Show Entry in Menu" = "मेनू में प्रविष्टि दिखाएं";
+
+/* No comment provided by engineer. */
+"Show hidden menu bar items" = "छिपे हुए मेनू बार आइटम दिखाएं";
+
+/* No comment provided by engineer. */
+"Show in All Spaces" = "सभी स्थानों में दिखाएं";
+
+/* No comment provided by engineer. */
+"Show Menu Bar Item (Enhanced mode only)" = "मेनू बार आइटम दिखाएं (केवल उन्नत मोड)";
+
+/* No comment provided by engineer. */
+"Show menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "पहचानकर्ता द्वारा मेनू बार आइटम दिखाएं: ${itemIdentifier}, X पर: ${x}";
+
+/* No comment provided by engineer. */
+"Show menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional." = "पहचानकर्ता द्वारा मेनू बार आइटम दिखाएं (जैसे \"com.apple.controlcenter-WiFi\"), X वैकल्पिक है।";
+
+/* No comment provided by engineer. */
+"Show Profile in Menu" = "मेनू में प्रोफ़ाइल दिखाएं";
+
+/* No comment provided by engineer. */
+"Shown Items" = "दिखाए गए आइटम";
+
+/* No comment provided by engineer. */
+"Shown Items:" = "दिखाए गए आइटम:";
+
+/* No comment provided by engineer. */
+"Shown Menu Bar Item" = "दिखाया गया मेनू बार आइटम";
+
+/* No comment provided by engineer. */
+"Small Gap - proper spacing between items" = "छोटा अंतराल - आइटम के बीच उचित रिक्ति";
+
+/* No comment provided by engineer. */
+"Some of the menu bar items will be moved into a separate menu bar in enhanced mode, this mode requires the user to authorize some necessary permissions (Screen Recording & Accessibility), but there will be no extra permission requests in the normal mode." = "मेनू बार आइटम में से कुछ को उन्नत मोड में एक अलग मेनू बार में ले जाया जाएगा, इस मोड में उपयोगकर्ता को कुछ आवश्यक अनुमतियों (स्क्रीन रिकॉर्डिंग और अभिगम्यता) को अधिकृत करने की आवश्यकता होती है, लेकिन सामान्य मोड में कोई अतिरिक्त अनुमति अनुरोध नहीं होंगे।";
+
+/* No comment provided by engineer. */
+"Something Wrong?" = "कुछ गलत है?";
+
+/* No comment provided by engineer. */
+"🆘 If the app still prompts that there is no permission after you authorize Barbee, please cancel the authorization of Barbee and delete Barbee in the authorization list, then relaunch Barbee and grant permissions again." = "🆘 यदि बारबी को अधिकृत करने के बाद भी ऐप संकेत देता है कि कोई अनुमति नहीं है, तो कृपया बारबी का प्राधिकरण रद्द करें और प्राधिकरण सूची में बारबी को हटा दें, फिर बारबी को पुनः लॉन्च करें और फिर से अनुमतियां दें।";
+
+/* No comment provided by engineer. */
+"Start" = "शुरू करें";
+
+/* No comment provided by engineer. */
+"Start BarBee automatically at login." = "लॉगिन पर बारबी स्वचालित रूप से शुरू करें।";
+
+/* No comment provided by engineer. */
+"Startup:" = "स्टार्टअप:";
+
+/* No comment provided by engineer. */
+"State" = "स्थिति";
+
+/* No comment provided by engineer. */
+"Switch App Module State" = "ऐप मॉड्यूल स्थिति स्विच करें";
+
+/* No comment provided by engineer. */
+"Switch Barbee Mode" = "बारबी मोड स्विच करें";
+
+/* No comment provided by engineer. */
+"Switch the app module state in menu bar by its identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "इसके पहचानकर्ता (जैसे \"com.apple.controlcenter-WiFi\") द्वारा मेनू बार में ऐप मॉड्यूल स्थिति स्विच करें।";
+
+/* No comment provided by engineer. */
+"Switch the app module state:${state} in menu bar by its identifier: ${itemIdentifier}" = "इसके पहचानकर्ता: ${itemIdentifier} द्वारा मेनू बार में ऐप मॉड्यूल स्थिति: ${state} स्विच करें";
+
+/* No comment provided by engineer. */
+"Switch to Enhanced Mode" = "उन्नत मोड में स्विच करें";
+
+/* No comment provided by engineer. */
+"Switch to Normal Mode" = "सामान्य मोड में स्विच करें";
+
+/* No comment provided by engineer. */
+"Symbol:" = "प्रतीक:";
+
+/* No comment provided by engineer. */
+"Sync from iCloud drive" = "iCloud ड्राइव से सिंक करें";
+
+/* No comment provided by engineer. */
+"Sync profile successfully." = "प्रोफ़ाइल सफलतापूर्वक सिंक की गई।";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "उपयोग की शर्तें";
+
+/* No comment provided by engineer. */
+"Thanks for purchasing Barbee VIP" = "बारबी वीआईपी खरीदने के लिए धन्यवाद";
+
+/* No comment provided by engineer. */
+"Thanks for trying Barbee" = "बारबी आज़माने के लिए धन्यवाद";
+
+/* No comment provided by engineer. */
+"The automation will be deleted and changes take effect immediately" = "स्वचालन हटा दिया जाएगा और परिवर्तन तुरंत प्रभावी होंगे";
+
+/* No comment provided by engineer. */
+"The beta version may contain bugs or cause issues. Any feedback you can provide is always greatly appreciated." = "बीटा संस्करण में बग या समस्याएं हो सकती हैं। आपके द्वारा प्रदान की जाने वाली किसी भी प्रतिक्रिया की हमेशा बहुत सराहना की जाती है।";
+
+/* No comment provided by engineer. */
+"The changes have been saved, and it will take effect after exiting and restarting the app `%@`." = "परिवर्तन सहेज लिए गए हैं, और ऐप `%@` से बाहर निकलने और पुनरारंभ करने के बाद यह प्रभावी होगा।";
+
+/* No comment provided by engineer. */
+"The following modules have been found that may be displayed in the menu bar, you can enable or disable them." = "निम्नलिखित मॉड्यूल पाए गए हैं जो मेनू बार में प्रदर्शित किए जा सकते हैं, आप उन्हें सक्षम या अक्षम कर सकते हैं।";
+
+/* No comment provided by engineer. */
+"The hidden menu bar icon will appear in a separate menu bar in the upper right corner." = "छिपा हुआ मेनू बार आइकन ऊपरी दाएं कोने में एक अलग मेनू बार में दिखाई देगा।";
+
+/* No comment provided by engineer. */
+"The hidden menu bar icons will be collapsed." = "छिपे हुए मेनू बार आइकन संक्षिप्त हो जाएंगे।";
+
+/* No comment provided by engineer. */
+"The hover area of the menu bar include the app menu and Apple logo area" = "मेनू बार के होवर क्षेत्र में ऐप मेनू और ऐप्पल लोगो क्षेत्र शामिल हैं";
+
+/* No comment provided by engineer. */
+"The iCloud profiles will be replaced by the local profiles, which cannot be restored." = "iCloud प्रोफ़ाइल को स्थानीय प्रोफ़ाइल द्वारा प्रतिस्थापित किया जाएगा, जिसे पुनर्स्थापित नहीं किया जा सकता है।";
+
+/* No comment provided by engineer. */
+"The item is invisible" = "आइटम अदृश्य है";
+
+/* No comment provided by engineer. */
+"The item is invisible because of the top notch, you can hide the notch, adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "शीर्ष पायदान के कारण आइटम अदृश्य है, आप पायदान को छिपा सकते हैं, डिस्प्ले के रिज़ॉल्यूशन को समायोजित कर सकते हैं या बारबी प्राथमिकताओं में दिखाई देने वाले आइटम की संख्या को कम कर सकते हैं।";
+
+/* No comment provided by engineer. */
+"The item is invisible because the menu bar does not have enough space, you can adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "मेनू बार में पर्याप्त जगह न होने के कारण आइटम अदृश्य है, आप डिस्प्ले के रिज़ॉल्यूशन को समायोजित कर सकते हैं या बारबी प्राथमिकताओं में दिखाई देने वाले आइटम की संख्या को कम कर सकते हैं।";
+
+/* No comment provided by engineer. */
+"The local profiles will be replaced by the iCloud profiles, which cannot be restored." = "स्थानीय प्रोफ़ाइल को iCloud प्रोफ़ाइल द्वारा प्रतिस्थापित किया जाएगा, जिसे पुनर्स्थापित नहीं किया जा सकता है।";
+
+/* No comment provided by engineer. */
+"The profile has been exported." = "प्रोफ़ाइल निर्यात की गई है।";
+
+/* No comment provided by engineer. */
+"The profile has been imported." = "प्रोफ़ाइल आयात की गई है।";
+
+/* No comment provided by engineer. */
+"The selected item is not in the menu bar now" = "चयनित आइटम अब मेनू बार में नहीं है";
+
+/* No comment provided by engineer. */
+"The shadow below the menu bar" = "मेनू बार के नीचे की छाया";
+
+/* No comment provided by engineer. */
+"The shadow in the menu bar" = "मेनू बार में छाया";
+
+/* No comment provided by engineer. */
+"The shortcut will be deleted and changes take effect immediately" = "शॉर्टकट हटा दिया जाएगा और परिवर्तन तुरंत प्रभावी होंगे";
+
+/* No comment provided by engineer. */
+"Then: %@" = "फिर: %@";
+
+/* No comment provided by engineer. */
+"Top Notch" = "शीर्ष पायदान";
+
+/* No comment provided by engineer. */
+"Topmost" = "सर्वोच्च";
+
+/* No comment provided by engineer. */
+"Trigger:" = "ट्रिगर:";
+
+/* No comment provided by engineer. */
+"Upgrade to Barbee VIP" = "बारबी वीआईपी में अपग्रेड करें";
+
+/* No comment provided by engineer. */
+"Use Barbee in enhanced mode?" = "क्या बारबी को उन्नत मोड में उपयोग करें?";
+
+/* No comment provided by engineer. */
+"Use in Shortcuts" = "शॉर्टकट में उपयोग करें";
+
+/* No comment provided by engineer. */
+"View iCloud profiles" = "iCloud प्रोफ़ाइल देखें";
+
+/* No comment provided by engineer. */
+"View URL Schemes" = "URL योजनाएँ देखें";
+
+/* No comment provided by engineer. */
+"Welcome to Barbee!" = "बारबी में आपका स्वागत है!";
+
+/* No comment provided by engineer. */
+"When hovering for more than a certain period of time, show hidden items." = "जब एक निश्चित अवधि से अधिक समय तक मंडराते हैं, तो छिपे हुए आइटम दिखाएं।";
+
+/* No comment provided by engineer. */
+"When hovering over the menu bar, hidden items will be shown automatically" = "जब मेनू बार पर मंडराते हैं, तो छिपे हुए आइटम स्वचालित रूप से दिखाए जाएंगे";
+
+/* No comment provided by engineer. */
+"When hovering over the menu of the app or the Apple(🍎) logo, hidden items will be also shown automatically" = "जब ऐप के मेनू या Apple(🍎) लोगो पर मंडराते हैं, तो छिपे हुए आइटम भी स्वचालित रूप से दिखाए जाएंगे";
+
+/* No comment provided by engineer. */
+"When leaving the menu bar, hidden items will be hidden again" = "मेनू बार छोड़ने पर, छिपे हुए आइटम फिर से छिपे जाएंगे";
+
+/* No comment provided by engineer. */
+"When the external screen becomes the focus, all menu bar items will be visible, and when the focus is lost, they will be hidden again." = "जब बाहरी स्क्रीन फोकस हो जाती है, तो सभी मेनू बार आइटम दिखाई देंगे, और जब फोकस खो जाता है, तो वे फिर से छिपे जाएंगे।";
+
+/* No comment provided by engineer. */
+"When there is a problem with Barbee, you can try to relaunch Barbee to solve this problem." = "जब बारबी में कोई समस्या होती है, तो आप इस समस्या को हल करने के लिए बारबी को पुनः लॉन्च करने का प्रयास कर सकते हैं।";
+
+/* No comment provided by engineer. */
+"When you click on the blank area of the menu bar, Barbee will toggle showing hidden items." = "जब आप मेनू बार के खाली क्षेत्र पर क्लिक करते हैं, तो बारबी छिपे हुए आइटम दिखाने के लिए टॉगल करेगा।";
+
+/* No comment provided by engineer. */
+"When you click on the menu bar icon, Barbee will toggle showing hidden items instead of Barbee menu. The Barbee menu will be displayed when you right-click the menu bar icon." = "जब आप मेनू बार आइकन पर क्लिक करते हैं, तो बारबी बारबी मेनू के बजाय छिपे हुए आइटम दिखाने के लिए टॉगल करेगा। जब आप मेनू बार आइकन पर राइट-क्लिक करते हैं तो बारबी मेनू प्रदर्शित किया जाएगा।";
+
+/* No comment provided by engineer. */
+"When you hold CONTROL(⌃) and click on the menu bar icon, Barbee will toggle showing / hiding all items." = "जब आप CONTROL(⌃) दबाते हैं और मेनू बार आइकन पर क्लिक करते हैं, तो बारबी सभी आइटम दिखाने/छुपाने के लिए टॉगल करेगा।";
+
+/* No comment provided by engineer. */
+"When you hold CONTROL(⌃) and click on the menu bar, Barbee will toggle showing / hiding all items." = "जब आप CONTROL(⌃) दबाते हैं और मेनू बार पर क्लिक करते हैं, तो बारबी सभी आइटम दिखाने/छुपाने के लिए टॉगल करेगा।";
+
+/* No comment provided by engineer. */
+"When you hold OPTION(⌥) and click on the menu bar icon, Barbee will toggle showing / hiding hidden items." = "जब आप OPTION(⌥) दबाते हैं और मेनू बार आइकन पर क्लिक करते हैं, तो बारबी छिपे हुए आइटम दिखाने/छुपाने के लिए टॉगल करेगा।";
+
+/* No comment provided by engineer. */
+"When: %@" = "जब: %@";
+
+/* No comment provided by engineer. */
+"Which mode of tutorial would you like to see?" = "आप ट्यूटोरियल का कौन सा मोड देखना चाहेंगे?";
+
+/* No comment provided by engineer. */
+"Widget" = "विजेट";
+
+/* No comment provided by engineer. */
+"Widget Entry:" = "विजेट प्रविष्टि:";
+
+/* No comment provided by engineer. */
+"Widget feature requires additional permissions!" = "विजेट सुविधा के लिए अतिरिक्त अनुमतियों की आवश्यकता है!";
+
+/* No comment provided by engineer. */
+"Width" = "चौड़ाई";
+
+/* No comment provided by engineer. */
+"Wrong order of Barbee menu bar icons" = "बारबी मेनू बार आइकन का गलत क्रम";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"Y" = "Y";
+
+/* No comment provided by engineer. */
+"Yes" = "हाँ";
+
+/* No comment provided by engineer. */
+"You can check out the quick start guide to learn more about the two modes of Barbee." = "आप बारबी के दो मोड के बारे में अधिक जानने के लिए त्वरित आरंभ गाइड देख सकते हैं।";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Profile` entry in Barbee's menu." = "आप बारबी के मेनू में `प्रोफ़ाइल` प्रविष्टि को सक्षम या अक्षम कर सकते हैं।";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Quick Search` entry in Barbee's menu." = "आप बारबी के मेनू में `त्वरित खोज` प्रविष्टि को सक्षम या अक्षम कर सकते हैं।";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Widget` entry in Barbee's menu." = "आप बारबी के मेनू में `विजेट` प्रविष्टि को सक्षम या अक्षम कर सकते हैं।";
+
+/* No comment provided by engineer. */
+"You can export diagnostic logs and send them back to the developer, which can help the developer resolve your issue." = "आप नैदानिक लॉग निर्यात कर सकते हैं और उन्हें डेवलपर को वापस भेज सकते हैं, जो डेवलपर को आपकी समस्या को हल करने में मदद कर सकता है।";
+
+/* No comment provided by engineer. */
+"You can modify the layout of the extra menu bar in the app's preferences window" = "आप ऐप की प्राथमिकताएं विंडो में अतिरिक्त मेनू बार के लेआउट को संशोधित कर सकते हैं";
+
+/* No comment provided by engineer. */
+"You have unlocked all features for 3 days, enjoy!" = "आपने 3 दिनों के लिए सभी सुविधाएं अनलॉक कर दी हैं, आनंद लें!";
+
+/* No comment provided by engineer. */
+"You have unlocked all features, enjoy!" = "आपने सभी सुविधाएं अनलॉक कर दी हैं, आनंद लें!";
+
+/* No comment provided by engineer. */
+"Arrange" = "व्यवस्थित करें";
+
+/* No comment provided by engineer. */
+"• Cloud backup and sync profiles" = "• क्लाउड बैकअप और प्रोफ़ाइल सिंक करना";
+
+/* No comment provided by engineer. */
+"• Supercharge your scripts or shortcuts with Barbee" = "• बारबी के साथ अपने स्क्रिप्ट या शॉर्टकट को सुपरचार्ज करें";
+
+/* No comment provided by engineer. */
+"No items found" = "कोई आइटम नहीं मिला";
+
+/* No comment provided by engineer. */
+"This prompt will appear when Barbee is running on a newer version of macOS to capture the screenshot of menu bar items. \\n⛔️ Barbee is an offline app with no network permissions." = "यह प्रॉम्प्ट तब दिखाई देगा जब Barbee मेनू बार आइटम का स्क्रीनशॉट लेने के लिए macOS के नए संस्करण पर चल रहा होगा। \n⛔️ Barbee बिना नेटवर्क अनुमतियों वाला एक ऑफ़लाइन ऐप है।";
+
+/* No comment provided by engineer. */
+"Got it" = "समझ गया";
+
+/* No comment provided by engineer. */
+"🧮 Restore Patches" = "🧮 पैच पुनर्स्थापित करें";
+
+/* No comment provided by engineer. */
+"Reset All Permissions" = "सभी अनुमतियाँ रीसेट करें";
+
+/* No comment provided by engineer. */
+"Do you want to import this patch?" = "क्या आप इस पैच को आयात करना चाहते हैं?";
+
+/* No comment provided by engineer. */
+"The patch has been imported." = "पैच आयात कर लिया गया है।";
+
+/* No comment provided by engineer. */
+"Failed to import patch." = "पैच आयात करने में विफल।";
+
+/* No comment provided by engineer. */
+"Active Symbol" = "सक्रिय प्रतीक";
+
+/* No comment provided by engineer. */
+"Active Barbee symbol with number: ${number}" = "संख्या: ${number} के साथ सक्रिय Barbee प्रतीक";
+
+/* No comment provided by engineer. */
+"Active Barbee symbol with number." = "संख्या के साथ सक्रिय Barbee प्रतीक।";
+
+/* No comment provided by engineer. */
+"Symbol Number" = "प्रतीक संख्या";
+
+/* No comment provided by engineer. */
+"Text" = "पाठ";
+
+/* No comment provided by engineer. */
+"Image" = "छवि";
+
+/* No comment provided by engineer. */
+"Search" = "खोजें";
+
+/* No comment provided by engineer. */
+"Cancel" = "रद्द करें";
+
+/* No comment provided by engineer. */
+"Launch Barbee at login?" = "लॉगिन पर Barbee लॉन्च करें?";
+
+/* No comment provided by engineer. */
+"It is strongly recommended to launch Barbee at login, would you like to enable it?" = "लॉगिन पर Barbee लॉन्च करने की पुरज़ोर सिफ़ारिश की जाती है, क्या आप इसे सक्षम करना चाहेंगे?";
+
+/* No comment provided by engineer. */
+"Rate on the Mac App Store" = "मैक ऐप स्टोर पर रेट करें";
+
+/* No comment provided by engineer. */
+"Rate Now" = "अभी रेट करें";
+
+/* No comment provided by engineer. */
+"Love Barbee?" = "Barbee पसंद है?";
+
+/* No comment provided by engineer. */
+"Whether you love Barbee or feel we could be doing better, we want to know!" = "चाहे आपको Barbee पसंद हो या आपको लगे कि हम बेहतर कर सकते हैं, हम जानना चाहते हैं!";
+
+/* No comment provided by engineer. */
+"Barbee's menu bar icon has been hidden" = "Barbee का मेनू बार आइकन छिपा दिया गया है";
+
+/* No comment provided by engineer. */
+"You can change the location of Barbee's menu bar icon in the `Menu Bar Layout` setting" = "आप `मेनू बार लेआउट` सेटिंग में Barbee के मेनू बार आइकन का स्थान बदल सकते हैं";
+
+/* No comment provided by engineer. */
+"Ignore" = "अनदेखा करें";
+
+/* No comment provided by engineer. */
+"The icon may persist in the menu bar and impact your experience using Barbee." = "आइकन मेनू बार में बना रह सकता है और Barbee का उपयोग करने के आपके अनुभव को प्रभावित कर सकता है।";
+
+/* No comment provided by engineer. */
+"Cursor Keeps Flickering?" = "क्या कर्सर लगातार झिलमिलाता रहता है?";
+
+/* No comment provided by engineer. */
+"If your cursor keeps flickering, try clicking the button to fix it." = "यदि आपका कर्सर लगातार झिलमिलाता रहता है, तो इसे ठीक करने के लिए बटन पर क्लिक करने का प्रयास करें।";
+
+/* No comment provided by engineer. */
+"🔨 Fix cursor issues" = "🔨 कर्सर की समस्याएँ ठीक करें";
+
+/* No comment provided by engineer. */
+"Cursor issues fixed successfully" = "कर्सर की समस्याएँ सफलतापूर्वक ठीक हो गईं";
+
+/* No comment provided by engineer. */
+"Cursor issue fix failed" = "कर्सर समस्या समाधान विफल रहा";
+
+/* No comment provided by engineer. */
+"Menu Bar Style:" = "मेनू बार शैली:";
+
+/* No comment provided by engineer. */
+"Menu Bar Size:" = "मेनू बार आकार:";
+
+/* No comment provided by engineer. */
+"Unified" = "एकीकृत";
+
+/* No comment provided by engineer. */
+"Separated" = "पृथक";
+
+/* No comment provided by engineer. */
+"Regular" = "नियमित";
+
+/* No comment provided by engineer. */
+"Thin" = "पतला";
+
+/* No comment provided by engineer. */
+"Mini" = "मिनी";
+
+/* No comment provided by engineer. */
+"Menu Bar Tint:" = "मेनू बार रंग:";
+
+/* No comment provided by engineer. */
+"⬅️Left" = "⬅️बाएँ";
+
+/* No comment provided by engineer. */
+"Right➡️" = "दाएँ➡️";
+
+/* No comment provided by engineer. */
+"Menu Bar Corner Radius:" = "मेनू बार कोना त्रिज्या:";
+
+/* No comment provided by engineer. */
+"Default" = "डिफ़ॉल्ट";
+
+/* No comment provided by engineer. */
+"Menu Bar Border Color:" = "मेनू बार बॉर्डर रंग:";
+
+/* No comment provided by engineer. */
+"Menu Bar Border Width:" = "मेनू बार बॉर्डर चौड़ाई:";
+
+/* No comment provided by engineer. */
+"Thanks to all who keep supporting Barbee🖤.\\nYour encouragement is the fuel that keeps me going.\\n\\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\\n👋 please reach out. You will get it free of charge🆓️. \\n\\n🌐️ If you can help translate Barbee into your language or improve Barbee's current translations, \\nyou will have the lifetime version and your name will be listed as a contributor to Barbee." = "Barbee का समर्थन करने वाले सभी लोगों को धन्यवाद🖤।\nआपका प्रोत्साहन वह ईंधन है जो मुझे आगे बढ़ाता रहता है।\n\nयदि आप एक छात्र, शिक्षक, ओपन-सोर्स अनुरक्षक हैं, या यदि इस सशुल्क संस्करण को खरीदना आपकी वर्तमान क्षमता से परे है,\n👋 कृपया संपर्क करें। आपको यह निःशुल्क मिलेगा🆓️। \n\n🌐️ यदि आप Barbee को अपनी भाषा में अनुवाद करने या Barbee के वर्तमान अनुवादों को बेहतर बनाने में मदद कर सकते हैं, \nतो आपके पास आजीवन संस्करण होगा और आपका नाम Barbee में योगदानकर्ता के रूप में सूचीबद्ध किया जाएगा।";
+
+/* No comment provided by engineer. */
+"Get it for free" = "मुफ़्त में प्राप्त करें";
+
+/* No comment provided by engineer. */
+"Redeem code" = "कोड रिडीम करें";
+
+/* No comment provided by engineer. */
+"Award" = "पुरस्कार";
+
+/* No comment provided by engineer. */
+"Yearly" = "वार्षिक";
+
+/* No comment provided by engineer. */
+"Yearly VIP membership" = "वार्षिक वीआईपी सदस्यता";
+
+/* No comment provided by engineer. */
+"Yearly - %@" = "वार्षिक - %@";
+
+/* No comment provided by engineer. */
+"Your payment will be charged to your iTunes Account once you confirm your purchase. Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase." = "आपकी खरीदारी की पुष्टि करने के बाद आपका भुगतान आपके iTunes खाते से लिया जाएगा। आपकी वर्तमान सदस्यता अवधि के अंत में आपकी सदस्यता स्वतः नवीनीकृत होने पर आपका iTunes खाता फिर से लिया जाएगा, जब तक कि वर्तमान अवधि समाप्त होने से कम से कम 24 घंटे पहले स्वतः नवीनीकरण बंद न कर दिया जाए। आप खरीदारी के बाद किसी भी समय अपनी Apple ID खाता सेटिंग में स्वतः नवीनीकरण को प्रबंधित या बंद कर सकते हैं।";
+
+/* No comment provided by engineer. */
+"Manage Subscription" = "सदस्यता प्रबंधित करें";
+
+/* No comment provided by engineer. */
+"When the screen width is wide enough, menu bar icons will no longer be hidden" = "जब स्क्रीन की चौड़ाई पर्याप्त चौड़ी होगी, तो मेनू बार आइकन छिपे नहीं रहेंगे";
+
+/* No comment provided by engineer. */
+"The screen width threshold" = "स्क्रीन चौड़ाई सीमा";
+
+/* No comment provided by engineer. */
+"pixel(s)" = "पिक्सेल(s)";
+
+/* No comment provided by engineer. */
+"Found screen size(s):" = "मिली स्क्रीन आकार(s):";
+
+/* No comment provided by engineer. */
+"Reset All" = "सभी रीसेट करें";
+
+/* No comment provided by engineer. */
+"Reset to default appearance:" = "डिफ़ॉल्ट उपस्थिति पर रीसेट करें:";
+
+/* No comment provided by engineer. */
+"Follow us" = "हमें फ़ॉलो करें";
+
+/* No comment provided by engineer. */
+"Translate Barbee" = "Barbee का अनुवाद करें";
+
+/* No comment provided by engineer. */
+"Start Translating" = "अनुवाद करना शुरू करें";
+
+/* No comment provided by engineer. */
+"💦Contributors" = "💦योगदानकर्ता";
+
+/* No comment provided by engineer. */
+"Special thanks to these volunteers for helping with Barbee Localization! 🌍🌎🌏" = "Barbee स्थानीयकरण में मदद करने वाले इन स्वयंसेवकों को विशेष धन्यवाद! 🌍🌎🌏";
+
+/* No comment provided by engineer. */
+"👋Translating Barbee" = "👋Barbee का अनुवाद";
+
+/* No comment provided by engineer. */
+"If you want to help translate Barbee into other languages or improve existing translations, we would very appreciate that." = "यदि आप Barbee को अन्य भाषाओं में अनुवाद करने या मौजूदा अनुवादों को बेहतर बनाने में मदद करना चाहते हैं, तो हम इसकी बहुत सराहना करेंगे।";
+
+/* No comment provided by engineer. */
+"Optimization:" = "अनुकूलन:";
+
+/* No comment provided by engineer. */
+"Reduce the interference of the `Screen Recording` icon" = "`स्क्रीन रिकॉर्डिंग` आइकन के हस्तक्षेप को कम करें";
+
+/* No comment provided by engineer. */
+"Reduce the refresh frequency of the menu bar icon and optimize the appearance probability of the `Screen Recording` icon." = "मेनू बार आइकन की ताज़ा आवृत्ति को कम करें और `स्क्रीन रिकॉर्डिंग` आइकन की उपस्थिति संभावना को अनुकूलित करें।";
+
+/* No comment provided by engineer. */
+"Special thanks to:" = "विशेष धन्यवाद:";
+
+/* No comment provided by engineer. */
+"Optimize the cursor click, unable to move, flicker and disappear issues" = "कर्सर क्लिक, स्थानांतरित करने में असमर्थता, झिलमिलाहट और गायब होने की समस्याओं को अनुकूलित करें";
+
+/* No comment provided by engineer. */
+"Use the more optimized menu bar icon management algorithm" = "अधिक अनुकूलित मेनू बार आइकन प्रबंधन एल्गोरिदम का उपयोग करें";
+
+/* No comment provided by engineer. */
+"Tip: You can also hold down command ⌘ and drag the icon in the menu bar to change the menu bar layout." = "सुझाव: आप मेनू बार लेआउट बदलने के लिए कमांड ⌘ को दबाकर मेनू बार में आइकन को खींच भी सकते हैं।";
+
+/* No comment provided by engineer. */
+"Special Item Library:" = "विशेष आइटम लाइब्रेरी:";
+
+/* No comment provided by engineer. */
+"Add spacer between items" = "आइटम के बीच स्पेसर जोड़ें";
+
+/* No comment provided by engineer. */
+"Put items into a group" = "आइटम को एक समूह में रखें";
+
+/* No comment provided by engineer. */
+"Spacer width: %d" = "स्पेसर चौड़ाई: %d";
+
+/* No comment provided by engineer. */
+"Width:" = "चौड़ाई:";
+
+/* No comment provided by engineer. */
+"Spacer width: %d" = "स्पेसर चौड़ाई: %d";
+
+/* No comment provided by engineer. */
+"Automatically hide other items before showing hidden items" = "छुपे हुए आइटम दिखाने से पहले अन्य आइटम को स्वचालित रूप से छिपाएं";
+
+/* No comment provided by engineer. */
+"Show hidden items more concisely and focused, but only works in 'Enhanced Mode'" = "छुपे हुए आइटम को अधिक संक्षिप्त और केंद्रित रूप से दिखाएं, लेकिन केवल 'उन्नत मोड' में काम करता है";
+
+/* No comment provided by engineer. */
+"Items in group:" = "समूह में आइटम:";
+
+/* No comment provided by engineer. */
+"Candidates:" = "उम्मीदवार:";
+
+/* No comment provided by engineer. */
+"Group: %@" = "समूह: %@";
+
+/* No comment provided by engineer. */
+"No name" = "कोई नाम नहीं";
+
+/* No comment provided by engineer. */
+"Drop down menu bar participates in macOS window cycling" = "ड्रॉप डाउन मेनू बार macOS विंडो साइकलिंग में भाग लेता है";
+
+/* No comment provided by engineer. */
+"The drop down menu bar can become the user's active window." = "ड्रॉप डाउन मेनू बार उपयोगकर्ता की सक्रिय विंडो बन सकता है।";
+
+/* No comment provided by engineer. */
+"Show group on click" = "क्लिक पर समूह दिखाएं";
+
+/* No comment provided by engineer. */
+"Show group on hover" = "होवर पर समूह दिखाएं";
+
+/* No comment provided by engineer. */
+"Auto sync with iCloud" = "iCloud के साथ ऑटो सिंक करें";
+
+/* No comment provided by engineer. */
+"Rename" = "नाम बदलें";
+
+/* No comment provided by engineer. */
+"Matches icon state" = "आइकन स्थिति से मेल खाता है";
+
+/* No comment provided by engineer. */
+"Does not match icon state" = "आइकन स्थिति से मेल नहीं खाता है";
+
+/* No comment provided by engineer. */
+"Battery state" = "बैटरी स्थिति";
+
+/* No comment provided by engineer. */
+"Power source" = "पावर स्रोत";
+
+/* No comment provided by engineer. */
+"⚡️Any Power Source" = "⚡️कोई भी पावर स्रोत";
+
+/* No comment provided by engineer. */
+"🔋 Battery" = "🔋 बैटरी";
+
+/* No comment provided by engineer. */
+"🔌 Power Adapter" = "🔌 पावर एडाप्टर";
