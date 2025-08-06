@@ -1,0 +1,1382 @@
+/* No comment provided by engineer. */
+" in the menu bar to start!" = " у меню-бар каб пачаць!";
+
+/* No comment provided by engineer. */
+" will be always hidden." = " заўсёды будзе схаваны.";
+
+/* No comment provided by engineer. */
+" will be hidden." = " будзе схаваны.";
+
+/* No comment provided by engineer. */
+"sec(s)" = "сек.";
+
+/* No comment provided by engineer. */
+"• Manage the menu bar icons as you want" = "• Кіруйце значкамі меню-бара як хочаце";
+
+/* No comment provided by engineer. */
+"• Various menu appearance styles" = "• Розныя стылі выгляду меню";
+
+/* No comment provided by engineer. */
+"• Reduce menu bar icon spacing" = "• Зменшыць адлегласць паміж значкамі меню-бара";
+
+/* No comment provided by engineer. */
+"• Support the menu bar with a notch" = "• Падтрымка меню-бара з выразам";
+
+/* No comment provided by engineer. */
+"• Unlimited number of times you can show/hide menu bar icons" = "• Неабмежаваная колькасць паказаў/схавання значкоў меню-бара";
+
+/* No comment provided by engineer. */
+"⌘ Shortcut List:" = "⌘ Спіс хуткіх клавіш:";
+
+/* No comment provided by engineer. */
+"⏰️  Monitor menu bar item changes, then perform an action" = "⏰️  Маніторынг зменаў элементаў меню-бара і выкананне дзеяння";
+
+/* No comment provided by engineer. */
+"⚠️⚠️⚠️Unresponsive Item %@" = "⚠️⚠️⚠️Няадказны элемент %@";
+
+/* No comment provided by engineer. */
+"⛔️️ Barbee does not collect or track any of your personal data and Barbee does not apply for any network permissions." = "⛔️️ Barbee не збірае і не адсочвае вашыя асабістыя дадзеныя і не запытвае ніякіх сеткавых дазволаў.";
+
+/* No comment provided by engineer. */
+"✅️ Accessibility permission granted" = "✅️ Дазвол на доступ да магчымасцяў дадзены";
+
+/* No comment provided by engineer. */
+"✅️ Screen Recording permission granted" = "✅️ Дазвол на запіс экрана дадзены";
+
+/* No comment provided by engineer. */
+"✉️ Contact us" = "✉️ Сувязь з намі";
+
+/* No comment provided by engineer. */
+"⭐️️ Drag to arrange your menu bar items as you want!" = "⭐️️ Перацягніце, каб арганізаваць элементы меню-бара па вашаму жаданні!";
+
+/* No comment provided by engineer. */
+"🐝 Relaunch Barbee" = "🐝 Перазапусціць Barbee";
+
+/* No comment provided by engineer. */
+"🐞 Report bugs" = "🐞 Паведаміць пра памылкі";
+
+/* No comment provided by engineer. */
+"👀 View details..." = "👀 Паглядзець падрабязнасці...";
+
+/* No comment provided by engineer. */
+"👉 In the pop-up authorization window, please 🔓unlock in the lower-left corner first, then ✔️allow Barbee in the right list." = "👉 У акне аўтарызацыі, якое з'явіцца, калі ласка, спачатку 🔓разаблакуйце ў ніжнім левым куце, а затым ✔️дозвольце Barbee ў правым спісе.";
+
+/* No comment provided by engineer. */
+"💥Supercharge your scripts or shortcuts with Barbee" = "💥Суперзарадзіце свае скрыпты або хуткія спасылкі з Barbee";
+
+/* No comment provided by engineer. */
+"📊 Export logs..." = "📊 Экспартаваць журналы...";
+
+/* No comment provided by engineer. */
+"🔥️ Enhanced Mode" = "🔥️ Пашыраны рэжым";
+
+/* No comment provided by engineer. */
+"🕶️ You are the VIP" = "🕶️ Вы VIP";
+
+/* No comment provided by engineer. */
+"🦄 Join TestFlight..." = "🦄 Далучайцеся да TestFlight...";
+
+/* No comment provided by engineer. */
+"🧩 Right-click to customize Barbee widget group" = "🧩 Клікніце правай кнопкай мышы, каб наладзіць групу віджэтаў Barbee";
+
+/* No comment provided by engineer. */
+"🧩 Right-click to customize Barbee widgets" = "🧩 Клікніце правай кнопкай мышы, каб наладзіць віджэты Barbee";
+
+/* No comment provided by engineer. */
+"🧩 Widget Management" = "🧩 Кіраванне віджэтамі";
+
+/* No comment provided by engineer. */
+"3-day Free Trial" = "Бясплатны 3-дзённы пробны перыяд";
+
+/* No comment provided by engineer. */
+"About" = "Пра праграму";
+
+/* No comment provided by engineer. */
+"Accessibility" = "Даступнасць";
+
+/* No comment provided by engineer. */
+"Action" = "Дзеянне";
+
+/* No comment provided by engineer. */
+"Action:" = "Дзеянне:";
+
+/* No comment provided by engineer. */
+"Activate for %d second(s)" = "Актываваць на %d секунды(аў)";
+
+/* No comment provided by engineer. */
+"Activate for a while" = "Актываваць на некаторы час";
+
+/* No comment provided by engineer. */
+"Activate seconds: %d" = "Секунды актывацыі: %d";
+
+/* No comment provided by engineer. */
+"Active" = "Актыўны";
+
+/* No comment provided by engineer. */
+"Active Barbee profile with name: ${profileName}" = "Актыўны профіль Barbee з імем: ${profileName}";
+
+/* No comment provided by engineer. */
+"Active Barbee profile with name." = "Актыўны профіль Barbee з імем.";
+
+/* No comment provided by engineer. */
+"Active Profile" = "Актыўны профіль";
+
+/* No comment provided by engineer. */
+"Actived profile successfully" = "Профіль актываваны паспяхова";
+
+/* No comment provided by engineer. */
+"Add" = "Дадаць";
+
+/* No comment provided by engineer. */
+"Add/Remove menu bar inner shadow and drop shadow." = "Дадаць/выдаліць ўнутраны цені меню-бара і цені адкіду.";
+
+/* No comment provided by engineer. */
+"All Menu Bar Item" = "Усе элементы меню-бара";
+
+/* No comment provided by engineer. */
+"All menu bar items are visible on external screens" = "Усе элементы меню-бара бачныя на знешніх экранах";
+
+/* No comment provided by engineer. */
+"Alpha Value" = "Значэнне альфа";
+
+/* No comment provided by engineer. */
+"Always Hidden" = "Заўсёды схаваны";
+
+/* No comment provided by engineer. */
+"Always Hidden Items" = "Заўсёды схаваныя элементы";
+
+/* No comment provided by engineer. */
+"Always Hidden Items:" = "Заўсёды схаваныя элементы:";
+
+/* No comment provided by engineer. */
+"Always Hidden Menu Bar Item" = "Заўсёды схаваны элемент меню-бара";
+
+/* No comment provided by engineer. */
+"App Modules" = "Модулі прыкладання";
+
+/* No comment provided by engineer. */
+"Apply" = "Ужыць";
+
+/* No comment provided by engineer. */
+"Authorize" = "Аўтарызаваць";
+
+/* No comment provided by engineer. */
+"Automation" = "Аўтаматызацыя";
+
+/* No comment provided by engineer. */
+"Automation feature requires additional permissions!" = "Функцыя аўтаматызацыі патрабуе дадатковых дазволаў!";
+
+/* No comment provided by engineer. */
+"Backup profile successfully." = "Рэзервовае капіраванне профілю паспяхова.";
+
+/* No comment provided by engineer. */
+"Backup to iCloud drive" = "Рэзервовае капіраванне на iCloud Drive";
+
+/* No comment provided by engineer. */
+"Barbee requires Accessibility access to show/hide the menu bar items." = "Barbee патрабуе доступу да магчымасцяў для паказу/схавання элементаў меню-бара.";
+
+/* No comment provided by engineer. */
+"Barbee requires Screen Recording access to monitor the menu bar item list and capture the images of changed items." = "Barbee патрабуе доступу да запісу экрана для маніторынгу спісу элементаў меню-бара і захопу малюнкаў змененых элементаў.";
+
+/* No comment provided by engineer. */
+"Barbee requires your permissions to access system capabilities to provide its functionality. Please review the permissions below." = "Barbee патрабуе вашых дазволаў для доступу да сістэмных магчымасцяў для забеспячэння сваёй функцыянальнасці. Калі ласка, перагледзьце дазволы ніжэй.";
+
+/* No comment provided by engineer. */
+"Become VIP to use without limitation" = "Станьце VIP, каб выкарыстоўваць без абмежаванняў";
+
+/* No comment provided by engineer. */
+"Beta Testing" = "Бэта-тэставанне";
+
+/* No comment provided by engineer. */
+"Bundle Identifier" = "Ідэнтыфікатар пакета";
+
+/* No comment provided by engineer. */
+"Change inner shadow state: ${innerShadowState}, drop shadow state: ${dropShadowState}" = "Змяніць стан ўнутранай цені: ${innerShadowState}, стан цені адкіду: ${dropShadowState}";
+
+/* No comment provided by engineer. */
+"Change Menu Bar Color" = "Змяніць колер меню-бара";
+
+/* No comment provided by engineer. */
+"Change menu bar color: ${color}" = "Змяніць колер меню-бара: ${color}";
+
+/* No comment provided by engineer. */
+"Change Menu Bar Shadow State" = "Змяніць стан цені меню-бара";
+
+/* No comment provided by engineer. */
+"Change Top Notch State" = "Змяніць стан верхняга выраза";
+
+/* No comment provided by engineer. */
+"Change top notch state: ${state}" = "Змяніць стан верхняга выраза: ${state}";
+
+/* No comment provided by engineer. */
+"Change Wallpaper..." = "Змяніць фонавы малюнак...";
+
+/* No comment provided by engineer. */
+"Change your current screen menu bar color, enter your color hex string(e.g. \"0AB188FF\"). Restore the color of the menu bar if the hex string is empty." = "Змяніць колер меню-бара на бягучым экране, увядзіце свой шасцярковы радок колеру (напрыклад, \"0AB188FF\"). Адновіце колер меню-бара, калі радок колеру пусты.";
+
+/* No comment provided by engineer. */
+"Changing menu bar color requires user directory authorization" = "Змена колеру меню-бара патрабуе аўтарызацыі каталога карыстальніка";
+
+/* No comment provided by engineer. */
+"Changing menu item gaps requires user directory authorization" = "Змена прамежкаў паміж элементамі меню патрабуе аўтарызацыі каталога карыстальніка";
+
+/* No comment provided by engineer. */
+"Choose a menu bar item" = "Выберыце элемент меню-бара";
+
+/* No comment provided by engineer. */
+"Choose Barbee Mode" = "Выберыце рэжым Barbee";
+
+/* No comment provided by engineer. */
+"Click menu bar item" = "Націсніце на элемент меню-бара";
+
+/* No comment provided by engineer. */
+"Click Menu Bar Item (Enhanced mode only)" = "Націсніце на элемент меню-бара (толькі пашыраны рэжым)";
+
+/* No comment provided by engineer. */
+"Click menu bar item by identifier: ${itemIdentifier}" = "Націсніце на элемент меню-бара па ідэнтыфікатары: ${itemIdentifier}";
+
+/* No comment provided by engineer. */
+"Click menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "Націсніце на элемент меню-бара па ідэнтыфікатары (напрыклад, \"com.apple.controlcenter-WiFi\").";
+
+/* No comment provided by engineer. */
+"Click on the menu bar Barbee icon to toggle the visibility of hidden items directly" = "Націсніце на значок Barbee ў меню-бары, каб непасрэдна пераключыць бачнасць схаваных элементаў";
+
+/* No comment provided by engineer. */
+"Click on the menu bar to toggle the visibility of hidden items" = "Націсніце на меню-бар, каб пераключыць бачнасць схаваных элементаў";
+
+/* No comment provided by engineer. */
+"Click the icon " = "Націсніце на значок ";
+
+/* No comment provided by engineer. */
+"Close" = "Зачыніць";
+
+/* No comment provided by engineer. */
+"Color" = "Колер";
+
+/* No comment provided by engineer. */
+"Configuration" = "Канфігурацыя";
+
+/* No comment provided by engineer. */
+"Confirm" = "Пацвердзіць";
+
+/* No comment provided by engineer. */
+"Content" = "Змест";
+
+/* No comment provided by engineer. */
+"Continue" = "Працягнуць";
+
+/* No comment provided by engineer. */
+"Corner Radius" = "Радыус кута";
+
+/* No comment provided by engineer. */
+"Current Item" = "Бягучы элемент";
+
+/* No comment provided by engineer. */
+"Custom shortcuts feature requires additional permissions!" = "Функцыя карыстальніцкіх хуткіх клавіш патрабуе дадатковых дазволаў!";
+
+/* No comment provided by engineer. */
+"Dark Background Color" = "Цёмны колер фону";
+
+/* No comment provided by engineer. */
+"Default Gap - system default spacing between items" = "Стандартны прамежак - сістэмны стандартны інтэрвал паміж элементамі";
+
+/* No comment provided by engineer. */
+"Delay before hiding items again." = "Затрымка перад паўторным схаваннем элементаў.";
+
+/* No comment provided by engineer. */
+"Delete" = "Выдаліць";
+
+/* No comment provided by engineer. */
+"Delete `%@`" = "Выдаліць `%@`";
+
+/* No comment provided by engineer. */
+"Diagnostics" = "Дыягностыка";
+
+/* No comment provided by engineer. */
+"Do you want to backup profiles to iCloud?" = "Ці жадаеце вы зрабіць рэзервовую копію профіляў у iCloud?";
+
+/* No comment provided by engineer. */
+"Do you want to delete profile `%@`?" = "Ці жадаеце вы выдаліць профіль `%@`?";
+
+/* No comment provided by engineer. */
+"Do you want to delete this automation?" = "Ці жадаеце вы выдаліць гэтую аўтаматызацыю?";
+
+/* No comment provided by engineer. */
+"Do you want to delete this shortcut?" = "Ці жадаеце вы выдаліць гэтую хуткую спасылку?";
+
+/* No comment provided by engineer. */
+"Do you want to import this profile?" = "Ці жадаеце вы імпартаваць гэты профіль?";
+
+/* No comment provided by engineer. */
+"Do you want to sync profiles from iCloud?" = "Ці жадаеце вы сінхранізаваць профілі з iCloud?";
+
+/* No comment provided by engineer. */
+"Drop Shadow" = "Цень адкіду";
+
+/* No comment provided by engineer. */
+"Drop Shadow State" = "Стан цені адкіду";
+
+/* No comment provided by engineer. */
+"Edit" = "Рэдагаваць";
+
+/* No comment provided by engineer. */
+"Energy Saver" = "Эканомія энергіі";
+
+/* No comment provided by engineer. */
+"Enhanced Mode" = "Пашыраны рэжым";
+
+/* No comment provided by engineer. */
+"Enhanced mode is only available for Notch screens" = "Пашыраны рэжым даступны толькі для экранаў з выразам";
+
+/* No comment provided by engineer. */
+"Export" = "Экспартаваць";
+
+/* No comment provided by engineer. */
+"Failed to active profile" = "Не ўдалося актываваць профіль";
+
+/* No comment provided by engineer. */
+"Failed to backup profile." = "Не ўдалося зрабіць рэзервовую копію профілю.";
+
+/* No comment provided by engineer. */
+"Failed to change menu item gap" = "Не ўдалося змяніць прамежак паміж элементамі меню";
+
+/* No comment provided by engineer. */
+"Failed to export profile." = "Не ўдалося экспартаваць профіль.";
+
+/* No comment provided by engineer. */
+"Failed to import profile." = "Не ўдалося імпартаваць профіль.";
+
+/* No comment provided by engineer. */
+"Failed to restore" = "Не ўдалося аднавіць";
+
+/* No comment provided by engineer. */
+"Failed to sync profile." = "Не ўдалося сінхранізаваць профіль.";
+
+/* No comment provided by engineer. */
+"Feedback" = "Зваротная сувязь";
+
+/* No comment provided by engineer. */
+"For the setting to work, you must turn on Barbee's `Launch At Login`, log out and log back into macOS." = "Каб наладка працавала, вы павінны ўключыць `Запуск пры ўваходзе` у Barbee, выйсці з сістэмы і зноў увайсці ў macOS.";
+
+/* No comment provided by engineer. */
+"Found %d profile(s)" = "Знойдзена %d профіля(яў)";
+
+/* No comment provided by engineer. */
+"Frame" = "Рамка";
+
+/* No comment provided by engineer. */
+"Generic" = "Агульны";
+
+/* No comment provided by engineer. */
+"Get all menu bar items" = "Атрымаць усе элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Get All Menu Bar Items" = "Атрымаць усе элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Get always hidden menu bar items" = "Атрымаць заўсёды схаваныя элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Get Always Hidden Menu Bar Items" = "Атрымаць заўсёды схаваныя элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Get App Modules" = "Атрымаць модулі прыкладання";
+
+/* No comment provided by engineer. */
+"Get app modules using app bundle identifier: ${bundleIdentifier}" = "Атрымаць модулі прыкладання, выкарыстоўваючы ідэнтыфікатар пакета прыкладання: ${bundleIdentifier}";
+
+/* No comment provided by engineer. */
+"Get hidden menu bar items" = "Атрымаць схаваныя элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Get Hidden Menu Bar Items" = "Атрымаць схаваныя элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Get shown menu bar items" = "Атрымаць паказаныя элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Get Shown Menu Bar Items" = "Атрымаць паказаныя элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Get Started" = "Пачаць";
+
+/* No comment provided by engineer. */
+"Go to Barbee preferences..." = "Перайсці да налад Barbee...";
+
+/* No comment provided by engineer. */
+"Grant Permissions to Barbee" = "Надаць дазволы Barbee";
+
+/* No comment provided by engineer. */
+"Has Top Notch" = "Ёсць верхні выраз";
+
+/* No comment provided by engineer. */
+"Has top notch?" = "Ці ёсць верхні выраз?";
+
+/* No comment provided by engineer. */
+"Height" = "Вышыня";
+
+/* No comment provided by engineer. */
+"Help Center" = "Цэнтр дапамогі";
+
+/* No comment provided by engineer. */
+"Hidden" = "Схаваны";
+
+/* No comment provided by engineer. */
+"Hidden Items" = "Схаваныя элементы";
+
+/* No comment provided by engineer. */
+"Hidden Items:" = "Схаваныя элементы:";
+
+/* No comment provided by engineer. */
+"Hidden Menu Bar Item" = "Схаваны элемент меню-бара";
+
+/* No comment provided by engineer. */
+"Hide" = "Схаваць";
+
+/* No comment provided by engineer. */
+"Hide All" = "Схаваць усё";
+
+/* No comment provided by engineer. */
+"Hide Menu Bar Item (Enhanced mode only)" = "Схаваць элемент меню-бара (толькі пашыраны рэжым)";
+
+/* No comment provided by engineer. */
+"Hide menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "Схаваць элемент меню-бара па ідэнтыфікатары: ${itemIdentifier}, да X: ${x}";
+
+/* No comment provided by engineer. */
+"Hide menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional." = "Схаваць элемент меню-бара па ідэнтыфікатары (напрыклад, \"com.apple.controlcenter-WiFi\"), X - па жаданні.";
+
+/* No comment provided by engineer. */
+"Hide not-showing items" = "Схаваць элементы, якія не адлюстроўваюцца";
+
+/* No comment provided by engineer. */
+"Hold CONTROL(⌃) and click on the menu bar icon to show / hide all items" = "Утрымлівайце CONTROL(⌃) і націсніце на значок меню-бара, каб паказаць/схаваць усе элементы";
+
+/* No comment provided by engineer. */
+"Hold CONTROL(⌃) and click on the menu bar to show / hide all items" = "Утрымлівайце CONTROL(⌃) і націсніце на меню-бар, каб паказаць/схаваць усе элементы";
+
+/* No comment provided by engineer. */
+"Hold OPTION(⌥) and click on the menu bar icon to show / hide hidden items" = "Утрымлівайце OPTION(⌥) і націсніце на значок меню-бара, каб паказаць/схаваць схаваныя элементы";
+
+/* No comment provided by engineer. */
+"Hold the COMMAND(⌘) to drag the menu bar items" = "Утрымлівайце COMMAND(⌘), каб перацягнуць элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Hovered" = "Навядзіце курсор";
+
+/* No comment provided by engineer. */
+"Icon:" = "Значок:";
+
+/* No comment provided by engineer. */
+"If you encounter any problems or would like to help us improve, or localize Barbee, please feel free to contact us!" = "Калі вы сутыкнуліся з праблемамі або жадаеце дапамагчы нам палепшыць або лакалізаваць Barbee, калі ласка, звяжыцеся з намі!";
+
+/* No comment provided by engineer. */
+"If you want to use Barbee in normal mode, just remove the granted permissions in System Preferences." = "Калі вы хочаце выкарыстоўваць Barbee ў нармальным рэжыме, проста выдаліце ​​дазволы, якія былі дадзены ў Сістэмных наладках.";
+
+/* No comment provided by engineer. */
+"Import" = "Імпартаваць";
+
+/* No comment provided by engineer. */
+"In the case of multiple screens, non-notch screens will use normal mode to show/hide menu bar items" = "У выпадку некалькіх экранаў, экраны без выразаў будуць выкарыстоўваць нармальны рэжым для паказу/схавання элементаў меню-бара";
+
+/* No comment provided by engineer. */
+"Inner Shadow" = "Унутраная цень";
+
+/* No comment provided by engineer. */
+"Inner Shadow State" = "Стан унутранай цені";
+
+/* No comment provided by engineer. */
+"InterItem Horizontal Padding" = "Гарызантальны інтэрвал паміж элементамі";
+
+/* No comment provided by engineer. */
+"InterItem Vertical Padding" = "Вертыкальны інтэрвал паміж элементамі";
+
+/* No comment provided by engineer. */
+"Is Menu Bar Visible" = "Ці бачны меню-бар";
+
+/* No comment provided by engineer. */
+"Is menu bar visible?" = "Ці бачны меню-бар?";
+
+/* No comment provided by engineer. */
+"Is Movable by Window Background" = "Ці можна перамяшчаць з фонам акна";
+
+/* No comment provided by engineer. */
+"Item has any changes" = "Элемент мае якія-небудзь змены";
+
+/* No comment provided by engineer. */
+"Item Identifier" = "Ідэнтыфікатар элемента";
+
+/* No comment provided by engineer. */
+"Items" = "Элементы";
+
+/* No comment provided by engineer. */
+"Items dragged to the left will be always hidden. Hold the command ⌘ key to drag the items in menu bar." = "Элементы, перацягнутыя ўлева, заўсёды будуць схаваны. Утрымлівайце клавішу command ⌘, каб перацягнуць элементы ў меню-бар.";
+
+/* No comment provided by engineer. */
+"Items dragged to the left will be hidden. Hold the command ⌘ key to drag the items in menu bar." = "Элементы, перацягнутыя ўлева, будуць схаваны. Утрымлівайце клавішу command ⌘, каб перацягнуць элементы ў меню-бар.";
+
+/* No comment provided by engineer. */
+"Items on the left side of the icon " = "Элементы з левай боку ад значка ";
+
+/* No comment provided by engineer. */
+"Launch At Login" = "Запуск пры ўваходзе";
+
+/* No comment provided by engineer. */
+"Level" = "Роўнядзіна";
+
+/* No comment provided by engineer. */
+"Lifetime" = "Тэрмін службы";
+
+/* No comment provided by engineer. */
+"Lifetime - %@" = "Тэрмін службы - %@";
+
+/* No comment provided by engineer. */
+"Light Background Color" = "Светлы колер фону";
+
+/* No comment provided by engineer. */
+"Lowest" = "Ніжэйшы";
+
+/* No comment provided by engineer. */
+"macOS log out required" = "Трэба выйсці з macOS";
+
+/* No comment provided by engineer. */
+"Makes the notch disappear like a NINJA 🥷. (You can also set the menu bar color to ⬛️)" = "Зробіць выраз як у НІНДЗІ 🥷. (Вы таксама можаце ўсталяваць колер меню-бара на ⬛️)";
+
+/* No comment provided by engineer. */
+"Manage App Modules in Menu Bar" = "Кіраванне модулямі прыкладання ў меню-баре";
+
+/* No comment provided by engineer. */
+"Manage System Modules in Menu Bar" = "Кіраванне сістэмнымі модулямі ў меню-баре";
+
+/* No comment provided by engineer. */
+"Managing app modules requires user directory authorization" = "Кіраванне модулямі прыкладання патрабуе аўтарызацыі каталога карыстальніка";
+
+/* No comment provided by engineer. */
+"Menu Bar" = "Меню-бар";
+
+/* No comment provided by engineer. */
+"Menu Bar Appearance" = "Выгляд меню-бара";
+
+/* No comment provided by engineer. */
+"Menu Bar Color:" = "Колер меню-бара:";
+
+/* No comment provided by engineer. */
+"Menu Bar Item Gap:" = "Прамежак паміж элементамі меню-бара:";
+
+/* No comment provided by engineer. */
+"Menu Bar Layout" = "Макет меню-бара";
+
+/* No comment provided by engineer. */
+"Menu Bar Layout feature requires additional permissions!" = "Функцыя макета меню-бара патрабуе дадатковых дазволаў!";
+
+/* No comment provided by engineer. */
+"Menu Bar Shadow:" = "Цень меню-бара:";
+
+/* No comment provided by engineer. */
+"Menu Bar:" = "Меню-бар:";
+
+/* No comment provided by engineer. */
+"Mode has been changed successfully" = "Рэжым быў паспяхова зменены";
+
+/* No comment provided by engineer. */
+"Mode:" = "Рэжым:";
+
+/* No comment provided by engineer. */
+"More" = "Больш";
+
+/* No comment provided by engineer. */
+"Multi-screen:" = "Мультыэкран:";
+
+/* No comment provided by engineer. */
+"Name" = "Імя";
+
+/* No comment provided by engineer. */
+"Name:" = "Імя:";
+
+/* No comment provided by engineer. */
+"New" = "Новы";
+
+/* No comment provided by engineer. */
+"New Items Location" = "Месцазнаходжанне новых элементаў";
+
+/* No comment provided by engineer. */
+"🆕️ Request new features" = "🆕️ Запытаць новыя функцыі";
+
+/* No comment provided by engineer. */
+"New Single Widget..." = "Новы адзіночны віджэт...";
+
+/* No comment provided by engineer. */
+"New Widget" = "Новы віджэт";
+
+/* No comment provided by engineer. */
+"New Widget Group" = "Новая група віджэтаў";
+
+/* No comment provided by engineer. */
+"New Widget Group..." = "Новая група віджэтаў...";
+
+/* No comment provided by engineer. */
+"Newly discovered menu bar items will be moved to:" = "Новыя элементы меню-бара будуць перамешчаны ў:";
+
+/* No comment provided by engineer. */
+"No" = "Не";
+
+/* No comment provided by engineer. */
+"No action" = "Няма дзеяння";
+
+/* No comment provided by engineer. */
+"No backups" = "Няма рэзервовых копій";
+
+/* No comment provided by engineer. */
+"No configurable app modules found" = "Не знойдзены канфігуруемыя модулі прыкладання";
+
+/* No comment provided by engineer. */
+"No Gap - no spacing between items" = "Без прамежкаў - без інтэрвалаў паміж элементамі";
+
+/* No comment provided by engineer. */
+"No matching results" = "Не знойдзены адпаведныя вынікі";
+
+/* No comment provided by engineer. */
+"Non-subscription, totally free" = "Без падпісак, цалкам бясплатна";
+
+/* No comment provided by engineer. */
+"Normal" = "Нармальны";
+
+/* No comment provided by engineer. */
+"Normal Gap - normal spacing between items" = "Нармальны прамежак - нармальныя інтэрвалы паміж элементамі";
+
+/* No comment provided by engineer. */
+"Normal Mode" = "Нармальны рэжым";
+
+/* No comment provided by engineer. */
+"Not Now" = "Не зараз";
+
+/* No comment provided by engineer. */
+"Notch:" = "Выраз:";
+
+/* No comment provided by engineer. */
+"Ok" = "Ок";
+
+/* No comment provided by engineer. */
+"One-time purchase" = "Аднаразовая пакупка";
+
+/* No comment provided by engineer. */
+"Oops, No Hidden Items! 🔥️You can arrange items in the Preferences." = "Ой, няма схаваных элементаў! 🔥️Вы можаце арганізаваць элементы ў Наладах.";
+
+/* No comment provided by engineer. */
+"Open System Preferences..." = "Адкрыць Сістэмныя налады...";
+
+/* No comment provided by engineer. */
+"Please hold command(⌘) and drag the `<`, `|` and `Barbee icons` in the menu bar and place them in the correct order. The order is: always hidden icons `<` hidden icons `|` shown icons `Barbee icon`." = "Калі ласка, утрымлівайце клавішу command(⌘) і перацягніце `<`, `|` і `Barbee icons` у меню-бар і размясціце іх у правільным парадку. Парадка: заўсёды схаваныя значкі `<` схаваныя значкі `|` паказаныя значкі `Barbee icon`.";
+
+/* No comment provided by engineer. */
+"Preferences" = "Налады";
+
+/* No comment provided by engineer. */
+"Preferences..." = "Налады...";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Палітыка канфідэнцыяльнасці";
+
+/* No comment provided by engineer. */
+"Profile" = "Профіль";
+
+/* No comment provided by engineer. */
+"Profile Entry:" = "Запіс профілю:";
+
+/* No comment provided by engineer. */
+"Profile Name" = "Імя профілю";
+
+/* No comment provided by engineer. */
+"Purchase & Restore" = "Купіць і аднавіць";
+
+/* No comment provided by engineer. */
+"Quick Search" = "Хуткі пошук";
+
+/* No comment provided by engineer. */
+"Quick Search Entry:" = "Запіс хуткага пошуку:";
+
+/* No comment provided by engineer. */
+"Quick Search feature requires additional permissions!" = "Функцыя хуткага пошуку патрабуе дадатковых дазволаў!";
+
+/* No comment provided by engineer. */
+"Quick Search:" = "Хуткі пошук:";
+
+/* No comment provided by engineer. */
+"Quick Start Guide" = "Кіраўніцтва па хуткім пачатку";
+
+/* No comment provided by engineer. */
+"Quit" = "Выход";
+
+/* No comment provided by engineer. */
+"Recommended for users with a large screen or no icons hidden by the system." = "Рэкамендуецца карыстальнікам з вялікім экранам або без значкоў, схаваных сістэмай.";
+
+/* No comment provided by engineer. */
+"Recommended for users with bangs on the screen or users with hidden icons in the system." = "Рэкамендуецца карыстальнікам з чубчыкамі на экране або карыстальнікам з схаванымі значкамі ў сістэме.";
+
+/* No comment provided by engineer. */
+"Reduce Refresh Rate When Using Battery Power" = "Зменшыць частату абнаўлення пры выкарыстанні батарэі";
+
+/* No comment provided by engineer. */
+"Refresh" = "Аднавіць";
+
+/* No comment provided by engineer. */
+"Refresh Interval in Seconds" = "Інтэрвал абнаўлення ў секундах";
+
+/* No comment provided by engineer. */
+"Refresh menu bar items" = "Аднавіць элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Refresh Menu Bar Items" = "Аднавіць элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Related Item:" = "Сумежны элемент:";
+
+/* No comment provided by engineer. */
+"Reduce useable screen space to mask notch" = "Зменшыце карысную прастору экрана, каб схаваць выраз";
+
+/* No comment provided by engineer. */
+"Remove/Add top notch when you use the notched Mac." = "Выдаліць/дадаць верхні выраз, калі вы карыстаецеся Mac з выразам.";
+
+/* No comment provided by engineer. */
+"Request Access..." = "Запытаць доступ...";
+
+/* No comment provided by engineer. */
+"Reset" = "Скінуць";
+
+/* No comment provided by engineer. */
+"Restore Purchase" = "Аднавіць пакупку";
+
+/* No comment provided by engineer. */
+"Restore successfully! If it still doesn't work, please reinstall the app." = "Аднаўленне паспяхова! Калі гэта ўсё яшчэ не працуе, калі ласка, пераўсталюйце прыкладанне.";
+
+/* No comment provided by engineer. */
+"Returns all menu bar items." = "Вяртае ўсе элементы меню-бара.";
+
+/* No comment provided by engineer. */
+"Returns always hidden menu bar items." = "Вяртае заўсёды схаваныя элементы меню-бара.";
+
+/* No comment provided by engineer. */
+"Returns app modules using app bundle identifier." = "Вяртае модулі прыкладання, выкарыстоўваючы ідэнтыфікатар пакета прыкладання.";
+
+/* No comment provided by engineer. */
+"Returns hidden menu bar items." = "Вяртае схаваныя элементы меню-бара.";
+
+/* No comment provided by engineer. */
+"Returns shown menu bar items." = "Вяртае паказаныя элементы меню-бара.";
+
+/* No comment provided by engineer. */
+"Returns whether the current active scrren has top notch." = "Вяртае, ці ёсць у бягучага актыўнага экрана верхні выраз.";
+
+/* No comment provided by engineer. */
+"Returns whether the current active scrren menu bar is visible." = "Вяртае, ці бачны меню-бар бягучага актыўнага экрана.";
+
+/* No comment provided by engineer. */
+"Reveal In Finder" = "Паказаць у Finder";
+
+/* No comment provided by engineer. */
+"Scopes:" = "Масштабы:";
+
+/* No comment provided by engineer. */
+"Screen Recording" = "Запіс экрана";
+
+/* No comment provided by engineer. */
+"Search for a menu bar item" = "Пошук элемента меню-бара";
+
+/* No comment provided by engineer. */
+"Select" = "Выбраць";
+
+/* No comment provided by engineer. */
+"Select a related menu bar item" = "Выбраць сумежны элемент меню-бара";
+
+/* No comment provided by engineer. */
+"Select..." = "Выбраць...";
+
+/* No comment provided by engineer. */
+"Shortcut to show / hide all items:" = "Хуткая клавіша для паказу / схавання ўсіх элементаў:";
+
+/* No comment provided by engineer. */
+"Shortcut to show / hide hidden items:" = "Хуткая клавіша для паказу / схавання схаваных элементаў:";
+
+/* No comment provided by engineer. */
+"Shortcut:" = "Хуткая клавіша:";
+
+/* No comment provided by engineer. */
+"Shortcuts" = "Хуткія клавішы";
+
+/* No comment provided by engineer. */
+"Show" = "Паказаць";
+
+/* No comment provided by engineer. */
+"Show all" = "Паказаць усё";
+
+/* No comment provided by engineer. */
+"Show All" = "Паказаць усё";
+
+/* No comment provided by engineer. */
+"Show all menu bar items" = "Паказаць усе элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Show Entry in Menu" = "Паказаць запіс у меню";
+
+/* No comment provided by engineer. */
+"Show hidden menu bar items" = "Паказаць схаваныя элементы меню-бара";
+
+/* No comment provided by engineer. */
+"Show in All Spaces" = "Паказаць ва ўсіх прасторах";
+
+/* No comment provided by engineer. */
+"Show Menu Bar Item (Enhanced mode only)" = "Паказаць элемент меню-бара (толькі пашыраны рэжым)";
+
+/* No comment provided by engineer. */
+"Show menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "Паказаць элемент меню-бара па ідэнтыфікатары: ${itemIdentifier}, да X: ${x}";
+
+/* No comment provided by engineer. */
+"Show menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional." = "Паказаць элемент меню-бара па ідэнтыфікатары (напрыклад, \"com.apple.controlcenter-WiFi\"), X - па жаданні.";
+
+/* No comment provided by engineer. */
+"Show Profile in Menu" = "Паказаць профіль у меню";
+
+/* No comment provided by engineer. */
+"Shown Items" = "Паказаныя элементы";
+
+/* No comment provided by engineer. */
+"Shown Items:" = "Паказаныя элементы:";
+
+/* No comment provided by engineer. */
+"Shown Menu Bar Item" = "Паказаны элемент меню-бара";
+
+/* No comment provided by engineer. */
+"Small Gap - proper spacing between items" = "Малы прамежак - правільны інтэрвал паміж элементамі";
+
+/* No comment provided by engineer. */
+"Some of the menu bar items will be moved into a separate menu bar in enhanced mode, this mode requires the user to authorize some necessary permissions (Screen Recording & Accessibility), but there will be no extra permission requests in the normal mode." = "Некаторыя элементы меню-бара будуць перамешчаны ў асобны меню-бар у пашыраным рэжыме, гэты рэжым патрабуе ад карыстальніка аўтарызацыі некаторых неабходных дазволаў (Запіс экрана і Даступнасць), але ў нармальным рэжыме не будзе дадатковых запытаў на дазволы.";
+
+/* No comment provided by engineer. */
+"Something Wrong?" = "Што не так?";
+
+/* No comment provided by engineer. */
+"🆘 If the app still prompts that there is no permission after you authorize Barbee, please cancel the authorization of Barbee and delete Barbee in the authorization list, then relaunch Barbee and grant permissions again." = "🆘 Калі прыкладанне ўсё яшчэ паведамляе, што няма дазволу пасля таго, як вы аўтарызавалі Barbee, калі ласка, адмяніце аўтарызацыю Barbee і выдаліце ​​Barbee са спісу аўтарызацый, затым перазапусціце Barbee і зноў дайце дазволы.";
+
+/* No comment provided by engineer. */
+"Start" = "Пачаць";
+
+/* No comment provided by engineer. */
+"Start BarBee automatically at login." = "Пачынаць BarBee аўтаматычна пры ўваходзе.";
+
+/* No comment provided by engineer. */
+"Startup:" = "Старт:";
+
+/* No comment provided by engineer. */
+"State" = "Стан";
+
+/* No comment provided by engineer. */
+"Switch App Module State" = "Пераключыць стан модуля прыкладання";
+
+/* No comment provided by engineer. */
+"Switch Barbee Mode" = "Пераключыць рэжым Barbee";
+
+/* No comment provided by engineer. */
+"Switch the app module state in menu bar by its identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "Пераключыць стан модуля прыкладання ў меню-баре па яго ідэнтыфікатары (напрыклад, \"com.apple.controlcenter-WiFi\").";
+
+/* No comment provided by engineer. */
+"Switch the app module state:${state} in menu bar by its identifier: ${itemIdentifier}" = "Пераключыць стан модуля прыкладання:${state} у меню-баре па яго ідэнтыфікатары: ${itemIdentifier}";
+
+/* No comment provided by engineer. */
+"Switch to Enhanced Mode" = "Пераключыць на пашыраны рэжым";
+
+/* No comment provided by engineer. */
+"Switch to Normal Mode" = "Пераключыць на нармальны рэжым";
+
+/* No comment provided by engineer. */
+"Symbol:" = "Сімвал:";
+
+/* No comment provided by engineer. */
+"Sync from iCloud drive" = "Сінхранізаваць з iCloud Drive";
+
+/* No comment provided by engineer. */
+"Sync profile successfully." = "Профіль паспяхова сінхранізаваны.";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Умовы выкарыстання";
+
+/* No comment provided by engineer. */
+"Thanks for purchasing Barbee VIP" = "Дзякуй за пакупку Barbee VIP";
+
+/* No comment provided by engineer. */
+"Thanks for trying Barbee" = "Дзякуй за спробу Barbee";
+
+/* No comment provided by engineer. */
+"The automation will be deleted and changes take effect immediately" = "Аўтаматызацыя будзе выдалена, і змены ўступяць у сілу неадкладна";
+
+/* No comment provided by engineer. */
+"The beta version may contain bugs or cause issues. Any feedback you can provide is always greatly appreciated." = "Бэта-версія можа ўтрымліваць памылкі або выклікаць праблемы. Мы заўсёды вельмі ўдзячныя за любыя водгукі, якія вы можаце даць.";
+
+/* No comment provided by engineer. */
+"The changes have been saved, and it will take effect after exiting and restarting the app `%@`." = "Змены былі захаваны, і яны ўступяць у сілу пасля выхаду і перазапуску прыкладання `%@`.";
+
+/* No comment provided by engineer. */
+"The following modules have been found that may be displayed in the menu bar, you can enable or disable them." = "Знойдзены наступныя модулі, якія могуць адлюстроўвацца ў меню-баре, вы можаце ўключыць або выключыць іх.";
+
+/* No comment provided by engineer. */
+"The hidden menu bar icon will appear in a separate menu bar in the upper right corner." = "Схаваны значок меню-бара з'явіцца ў асобным меню-баре ў верхнім правым куце.";
+
+/* No comment provided by engineer. */
+"The hidden menu bar icons will be collapsed." = "Схаваныя значкі меню-бара будуць скрыты.";
+
+/* No comment provided by engineer. */
+"The hover area of the menu bar include the app menu and Apple logo area" = "Плошча навядзення меню-бара ўключае меню прыкладання і зону лагатыпа Apple";
+
+/* No comment provided by engineer. */
+"The iCloud profiles will be replaced by the local profiles, which cannot be restored." = "Профілі iCloud будуць заменены лакальнымі профілямі, якія не могуць быць адноўлены.";
+
+/* No comment provided by engineer. */
+"The item is invisible" = "Элемент невідавочны";
+
+/* No comment provided by engineer. */
+"The item is invisible because of the top notch, you can hide the notch, adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "Элемент невідавочны з-за верхняга выраза, вы можаце схаваць выраз, адрэгуляваць дазвол экрана або зменшыць колькасць бачных элементаў у наладках Barbee.";
+
+/* No comment provided by engineer. */
+"The item is invisible because the menu bar does not have enough space, you can adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "Элемент невідавочны, бо меню-бар не мае дастатковай прасторы, вы можаце адрэгуляваць дазвол экрана або зменшыць колькасць бачных элементаў у наладках Barbee.";
+
+/* No comment provided by engineer. */
+"The local profiles will be replaced by the iCloud profiles, which cannot be restored." = "Лакальныя профілі будуць заменены профілямі iCloud, якія не могуць быць адноўлены.";
+
+/* No comment provided by engineer. */
+"The profile has been exported." = "Профіль быў экспартаваны.";
+
+/* No comment provided by engineer. */
+"The profile has been imported." = "Профіль быў імпартаваны.";
+
+/* No comment provided by engineer. */
+"The selected item is not in the menu bar now" = "Выбраны элемент цяпер не ў меню-баре";
+
+/* No comment provided by engineer. */
+"The shadow below the menu bar" = "Цень пад меню-баром";
+
+/* No comment provided by engineer. */
+"The shadow in the menu bar" = "Цень у меню-баре";
+
+/* No comment provided by engineer. */
+"The shortcut will be deleted and changes take effect immediately" = "Хуткая клавіша будзе выдалена, і змены ўступяць у сілу неадкладна";
+
+/* No comment provided by engineer. */
+"Then: %@" = "Тады: %@";
+
+/* No comment provided by engineer. */
+"Top Notch" = "Верхні выраз";
+
+/* No comment provided by engineer. */
+"Topmost" = "Над усім";
+
+/* No comment provided by engineer. */
+"Trigger:" = "Трыгер:";
+
+/* No comment provided by engineer. */
+"Upgrade to Barbee VIP" = "Абнавіць да Barbee VIP";
+
+/* No comment provided by engineer. */
+"Use Barbee in enhanced mode?" = "Выкарыстоўваць Barbee ў пашыраным рэжыме?";
+
+/* No comment provided by engineer. */
+"Use in Shortcuts" = "Выкарыстоўваць у Хуткіх спасылках";
+
+/* No comment provided by engineer. */
+"View iCloud profiles" = "Праглядзець профілі iCloud";
+
+/* No comment provided by engineer. */
+"View URL Schemes" = "Праглядзець схемы URL";
+
+/* No comment provided by engineer. */
+"Welcome to Barbee!" = "Сардэчна запрашаем у Barbee!";
+
+/* No comment provided by engineer. */
+"When hovering for more than a certain period of time, show hidden items." = "Калі курсор знаходзіцца на працягу пэўнага часу, паказваць схаваныя элементы.";
+
+/* No comment provided by engineer. */
+"When hovering over the menu bar, hidden items will be shown automatically" = "Калі курсор знаходзіцца над меню-баром, схаваныя элементы будуць паказаны аўтаматычна";
+
+/* No comment provided by engineer. */
+"When hovering over the menu of the app or the Apple(🍎) logo, hidden items will be also shown automatically" = "Калі курсор знаходзіцца над меню прыкладання або лагатыпам Apple(🍎), схаваныя элементы таксама будуць паказаны аўтаматычна";
+
+/* No comment provided by engineer. */
+"When leaving the menu bar, hidden items will be hidden again" = "Калі пакідаеце меню-бар, схаваныя элементы зноў будуць схаваны";
+
+/* No comment provided by engineer. */
+"When the external screen becomes the focus, all menu bar items will be visible, and when the focus is lost, they will be hidden again." = "Калі знешні экран становіцца ў цэнтры ўвагі, усе элементы меню-бара будуць бачныя, а калі ўвага страчана, яны зноў будуць схаваны.";
+
+/* No comment provided by engineer. */
+"When there is a problem with Barbee, you can try to relaunch Barbee to solve this problem." = "Калі ўзнікае праблема з Barbee, вы можаце паспрабаваць перазапусціць Barbee, каб вырашыць гэтую праблему.";
+
+/* No comment provided by engineer. */
+"When you click on the blank area of the menu bar, Barbee will toggle showing hidden items." = "Калі вы націснеце на пустую зону меню-бара, Barbee пераключыць паказ схаваных элементаў.";
+
+/* No comment provided by engineer. */
+"When you click on the menu bar icon, Barbee will toggle showing hidden items instead of Barbee menu. The Barbee menu will be displayed when you right-click the menu bar icon." = "Калі вы націснеце на значок меню-бара, Barbee пераключыць паказ схаваных элементаў замест меню Barbee. Меню Barbee будзе адлюстравана, калі вы націснеце правай кнопкай мышы на значок меню-бара.";
+
+/* No comment provided by engineer. */
+"When you hold CONTROL(⌃) and click on the menu bar icon, Barbee will toggle showing / hiding all items." = "Калі вы ўтрымліваеце CONTROL(⌃) і націскаеце на значок меню-бара, Barbee пераключыць паказ/схаваць усе элементы.";
+
+/* No comment provided by engineer. */
+"When you hold CONTROL(⌃) and click on the menu bar, Barbee will toggle showing / hiding all items." = "Калі вы ўтрымліваеце CONTROL(⌃) і націскаеце на меню-бар, Barbee пераключыць паказ/схаваць усе элементы.";
+
+/* No comment provided by engineer. */
+"When you hold OPTION(⌥) and click on the menu bar icon, Barbee will toggle showing / hiding hidden items." = "Калі вы ўтрымліваеце OPTION(⌥) і націскаеце на значок меню-бара, Barbee пераключыць паказ/схаваць схаваныя элементы.";
+
+/* No comment provided by engineer. */
+"When: %@" = "Калі: %@";
+
+/* No comment provided by engineer. */
+"Which mode of tutorial would you like to see?" = "Які рэжым навучання вы хацелі б убачыць?";
+
+/* No comment provided by engineer. */
+"Widget" = "Віджэт";
+
+/* No comment provided by engineer. */
+"Widget Entry:" = "Запіс віджэта:";
+
+/* No comment provided by engineer. */
+"Widget feature requires additional permissions!" = "Функцыя віджэта патрабуе дадатковых дазволаў!";
+
+/* No comment provided by engineer. */
+"Width" = "Шырыня";
+
+/* No comment provided by engineer. */
+"Wrong order of Barbee menu bar icons" = "Неправільны парадак значкоў меню-бара Barbee";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"Y" = "Y";
+
+/* No comment provided by engineer. */
+"Yes" = "Так";
+
+/* No comment provided by engineer. */
+"You can check out the quick start guide to learn more about the two modes of Barbee." = "Вы можаце азнаёміцца ​​з кіраўніцтвам па хуткім пачатку, каб даведацца больш пра два рэжымы Barbee.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Profile` entry in Barbee's menu." = "Вы можаце ўключыць або выключыць запіс `Профіль` у меню Barbee.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Quick Search` entry in Barbee's menu." = "Вы можаце ўключыць або выключыць запіс `Хуткі пошук` у меню Barbee.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Widget` entry in Barbee's menu." = "Вы можаце ўключыць або выключыць запіс `Віджэт` у меню Barbee.";
+
+/* No comment provided by engineer. */
+"You can export diagnostic logs and send them back to the developer, which can help the developer resolve your issue." = "Вы можаце экспартаваць дыягнастычныя журналы і адправіць іх назад распрацоўшчыку, што можа дапамагчы распрацоўшчыку вырашыць вашу праблему.";
+
+/* No comment provided by engineer. */
+"You can modify the layout of the extra menu bar in the app's preferences window" = "Вы можаце змяніць макет дадатковага меню-бара ў акне налад прыкладання";
+
+/* No comment provided by engineer. */
+"You have unlocked all features for 3 days, enjoy!" = "Вы адкрылі ўсе функцыі на 3 дні, атрымлівайце асалоду!";
+
+/* No comment provided by engineer. */
+"You have unlocked all features, enjoy!" = "Вы адкрылі ўсе функцыі, атрымлівайце асалоду!";
+
+/* No comment provided by engineer. */
+"Arrange" = "Арганізаваць";
+
+/* No comment provided by engineer. */
+"• Cloud backup and sync profiles" = "• Хмарнае рэзервовае капіраванне і сінхранізацыя профіляў";
+
+/* No comment provided by engineer. */
+"• Supercharge your scripts or shortcuts with Barbee" = "• Суперзарадзіце свае скрыпты або хуткія спасылкі з Barbee";
+
+/* No comment provided by engineer. */
+"No items found" = "Элементаў не знойдзена";
+
+/* No comment provided by engineer. */
+"This prompt will appear when Barbee is running on a newer version of macOS to capture the screenshot of menu bar items. \\n⛔️ Barbee is an offline app with no network permissions." = "Гэты запыт з'явіцца, калі Barbee працуе на новай версіі macOS, каб захапіць скрыншот элементаў меню-бара. \n⛔️ Barbee - гэта афлайн-прыкладанне без сеткавых дазволаў.";
+
+/* No comment provided by engineer. */
+"Got it" = "Зразумеў";
+
+/* No comment provided by engineer. */
+"🧮 Restore Patches" = "🧮 Адновіць патчы";
+
+/* No comment provided by engineer. */
+"Reset All Permissions" = "Скінуць усе дазволы";
+
+/* No comment provided by engineer. */
+"Do you want to import this patch?" = "Ці жадаеце вы імпартаваць гэты патч?";
+
+/* No comment provided by engineer. */
+"The patch has been imported." = "Патч быў імпартаваны.";
+
+/* No comment provided by engineer. */
+"Failed to import patch." = "Не ўдалося імпартаваць патч.";
+
+/* No comment provided by engineer. */
+"Active Symbol" = "Актыўны сімвал";
+
+/* No comment provided by engineer. */
+"Active Barbee symbol with number: ${number}" = "Актыўны сімвал Barbee з нумарам: ${number}";
+
+/* No comment provided by engineer. */
+"Active Barbee symbol with number." = "Актыўны сімвал Barbee з нумарам.";
+
+/* No comment provided by engineer. */
+"Symbol Number" = "Нумар сімвала";
+
+/* No comment provided by engineer. */
+"Text" = "Тэкст";
+
+/* No comment provided by engineer. */
+"Image" = "Выява";
+
+/* No comment provided by engineer. */
+"Search" = "Пошук";
+
+/* No comment provided by engineer. */
+"Cancel" = "Скасаваць";
+
+/* No comment provided by engineer. */
+"Launch Barbee at login?" = "Запускаць Barbee пры ўваходзе?";
+
+/* No comment provided by engineer. */
+"It is strongly recommended to launch Barbee at login, would you like to enable it?" = "Рэкамендуецца запускаць Barbee пры ўваходзе, ці жадаеце вы ўключыць гэта?";
+
+/* No comment provided by engineer. */
+"Rate on the Mac App Store" = "Ацаніць у Mac App Store";
+
+/* No comment provided by engineer. */
+"Rate Now" = "Ацаніць зараз";
+
+/* No comment provided by engineer. */
+"Love Barbee?" = "Любіце Barbee?";
+
+/* No comment provided by engineer. */
+"Whether you love Barbee or feel we could be doing better, we want to know!" = "Ці любіце вы Barbee, ці лічыце, што мы можам зрабіць лепш, мы хочам ведаць!";
+
+/* No comment provided by engineer. */
+"Barbee's menu bar icon has been hidden" = "Значок меню-бара Barbee быў схаваны";
+
+/* No comment provided by engineer. */
+"You can change the location of Barbee's menu bar icon in the `Menu Bar Layout` setting" = "Вы можаце змяніць месцазнаходжанне значка меню-бара Barbee ў наладах `Макет меню-бара`";
+
+/* No comment provided by engineer. */
+"Ignore" = "Ігнараваць";
+
+/* No comment provided by engineer. */
+"The icon may persist in the menu bar and impact your experience using Barbee." = "Значок можа заставацца ў меню-баре і ўплываць на ваш досвед выкарыстання Barbee.";
+
+/* No comment provided by engineer. */
+"Cursor Keeps Flickering?" = "Курсор працягвае мігацець?";
+
+/* No comment provided by engineer. */
+"If your cursor keeps flickering, try clicking the button to fix it." = "Калі ваш курсор працягвае мігацець, паспрабуйце націснуць кнопку, каб выправіць гэта.";
+
+/* No comment provided by engineer. */
+"🔨 Fix cursor issues" = "🔨 Выправіць праблемы з курсорам";
+
+/* No comment provided by engineer. */
+"Cursor issues fixed successfully" = "Праблемы з курсорам паспяхова вырашаны";
+
+/* No comment provided by engineer. */
+"Cursor issue fix failed" = "Не ўдалося выправіць праблему з курсорам";
+
+/* No comment provided by engineer. */
+"Menu Bar Style:" = "Стыль меню-бара:";
+
+/* No comment provided by engineer. */
+"Menu Bar Size:" = "Памер меню-бара:";
+
+/* No comment provided by engineer. */
+"Unified" = "Аднаўленчы";
+
+/* No comment provided by engineer. */
+"Separated" = "Аддзелены";
+
+/* No comment provided by engineer. */
+"Regular" = "Звычайны";
+
+/* No comment provided by engineer. */
+"Thin" = "Тонкі";
+
+/* No comment provided by engineer. */
+"Mini" = "Міні";
+
+/* No comment provided by engineer. */
+"Menu Bar Tint:" = "Адценьне меню-бара:";
+
+/* No comment provided by engineer. */
+"⬅️Left" = "⬅️Улева";
+
+/* No comment provided by engineer. */
+"Right➡️" = "Управу➡️";
+
+/* No comment provided by engineer. */
+"Menu Bar Corner Radius:" = "Радыус кута меню-бара:";
+
+/* No comment provided by engineer. */
+"Default" = "Па змаўчанні";
+
+/* No comment provided by engineer. */
+"Menu Bar Border Color:" = "Колер межаў меню-бара:";
+
+/* No comment provided by engineer. */
+"Menu Bar Border Width:" = "Шырыня межаў меню-бара:";
+
+/* No comment provided by engineer. */
+"Thanks to all who keep supporting Barbee🖤.\\nYour encouragement is the fuel that keeps me going.\\n\\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\\n👋 please reach out. You will get it free of charge🆓️. \\n\\n🌐️ If you can help translate Barbee into your language or improve Barbee's current translations, \\nyou will have the lifetime version and your name will be listed as a contributor to Barbee." = "Дзякуй усім, хто працягвае падтрымліваць Barbee🖤.\nВаша падтрымка - гэта паліва, якое рухае мяне наперад.\n\nКалі вы студэнт, настаўнік, падтрымальнік з адкрытым кодам, або калі пакупка гэтай платнай версіі выходзіць за межы вашых цяперашніх магчымасцяў,\n👋 калі ласка, звяжыцеся са мной. Вы атрымаеце яе бясплатна🆓️. \n\n🌐️ Калі вы можаце дапамагчы перакласці Barbee на вашу мову або палепшыць бягучыя пераклады Barbee, \nвы атрымаеце версію на ўсё жыццё, а ваша імя будзе ўказана як укладальніка ў Barbee.";
+
+/* No comment provided by engineer. */
+"Get it for free" = "Атрымаць бясплатна";
+
+/* No comment provided by engineer. */
+"Redeem code" = "Актываваць код";
+
+/* No comment provided by engineer. */
+"Award" = "Награда";
+
+/* No comment provided by engineer. */
+"Yearly" = "Штогод";
+
+/* No comment provided by engineer. */
+"Yearly VIP membership" = "Штогадовая VIP падпіска";
+
+/* No comment provided by engineer. */
+"Yearly - %@" = "Штогод - %@";
+
+/* No comment provided by engineer. */
+"Your payment will be charged to your iTunes Account once you confirm your purchase. Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase." = "Ваш платёж будзе спісаны з вашага рахунку iTunes пасля пацверджання пакупкі. Ваш рахунак iTunes будзе спісаны зноў, калі ваша падпіска аўтаматычна абнавіцца ў канцы бягучага падпіснога перыяду, калі толькі аўтаматычнае абнаўленне не будзе выключана як мінімум за 24 гадзіны да канца бягучага перыяду. Вы можаце кіраваць або адключыць аўтаматычнае абнаўленне ў наладах вашага Apple ID у любы час пасля пакупкі.";
+
+/* No comment provided by engineer. */
+"Manage Subscription" = "Кіраваць падпіскай";
+
+/* No comment provided by engineer. */
+"When the screen width is wide enough, menu bar icons will no longer be hidden" = "Калі шырыні экрана будзе дастаткова, значкі меню-бара больш не будуць схаваны";
+
+/* No comment provided by engineer. */
+"The screen width threshold" = "Парог шырыні экрана";
+
+/* No comment provided by engineer. */
+"pixel(s)" = "піксель(і)";
+
+/* No comment provided by engineer. */
+"Found screen size(s):" = "Знойдзеныя памеры экрана:";
+
+/* No comment provided by engineer. */
+"Reset All" = "Скінуць усё";
+
+/* No comment provided by engineer. */
+"Reset to default appearance:" = "Скінуць да знешняга выгляду па змаўчанні:";
+
+/* No comment provided by engineer. */
+"Follow us" = "Сачыце за намі";
+
+/* No comment provided by engineer. */
+"Translate Barbee" = "Перакласці Barbee";
+
+/* No comment provided by engineer. */
+"Start Translating" = "Пачаць пераклад";
+
+/* No comment provided by engineer. */
+"💦Contributors" = "💦Укладальнікі";
+
+/* No comment provided by engineer. */
+"Special thanks to these volunteers for helping with Barbee Localization! 🌍🌎🌏" = "Асобная падзяка гэтым валанцёрам за дапамогу ў лакалізацыі Barbee! 🌍🌎🌏";
+
+/* No comment provided by engineer. */
+"👋Translating Barbee" = "👋Пераклад Barbee";
+
+/* No comment provided by engineer. */
+"If you want to help translate Barbee into other languages or improve existing translations, we would very appreciate that." = "Калі вы хочаце дапамагчы перакласці Barbee на іншыя мовы або палепшыць існуючыя пераклады, мы будзем вельмі ўдзячныя.";
+
+/* No comment provided by engineer. */
+"Optimization:" = "Аптымізацыя:";
+
+/* No comment provided by engineer. */
+"Reduce the interference of the `Screen Recording` icon" = "Зменшыце ўмяшанне значка `Запіс экрана`";
+
+/* No comment provided by engineer. */
+"Reduce the refresh frequency of the menu bar icon and optimize the appearance probability of the `Screen Recording` icon." = "Зменшыце частату абнаўлення значка меню-бара і аптымізуйце верагоднасць з'яўлення значка `Запіс экрана`.";
+
+/* No comment provided by engineer. */
+"Special thanks to:" = "Асобная падзяка:";
+
+/* No comment provided by engineer. */
+"Optimize the cursor click, unable to move, flicker and disappear issues" = "Аптымізуйце націсканне курсора, праблемы з перамяшчэннем, міганнем і знікненнем";
+
+/* No comment provided by engineer. */
+"Use the more optimized menu bar icon management algorithm" = "Выкарыстоўвайце больш аптымізаваны алгарытм кіравання значкамі меню-бара";
+
+/* No comment provided by engineer. */
+"Tip: You can also hold down command ⌘ and drag the icon in the menu bar to change the menu bar layout." = "Парада: вы таксама можаце ўтрымліваць клавішу command ⌘ і перацягваць значок у меню-баре, каб змяніць макет меню-бара.";
+
+/* No comment provided by engineer. */
+"Special Item Library:" = "Бібліятэка спецыяльных элементаў:";
+
+/* No comment provided by engineer. */
+"Add spacer between items" = "Дадаць прамежак паміж элементамі";
+
+/* No comment provided by engineer. */
+"Put items into a group" = "Пакласці элементы ў групу";
+
+/* No comment provided by engineer. */
+"Spacer width: %d" = "Шырыня прамежку: %d";
+
+/* No comment provided by engineer. */
+"Width:" = "Шырыня:";
+
+/* No comment provided by engineer. */
+"Spacer width: %d" = "Шырыня прамежку: %d";
+
+/* No comment provided by engineer. */
+"Automatically hide other items before showing hidden items" = "Аўтаматычна хаваць іншыя элементы перад паказам схаваных элементаў";
+
+/* No comment provided by engineer. */
+"Show hidden items more concisely and focused, but only works in 'Enhanced Mode'" = "Паказваць схаваныя элементы больш лаканічна і сфакусавана, але працуе толькі ў 'Пашыраным рэжыме'" ;
+
+/* No comment provided by engineer. */
+"Items in group:" = "Элементы ў групе:";
+
+/* No comment provided by engineer. */
+"Candidates:" = "Кандыдаты:";
+
+/* No comment provided by engineer. */
+"Group: %@" = "Група: %@";
+
+/* No comment provided by engineer. */
+"No name" = "Без імя";
+
+/* No comment provided by engineer. */
+"Drop down menu bar participates in macOS window cycling" = "Выпадаючы меню-бар удзельнічае ў цыкліраванні акна macOS";
+
+/* No comment provided by engineer. */
+"The drop down menu bar can become the user's active window." = "Выпадаючы меню-бар можа стаць актыўным акном карыстальніка.";
+
+/* No comment provided by engineer. */
+"Show group on click" = "Паказаць групу пры націсканні";
+
+/* No comment provided by engineer. */
+"Show group on hover" = "Паказаць групу пры навядзенні";
+
+/* No comment provided by engineer. */
+"Auto sync with iCloud" = "Аўтаматычная сінхранізацыя з iCloud";
+
+/* No comment provided by engineer. */
+"Rename" = "Пераназваць";
+
+/* No comment provided by engineer. */
+"Matches icon state" = "Супадае з станам значка";
+
+/* No comment provided by engineer. */
+"Does not match icon state" = "Не супадае з станам значка";
+
+/* No comment provided by engineer. */
+"Battery state" = "Стан батарэі";
+
+/* No comment provided by engineer. */
+"Power source" = "Крыніца харчавання";
+
+/* No comment provided by engineer. */
+"⚡️Any Power Source" = "⚡️Любая крыніца харчавання";
+
+/* No comment provided by engineer. */
+"🔋 Battery" = "🔋 Батарэя";
+
+/* No comment provided by engineer. */
+"🔌 Power Adapter" = "🔌 Адаптар харчавання";
