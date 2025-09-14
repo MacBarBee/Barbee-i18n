@@ -1,0 +1,1379 @@
+/* No comment provided by engineer. */
+" in the menu bar to start!" = " i menyraden för att starta!";
+
+/* No comment provided by engineer. */
+" will be always hidden." = " kommer alltid att vara dold.";
+
+/* No comment provided by engineer. */
+" will be hidden." = " kommer att vara dold.";
+
+/* No comment provided by engineer. */
+"sec(s)" = "sek";
+
+/* No comment provided by engineer. */
+"• Manage the menu bar icons as you want" = "• Hantera menyradens ikoner som du vill";
+
+/* No comment provided by engineer. */
+"• Various menu appearance styles" = "• Olika stilar för menyradens utseende";
+
+/* No comment provided by engineer. */
+"• Reduce menu bar icon spacing" = "• Minska avståndet mellan menyradens ikoner";
+
+/* No comment provided by engineer. */
+"• Support the menu bar with a notch" = "• Stöd för menyrad med notch";
+
+/* No comment provided by engineer. */
+"• Unlimited number of times you can show/hide menu bar icons" = "• Obegränsat antal gånger du kan visa/dölja menyradens ikoner";
+
+/* No comment provided by engineer. */
+"⌘ Shortcut List:" = "⌘ Genvägslista:";
+
+/* No comment provided by engineer. */
+"⏰️  Monitor menu bar item changes, then perform an action" = "⏰️  Övervaka ändringar i menyraden och utför sedan en åtgärd";
+
+/* No comment provided by engineer. */
+"⚠️⚠️⚠️Unresponsive Item %@" = "⚠️⚠️⚠️Objektet %@ svarar inte";
+
+/* No comment provided by engineer. */
+"⛔️️ Barbee does not collect or track any of your personal data and Barbee does not apply for any network permissions." = "⛔️️ Barbee samlar inte in eller spårar några av dina personuppgifter och Barbee begär inga nätverksbehörigheter.";
+
+/* No comment provided by engineer. */
+"✅️ Accessibility permission granted" = "✅️ Hjälpmedelsbehörighet beviljad";
+
+/* No comment provided by engineer. */
+"✅️ Screen Recording permission granted" = "✅️ Skärminspelningsbehörighet beviljad";
+
+/* No comment provided by engineer. */
+"✉️ Contact us" = "✉️ Kontakta oss";
+
+/* No comment provided by engineer. */
+"⭐️️ Drag to arrange your menu bar items as you want!" = "⭐️️ Dra för att arrangera objekten i menyraden som du vill!";
+
+/* No comment provided by engineer. */
+"🐝 Relaunch Barbee" = "🐝 Starta om Barbee";
+
+/* No comment provided by engineer. */
+"🐞 Report bugs" = "🐞 Rapportera buggar";
+
+/* No comment provided by engineer. */
+"👀 View details..." = "👀 Visa detaljer...";
+
+/* No comment provided by engineer. */
+"👉 In the pop-up authorization window, please 🔓unlock in the lower-left corner first, then ✔️allow Barbee in the right list." = "👉 I popup-fönstret för auktorisering, vänligen 🔓lås upp i det nedre vänstra hörnet först, och ✔️tillåt sedan Barbee i listan till höger.";
+
+/* No comment provided by engineer. */
+"💥Supercharge your scripts or shortcuts with Barbee" = "💥Turboladda dina skript eller genvägar med Barbee";
+
+/* No comment provided by engineer. */
+"📊 Export logs..." = "📊 Exportera loggar...";
+
+/* No comment provided by engineer. */
+"🔥️ Enhanced Mode" = "🔥️ Utökat läge";
+
+/* No comment provided by engineer. */
+"🕶️ You are the VIP" = "🕶️ Du är VIP";
+
+/* No comment provided by engineer. */
+"🦄 Join TestFlight..." = "🦄 Gå med i TestFlight...";
+
+/* No comment provided by engineer. */
+"🧩 Right-click to customize Barbee widget group" = "🧩 Högerklicka för att anpassa Barbees widgetgrupp";
+
+/* No comment provided by engineer. */
+"🧩 Right-click to customize Barbee widgets" = "🧩 Högerklicka för att anpassa Barbees widgetar";
+
+/* No comment provided by engineer. */
+"🧩 Widget Management" = "🧩 Widgethantering";
+
+/* No comment provided by engineer. */
+"3-day Free Trial" = "3-dagars gratis provperiod";
+
+/* No comment provided by engineer. */
+"About" = "Om";
+
+/* No comment provided by engineer. */
+"Accessibility" = "Hjälpmedel";
+
+/* No comment provided by engineer. */
+"Action" = "Åtgärd";
+
+/* No comment provided by engineer. */
+"Action:" = "Åtgärd:";
+
+/* No comment provided by engineer. */
+"Activate for %d second(s)" = "Aktivera i %d sekund(er)";
+
+/* No comment provided by engineer. */
+"Activate for a while" = "Aktivera en stund";
+
+/* No comment provided by engineer. */
+"Activate seconds: %d" = "Aktivera sekunder: %d";
+
+/* No comment provided by engineer. */
+"Active" = "Aktiv";
+
+/* No comment provided by engineer. */
+"Active Barbee profile with name: ${profileName}" = "Aktivera Barbee-profil med namn: ${profileName}";
+
+/* No comment provided by engineer. */
+"Active Barbee profile with name." = "Aktivera Barbee-profil med namn.";
+
+/* No comment provided by engineer. */
+"Active Profile" = "Aktiv profil";
+
+/* No comment provided by engineer. */
+"Actived profile successfully" = "Profilen aktiverades";
+
+/* No comment provided by engineer. */
+"Add" = "Lägg till";
+
+/* No comment provided by engineer. */
+"Add/Remove menu bar inner shadow and drop shadow." = "Lägg till/Ta bort menyradens inre skugga och slagskugga.";
+
+/* No comment provided by engineer. */
+"All Menu Bar Item" = "Alla menyradsobjekt";
+
+/* No comment provided by engineer. */
+"All menu bar items are visible on external screens" = "Alla menyradsobjekt är synliga på externa skärmar";
+
+/* No comment provided by engineer. */
+"Alpha Value" = "Alfavärde";
+
+/* No comment provided by engineer. */
+"Always Hidden" = "Alltid dold";
+
+/* No comment provided by engineer. */
+"Always Hidden Items" = "Alltid dolda objekt";
+
+/* No comment provided by engineer. */
+"Always Hidden Items:" = "Alltid dolda objekt:";
+
+/* No comment provided by engineer. */
+"Always Hidden Menu Bar Item" = "Alltid dolt menyradsobjekt";
+
+/* No comment provided by engineer. */
+"App Modules" = "Appmoduler";
+
+/* No comment provided by engineer. */
+"Apply" = "Verkställ";
+
+/* No comment provided by engineer. */
+"Authorize" = "Auktorisera";
+
+/* No comment provided by engineer. */
+"Automation" = "Automatisering";
+
+/* No comment provided by engineer. */
+"Automation feature requires additional permissions!" = "Automatiseringsfunktionen kräver ytterligare behörigheter!";
+
+/* No comment provided by engineer. */
+"Backup profile successfully." = "Profilen säkerhetskopierades.";
+
+/* No comment provided by engineer. */
+"Backup to iCloud drive" = "Säkerhetskopiera till iCloud Drive";
+
+/* No comment provided by engineer. */
+"Barbee requires Accessibility access to show/hide the menu bar items." = "Barbee kräver hjälpmedelsåtkomst för att kunna visa/dölja objekt i menyraden.";
+
+/* No comment provided by engineer. */
+"Barbee requires Screen Recording access to monitor the menu bar item list and capture the images of changed items." = "Barbee kräver skärminspelningsåtkomst för att övervaka listan över menyradsobjekt och fånga bilder av ändrade objekt.";
+
+/* No comment provided by engineer. */
+"Barbee requires your permissions to access system capabilities to provide its functionality. Please review the permissions below." = "Barbee kräver dina behörigheter för att få åtkomst till systemfunktioner för att kunna fungera. Granska behörigheterna nedan.";
+
+/* No comment provided by engineer. */
+"Become VIP to use without limitation" = "Bli VIP för att använda utan begränsningar";
+
+/* No comment provided by engineer. */
+"Beta Testing" = "Betatestning";
+
+/* No comment provided by engineer. */
+"Bundle Identifier" = "bundleidentifierare";
+
+/* No comment provided by engineer. */
+"Change inner shadow state: ${innerShadowState}, drop shadow state: ${dropShadowState}" = "Ändra status för inre skugga: ${innerShadowState}, status för slagskugga: ${dropShadowState}";
+
+/* No comment provided by engineer. */
+"Change Menu Bar Color" = "Ändra menyradens färg";
+
+/* No comment provided by engineer. */
+"Change menu bar color: ${color}" = "Ändra menyradens färg: ${color}";
+
+/* No comment provided by engineer. */
+"Change Menu Bar Shadow State" = "Ändra menyradens skuggstatus";
+
+/* No comment provided by engineer. */
+"Change Top Notch State" = "Ändra status för notch";
+
+/* No comment provided by engineer. */
+"Change top notch state: ${state}" = "Ändra status för notch: ${state}";
+
+/* No comment provided by engineer. */
+"Change Wallpaper..." = "Ändra bakgrundsbild...";
+
+/* No comment provided by engineer. */
+"Change your current screen menu bar color, enter your color hex string(e.g. \"0AB188FF\"). Restore the color of the menu bar if the hex string is empty." = "Ändra din nuvarande skärms menyradsfärg, ange din färg-hex-sträng (t.ex. \"0AB188FF\"). Återställ menyradens färg om hex-strängen är tom.";
+
+/* No comment provided by engineer. */
+"Changing menu bar color requires user directory authorization" = "Ändring av menyradens färg kräver auktorisering för användarkatalogen";
+
+/* No comment provided by engineer. */
+"Changing menu item gaps requires user directory authorization" = "Ändring av avstånd mellan menyradsobjekt kräver auktorisering för användarkatalogen";
+
+/* No comment provided by engineer. */
+"Choose a menu bar item" = "Välj ett menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Choose Barbee Mode" = "Välj Barbee-läge";
+
+/* No comment provided by engineer. */
+"Click menu bar item" = "Klicka på menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Click Menu Bar Item (Enhanced mode only)" = "Klicka på menyradsobjekt (endast i utökat läge)";
+
+/* No comment provided by engineer. */
+"Click menu bar item by identifier: ${itemIdentifier}" = "Klicka på menyradsobjekt via identifierare: ${itemIdentifier}";
+
+/* No comment provided by engineer. */
+"Click menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "Klicka på menyradsobjekt via identifierare (t.ex. \"com.apple.controlcenter-WiFi\").";
+
+/* No comment provided by engineer. */
+"Click on the menu bar Barbee icon to toggle the visibility of hidden items directly" = "Klicka på Barbees ikon i menyraden för att direkt växla synligheten för dolda objekt";
+
+/* No comment provided by engineer. */
+"Click on the menu bar to toggle the visibility of hidden items" = "Klicka på menyraden för att växla synligheten för dolda objekt";
+
+/* No comment provided by engineer. */
+"Click the icon " = "Klicka på ikonen ";
+
+/* No comment provided by engineer. */
+"Close" = "Stäng";
+
+/* No comment provided by engineer. */
+"Color" = "Färg";
+
+/* No comment provided by engineer. */
+"Configuration" = "Konfiguration";
+
+/* No comment provided by engineer. */
+"Confirm" = "Bekräfta";
+
+/* No comment provided by engineer. */
+"Content" = "Innehåll";
+
+/* No comment provided by engineer. */
+"Continue" = "Fortsätt";
+
+/* No comment provided by engineer. */
+"Corner Radius" = "Hörnradie";
+
+/* No comment provided by engineer. */
+"Current Item" = "Aktuellt objekt";
+
+/* No comment provided by engineer. */
+"Custom shortcuts feature requires additional permissions!" = "Funktionen för anpassade genvägar kräver ytterligare behörigheter!";
+
+/* No comment provided by engineer. */
+"Dark Background Color" = "Mörk bakgrundsfärg";
+
+/* No comment provided by engineer. */
+"Default Gap - system default spacing between items" = "Standardavstånd - systemets standardavstånd mellan objekt";
+
+/* No comment provided by engineer. */
+"Delay before hiding items again." = "Fördröjning innan objekt döljs igen.";
+
+/* No comment provided by engineer. */
+"Delete" = "Radera";
+
+/* No comment provided by engineer. */
+"Delete `%@`" = "Radera `%@`";
+
+/* No comment provided by engineer. */
+"Diagnostics" = "Diagnostik";
+
+/* No comment provided by engineer. */
+"Do you want to backup profiles to iCloud?" = "Vill du säkerhetskopiera profiler till iCloud?";
+
+/* No comment provided by engineer. */
+"Do you want to delete profile `%@`?" = "Vill du radera profilen `%@`?";
+
+/* No comment provided by engineer. */
+"Do you want to delete this automation?" = "Vill du radera denna automatisering?";
+
+/* No comment provided by engineer. */
+"Do you want to delete this shortcut?" = "Vill du radera den här genvägen?";
+
+/* No comment provided by engineer. */
+"Do you want to import this profile?" = "Vill du importera den här profilen?";
+
+/* No comment provided by engineer. */
+"Do you want to sync profiles from iCloud?" = "Vill du synkronisera profiler från iCloud?";
+
+/* No comment provided by engineer. */
+"Drop Shadow" = "Skugga";
+
+/* No comment provided by engineer. */
+"Drop Shadow State" = "Skuggstatus";
+
+/* No comment provided by engineer. */
+"Edit" = "Redigera";
+
+/* No comment provided by engineer. */
+"Energy Saver" = "Energisparläge";
+
+/* No comment provided by engineer. */
+"Enhanced Mode" = "Utökat läge";
+
+/* No comment provided by engineer. */
+"Enhanced mode is only available for Notch screens" = "Utökat läge är endast tillgängligt för skärmar med notch.";
+
+/* No comment provided by engineer. */
+"Export" = "Exportera";
+
+/* No comment provided by engineer. */
+"Failed to active profile" = "Kunde inte aktivera profilen";
+
+/* No comment provided by engineer. */
+"Failed to backup profile." = "Kunde inte säkerhetskopiera profilen.";
+
+/* No comment provided by engineer. */
+"Failed to change menu item gap" = "Kunde inte ändra avståndet mellan menyobjekt";
+
+/* No comment provided by engineer. */
+"Failed to export profile." = "Kunde inte exportera profilen.";
+
+/* No comment provided by engineer. */
+"Failed to import profile." = "Kunde inte importera profilen.";
+
+/* No comment provided by engineer. */
+"Failed to restore" = "Kunde inte återställa";
+
+/* No comment provided by engineer. */
+"Failed to sync profile." = "Kunde inte synkronisera profilen.";
+
+/* No comment provided by engineer. */
+"Feedback" = "Feedback";
+
+/* No comment provided by engineer. */
+"For the setting to work, you must turn on Barbee's `Launch At Login`, log out and log back into macOS." = "För att inställningen ska fungera måste du aktivera Barbees `Starta vid inloggning`, logga ut och sedan logga in i macOS igen.";
+
+/* No comment provided by engineer. */
+"Found %d profile(s)" = "Hittade %d profil(er)";
+
+/* No comment provided by engineer. */
+"Frame" = "Ram";
+
+/* No comment provided by engineer. */
+"Generic" = "Allmän";
+
+/* No comment provided by engineer. */
+"Get all menu bar items" = "Hämta alla menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Get All Menu Bar Items" = "Hämta alla menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Get always hidden menu bar items" = "Hämta alltid dolda menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Get Always Hidden Menu Bar Items" = "Hämta alltid dolda menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Get App Modules" = "Hämta appmoduler";
+
+/* No comment provided by engineer. */
+"Get app modules using app bundle identifier: ${bundleIdentifier}" = "Hämta appmoduler med appens bundleidentifierare: ${bundleIdentifier}";
+
+/* No comment provided by engineer. */
+"Get hidden menu bar items" = "Hämta dolda menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Get Hidden Menu Bar Items" = "Hämta dolda menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Get shown menu bar items" = "Hämta visade menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Get Shown Menu Bar Items" = "Hämta visade menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Get Started" = "Kom igång";
+
+/* No comment provided by engineer. */
+"Go to Barbee preferences..." = "Gå till Barbees inställningar...";
+
+/* No comment provided by engineer. */
+"Grant Permissions to Barbee" = "Ge Barbee behörigheter";
+
+/* No comment provided by engineer. */
+"Has Top Notch" = "Har notch";
+
+/* No comment provided by engineer. */
+"Has top notch?" = "Har notch?";
+
+/* No comment provided by engineer. */
+"Height" = "Höjd";
+
+/* No comment provided by engineer. */
+"Help Center" = "Hjälpcenter";
+
+/* No comment provided by engineer. */
+"Hidden" = "Dolda";
+
+/* No comment provided by engineer. */
+"Hidden Items" = "Dolda objekt";
+
+/* No comment provided by engineer. */
+"Hidden Items:" = "Dolda objekt:";
+
+/* No comment provided by engineer. */
+"Hidden Menu Bar Item" = "Dolt menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Hide" = "Dölj";
+
+/* No comment provided by engineer. */
+"Hide All" = "Dölj alla";
+
+/* No comment provided by engineer. */
+"Hide Menu Bar Item (Enhanced mode only)" = "Dölj menyradsobjekt (endast i utökat läge)";
+
+/* No comment provided by engineer. */
+"Hide menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "Dölj menyradsobjekt via identifierare: ${itemIdentifier}, till X: ${x}";
+
+/* No comment provided by engineer. */
+"Hide menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional." = "Dölj menyradsobjekt via identifierare (t.ex. \"com.apple.controlcenter-WiFi\"), X är valfritt.";
+
+/* No comment provided by engineer. */
+"Hide not-showing items" = "Dölj objekt som inte visas";
+
+/* No comment provided by engineer. */
+"Hold CONTROL(⌃) and click on the menu bar icon to show / hide all items" = "Håll ned CONTROL(⌃) och klicka på menyradsikonen för att visa/dölja alla objekt";
+
+/* No comment provided by engineer. */
+"Hold CONTROL(⌃) and click on the menu bar to show / hide all items" = "Håll ned CONTROL(⌃) och klicka på menyraden för att visa/dölja alla objekt";
+
+/* No comment provided by engineer. */
+"Hold OPTION(⌥) and click on the menu bar icon to show / hide hidden items" = "Håll ned OPTION(⌥) och klicka på menyradsikonen för att visa/dölja dolda objekt";
+
+/* No comment provided by engineer. */
+"Hold the COMMAND(⌘) to drag the menu bar items" = "Håll ned COMMAND(⌘) för att dra menyradsobjekten";
+
+/* No comment provided by engineer. */
+"Hovered" = "Hovrad";
+
+/* No comment provided by engineer. */
+"Icon:" = "Ikon:";
+
+/* No comment provided by engineer. */
+"If you encounter any problems or would like to help us improve, or localize Barbee, please feel free to contact us!" = "Om du stöter på problem, vill hjälpa oss att förbättra eller lokalisera Barbee, är du välkommen att kontakta oss!";
+
+/* No comment provided by engineer. */
+"If you want to use Barbee in normal mode, just remove the granted permissions in System Preferences." = "Om du vill använda Barbee i normalläge, ta bara bort de beviljade behörigheterna i Systeminställningar.";
+
+/* No comment provided by engineer. */
+"Import" = "Importera";
+
+/* No comment provided by engineer. */
+"In the case of multiple screens, non-notch screens will use normal mode to show/hide menu bar items" = "Vid användning av flera skärmar kommer skärmar utan notch att använda normalläge för att visa/dölja menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Inner Shadow" = "Inre skugga";
+
+/* No comment provided by engineer. */
+"Inner Shadow State" = "Status för inre skugga";
+
+/* No comment provided by engineer. */
+"InterItem Horizontal Padding" = "Horisontell marginal mellan objekt";
+
+/* No comment provided by engineer. */
+"InterItem Vertical Padding" = "Vertikal marginal mellan objekt";
+
+/* No comment provided by engineer. */
+"Is Menu Bar Visible" = "Är menyraden synlig";
+
+/* No comment provided by engineer. */
+"Is menu bar visible?" = "Är menyraden synlig?";
+
+/* No comment provided by engineer. */
+"Is Movable by Window Background" = "Kan flyttas med fönsterbakgrunden";
+
+/* No comment provided by engineer. */
+"Item has any changes" = "Objektet har ändringar";
+
+/* No comment provided by engineer. */
+"Item Identifier" = "Objektidentifierare";
+
+/* No comment provided by engineer. */
+"Items" = "Objekt";
+
+/* No comment provided by engineer. */
+"Items dragged to the left will be always hidden. Hold the command ⌘ key to drag the items in menu bar." = "Objekt som dras åt vänster kommer alltid att vara dolda. Håll ned command ⌘ för att dra objekten i menyraden.";
+
+/* No comment provided by engineer. */
+"Items dragged to the left will be hidden. Hold the command ⌘ key to drag the items in menu bar." = "Objekt som dras åt vänster kommer att döljas. Håll ned command ⌘ för att dra objekten i menyraden.";
+
+/* No comment provided by engineer. */
+"Items on the left side of the icon " = "Objekt på vänster sida om ikonen ";
+
+/* No comment provided by engineer. */
+"Launch At Login" = "Starta vid inloggning";
+
+/* No comment provided by engineer. */
+"Level" = "Nivå";
+
+/* No comment provided by engineer. */
+"Lifetime" = "Livstid";
+
+/* No comment provided by engineer. */
+"Lifetime - %@" = "Livstid - %@";
+
+/* No comment provided by engineer. */
+"Light Background Color" = "Ljus bakgrundsfärg";
+
+/* No comment provided by engineer. */
+"Lowest" = "Lägsta";
+
+/* No comment provided by engineer. */
+"macOS log out required" = "Utloggning från macOS krävs";
+
+/* No comment provided by engineer. */
+"Makes the notch disappear like a NINJA 🥷. (You can also set the menu bar color to ⬛️)" = "Får notch att försvinna som en NINJA 🥷. (Du kan även ställa in menyradsfärgen till ⬛️)";
+
+/* No comment provided by engineer. */
+"Manage App Modules in Menu Bar" = "Hantera appmoduler i menyraden";
+
+/* No comment provided by engineer. */
+"Manage System Modules in Menu Bar" = "Hantera systemmoduler i menyraden";
+
+/* No comment provided by engineer. */
+"Managing app modules requires user directory authorization" = "Hantering av appmoduler kräver auktorisering av användarkatalog";
+
+/* No comment provided by engineer. */
+"Menu Bar" = "Menyrad";
+
+/* No comment provided by engineer. */
+"Menu Bar Appearance" = "Menyradens utseende";
+
+/* No comment provided by engineer. */
+"Menu Bar Color:" = "Menyradsfärg:";
+
+/* No comment provided by engineer. */
+"Menu Bar Item Gap:" = "Avstånd mellan menyradsobjekt:";
+
+/* No comment provided by engineer. */
+"Menu Bar Layout" = "Menyradslayout";
+
+/* No comment provided by engineer. */
+"Menu Bar Layout feature requires additional permissions!" = "Funktionen för menyradslayout kräver ytterligare behörigheter!";
+
+/* No comment provided by engineer. */
+"Menu Bar Shadow:" = "Menyarvsskugga:";
+
+/* No comment provided by engineer. */
+"Menu Bar:" = "Menyrad:";
+
+/* No comment provided by engineer. */
+"Mode has been changed successfully" = "Läget har ändrats";
+
+/* No comment provided by engineer. */
+"Mode:" = "Läge:";
+
+/* No comment provided by engineer. */
+"More" = "Mer";
+
+/* No comment provided by engineer. */
+"Multi-screen:" = "Flera skärmar:";
+
+/* No comment provided by engineer. */
+"Name" = "Namn";
+
+/* No comment provided by engineer. */
+"Name:" = "Namn:";
+
+/* No comment provided by engineer. */
+"New" = "Ny";
+
+/* No comment provided by engineer. */
+"New Items Location" = "Placering för nya objekt";
+
+/* No comment provided by engineer. */
+"🆕️ Request new features" = "🆕️ Föreslå nya funktioner";
+
+/* No comment provided by engineer. */
+"New Single Widget..." = "Ny enskild widget...";
+
+/* No comment provided by engineer. */
+"New Widget" = "Ny widget";
+
+/* No comment provided by engineer. */
+"New Widget Group" = "Ny widgetgrupp";
+
+/* No comment provided by engineer. */
+"New Widget Group..." = "Ny widgetgrupp...";
+
+/* No comment provided by engineer. */
+"Newly discovered menu bar items will be moved to:" = "Nyligen upptäckta menyradsobjekt kommer att flyttas till:";
+
+/* No comment provided by engineer. */
+"No" = "Nej";
+
+/* No comment provided by engineer. */
+"No action" = "Ingen åtgärd";
+
+/* No comment provided by engineer. */
+"No backups" = "Inga säkerhetskopior";
+
+/* No comment provided by engineer. */
+"No configurable app modules found" = "Inga konfigurerbara appmoduler hittades";
+
+/* No comment provided by engineer. */
+"No Gap - no spacing between items" = "Inget avstånd - inget mellanrum mellan objekten";
+
+/* No comment provided by engineer. */
+"No matching results" = "Inga matchande resultat";
+
+/* No comment provided by engineer. */
+"Non-subscription, totally free" = "Ingen prenumeration, helt gratis";
+
+/* No comment provided by engineer. */
+"Normal" = "Normal";
+
+/* No comment provided by engineer. */
+"Normal Gap - normal spacing between items" = "Normalt avstånd - normalt mellanrum mellan objekten";
+
+/* No comment provided by engineer. */
+"Normal Mode" = "Normalläge";
+
+/* No comment provided by engineer. */
+"Not Now" = "Inte nu";
+
+/* No comment provided by engineer. */
+"Notch:" = "Notch:";
+
+/* No comment provided by engineer. */
+"Ok" = "Ok";
+
+/* No comment provided by engineer. */
+"One-time purchase" = "Engångsköp";
+
+/* No comment provided by engineer. */
+"Oops, No Hidden Items! 🔥️You can arrange items in the Preferences." = "Hoppsan, inga dolda objekt! 🔥️Du kan arrangera objekt i Inställningar.";
+
+/* No comment provided by engineer. */
+"Open System Preferences..." = "Öppna Systeminställningar...";
+
+/* No comment provided by engineer. */
+"Please hold command(⌘) and drag the `<`, `|` and `Barbee icons` in the menu bar and place them in the correct order. The order is: always hidden icons `<` hidden icons `|` shown icons `Barbee icon`." = "Håll ned command(⌘) och dra ikonerna `<`, `|` och `Barbee` i menyraden och placera dem i rätt ordning. Ordningen är: alltid dolda ikoner `<` dolda ikoner `|` visade ikoner `Barbee-ikonen`.";
+
+/* No comment provided by engineer. */
+"Preferences" = "Inställningar";
+
+/* No comment provided by engineer. */
+"Preferences..." = "Inställningar...";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Integritetspolicy";
+
+/* No comment provided by engineer. */
+"Profile" = "Profil";
+
+/* No comment provided by engineer. */
+"Profile Entry:" = "Profilpost:";
+
+/* No comment provided by engineer. */
+"Profile Name" = "Profilnamn";
+
+/* No comment provided by engineer. */
+"Purchase & Restore" = "Köp & Återställ";
+
+/* No comment provided by engineer. */
+"Quick Search" = "Snabbsökning";
+
+/* No comment provided by engineer. */
+"Quick Search Entry:" = "Snabbsökningspost:";
+
+/* No comment provided by engineer. */
+"Quick Search feature requires additional permissions!" = "Snabbsökningsfunktionen kräver ytterligare behörigheter!";
+
+/* No comment provided by engineer. */
+"Quick Search:" = "Snabbsökning:";
+
+/* No comment provided by engineer. */
+"Quick Start Guide" = "Snabbstartsguide";
+
+/* No comment provided by engineer. */
+"Quit" = "Avsluta";
+
+/* No comment provided by engineer. */
+"Recommended for users with a large screen or no icons hidden by the system." = "Rekommenderas för användare med stor skärm eller utan ikoner dolda av systemet.";
+
+/* No comment provided by engineer. */
+"Recommended for users with bangs on the screen or users with hidden icons in the system." = "Rekommenderas för användare med notch på skärmen eller med ikoner dolda i systemet.";
+
+/* No comment provided by engineer. */
+"Reduce Refresh Rate When Using Battery Power" = "Minska uppdateringsfrekvensen vid batteridrift";
+
+/* No comment provided by engineer. */
+"Refresh" = "Uppdatera";
+
+/* No comment provided by engineer. */
+"Refresh Interval in Seconds" = "Uppdateringsintervall i sekunder";
+
+/* No comment provided by engineer. */
+"Refresh menu bar items" = "Uppdatera menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Refresh Menu Bar Items" = "Uppdatera menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Related Item:" = "Relaterat objekt:";
+
+/* No comment provided by engineer. */
+"Reduce useable screen space to mask notch" = "Minska användbart skärmutrymme för att maskera notchen";
+
+/* No comment provided by engineer. */
+"Remove/Add top notch when you use the notched Mac." = "Ta bort/lägg till övre notch när du använder en Mac med notch.";
+
+/* No comment provided by engineer. */
+"Request Access..." = "Begär åtkomst...";
+
+/* No comment provided by engineer. */
+"Reset" = "Återställ";
+
+/* No comment provided by engineer. */
+"Restore Purchase" = "Återställ köp";
+
+/* No comment provided by engineer. */
+"Restore successfully! If it still doesn't work, please reinstall the app." = "Återställning lyckades! Om det fortfarande inte fungerar, vänligen installera om appen.";
+
+/* No comment provided by engineer. */
+"Returns all menu bar items." = "Returnerar alla menyradsobjekt.";
+
+/* No comment provided by engineer. */
+"Returns always hidden menu bar items." = "Returnerar alltid dolda menyradsobjekt.";
+
+/* No comment provided by engineer. */
+"Returns app modules using app bundle identifier." = "Returnerar appmoduler med hjälp av appens bundleidentifierare.";
+
+/* No comment provided by engineer. */
+"Returns hidden menu bar items." = "Returnerar dolda menyradsobjekt.";
+
+/* No comment provided by engineer. */
+"Returns shown menu bar items." = "Returnerar visade menyradsobjekt.";
+
+/* No comment provided by engineer. */
+"Returns whether the current active scrren has top notch." = "Returnerar om den nuvarande aktiva skärmen har en övre notch.";
+
+/* No comment provided by engineer. */
+"Returns whether the current active scrren menu bar is visible." = "Returnerar om menyraden på den nuvarande aktiva skärmen är synlig.";
+
+/* No comment provided by engineer. */
+"Reveal In Finder" = "Visa i Finder";
+
+/* No comment provided by engineer. */
+"Scopes:" = "Omfattning:";
+
+/* No comment provided by engineer. */
+"Screen Recording" = "Skärminspelning";
+
+/* No comment provided by engineer. */
+"Search for a menu bar item" = "Sök efter ett menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Select" = "Välj";
+
+/* No comment provided by engineer. */
+"Select a related menu bar item" = "Välj ett relaterat menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Select..." = "Välj...";
+
+/* No comment provided by engineer. */
+"Shortcut to show / hide all items:" = "Genväg för att visa/dölja alla objekt:";
+
+/* No comment provided by engineer. */
+"Shortcut to show / hide hidden items:" = "Genväg för att visa/dölja dolda objekt:";
+
+/* No comment provided by engineer. */
+"Shortcut:" = "Genväg:";
+
+/* No comment provided by engineer. */
+"Shortcuts" = "Genvägar";
+
+/* No comment provided by engineer. */
+"Show" = "Visa";
+
+/* No comment provided by engineer. */
+"Show all" = "Visa alla";
+
+/* No comment provided by engineer. */
+"Show All" = "Visa alla";
+
+/* No comment provided by engineer. */
+"Show all menu bar items" = "Visa alla menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Show Entry in Menu" = "Visa post i menyn";
+
+/* No comment provided by engineer. */
+"Show hidden menu bar items" = "Visa dolda menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Show in All Spaces" = "Visa i alla Spaces";
+
+/* No comment provided by engineer. */
+"Show Menu Bar Item (Enhanced mode only)" = "Visa menyradsobjekt (endast utökat läge)";
+
+/* No comment provided by engineer. */
+"Show menu bar item by identifier: ${itemIdentifier}, to X: ${x}" = "Visa menyradsobjekt med identifierare: ${itemIdentifier}, till X: ${x}";
+
+/* No comment provided by engineer. */
+"Show menu bar item by identifier(e.g. \"com.apple.controlcenter-WiFi\"), X is optional." = "Visa menyradsobjekt med identifierare (t.ex. \"com.apple.controlcenter-WiFi\"), X är valfritt.";
+
+/* No comment provided by engineer. */
+"Show Profile in Menu" = "Visa profil i menyn";
+
+/* No comment provided by engineer. */
+"Shown Items" = "Visade objekt";
+
+/* No comment provided by engineer. */
+"Shown Items:" = "Visade objekt:";
+
+/* No comment provided by engineer. */
+"Shown Menu Bar Item" = "Visat menyradsobjekt";
+
+/* No comment provided by engineer. */
+"Small Gap - proper spacing between items" = "Litet mellanrum - korrekt avstånd mellan objekt";
+
+/* No comment provided by engineer. */
+"Some of the menu bar items will be moved into a separate menu bar in enhanced mode, this mode requires the user to authorize some necessary permissions (Screen Recording & Accessibility), but there will be no extra permission requests in the normal mode." = "Vissa av menyradsobjekten kommer att flyttas till en separat menyrad i utökat läge. Detta läge kräver att användaren godkänner nödvändiga behörigheter (Skärminspelning & Hjälpmedel), men det kommer inte att finnas några extra behörighetsförfrågningar i normalläget.";
+
+/* No comment provided by engineer. */
+"Something Wrong?" = "Något fel?";
+
+/* No comment provided by engineer. */
+"🆘 If the app still prompts that there is no permission after you authorize Barbee, please cancel the authorization of Barbee and delete Barbee in the authorization list, then relaunch Barbee and grant permissions again." = "🆘 Om appen fortfarande meddelar att behörighet saknas efter att du har auktoriserat Barbee, vänligen avbryt auktoriseringen för Barbee och ta bort Barbee från auktoriseringslistan. Starta sedan om Barbee och bevilja behörigheterna igen.";
+
+/* No comment provided by engineer. */
+"Start" = "Starta";
+
+/* No comment provided by engineer. */
+"Start BarBee automatically at login." = "Starta BarBee automatiskt vid inloggning.";
+
+/* No comment provided by engineer. */
+"Startup:" = "Autostart:";
+
+/* No comment provided by engineer. */
+"State" = "Status";
+
+/* No comment provided by engineer. */
+"Switch App Module State" = "Växla appmodulstatus";
+
+/* No comment provided by engineer. */
+"Switch Barbee Mode" = "Växla Barbee-läge";
+
+/* No comment provided by engineer. */
+"Switch the app module state in menu bar by its identifier(e.g. \"com.apple.controlcenter-WiFi\")." = "Växla appmodulstatus i menyraden med dess identifierare (t.ex. \"com.apple.controlcenter-WiFi\").";
+
+/* No comment provided by engineer. */
+"Switch the app module state:${state} in menu bar by its identifier: ${itemIdentifier}" = "Växla appmodulstatusen:${state} i menyraden med dess identifierare: ${itemIdentifier}";
+
+/* No comment provided by engineer. */
+"Switch to Enhanced Mode" = "Växla till utökat läge";
+
+/* No comment provided by engineer. */
+"Switch to Normal Mode" = "Växla till normalläge";
+
+/* No comment provided by engineer. */
+"Symbol:" = "Symbol:";
+
+/* No comment provided by engineer. */
+"Sync from iCloud drive" = "Synkronisera från iCloud Drive";
+
+/* No comment provided by engineer. */
+"Sync profile successfully." = "Synkronisering av profil lyckades.";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Användarvillkor";
+
+/* No comment provided by engineer. */
+"Thanks for purchasing Barbee VIP" = "Tack för att du har köpt Barbee VIP";
+
+/* No comment provided by engineer. */
+"Thanks for trying Barbee" = "Tack för att du provar Barbee";
+
+/* No comment provided by engineer. */
+"The automation will be deleted and changes take effect immediately" = "Automationen kommer att raderas och ändringarna träder i kraft omedelbart";
+
+/* No comment provided by engineer. */
+"The beta version may contain bugs or cause issues. Any feedback you can provide is always greatly appreciated." = "Betaversionen kan innehålla buggar eller orsaka problem. All feedback du kan ge uppskattas verkligen.";
+
+/* No comment provided by engineer. */
+"The changes have been saved, and it will take effect after exiting and restarting the app `%@`." = "Ändringarna har sparats och träder i kraft efter att du avslutat och startat om appen `%@`.";
+
+/* No comment provided by engineer. */
+"The following modules have been found that may be displayed in the menu bar, you can enable or disable them." = "Följande moduler som kan visas i menyraden har hittats, du kan aktivera eller inaktivera dem.";
+
+/* No comment provided by engineer. */
+"The hidden menu bar icon will appear in a separate menu bar in the upper right corner." = "Den dolda menyradsikonen kommer att visas i en separat menyrad i det övre högra hörnet.";
+
+/* No comment provided by engineer. */
+"The hidden menu bar icons will be collapsed." = "De dolda menyradsikonerna kommer att fällas ihop.";
+
+/* No comment provided by engineer. */
+"The hover area of the menu bar include the app menu and Apple logo area" = "Hovringsområdet i menyraden inkluderar appmenyn och området för Apple-logotypen";
+
+/* No comment provided by engineer. */
+"The iCloud profiles will be replaced by the local profiles, which cannot be restored." = "iCloud-profilerna kommer att ersättas av de lokala profilerna, vilka inte kan återställas.";
+
+/* No comment provided by engineer. */
+"The item is invisible" = "Objektet är osynligt";
+
+/* No comment provided by engineer. */
+"The item is invisible because of the top notch, you can hide the notch, adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "Objektet är osynligt på grund av notchen. Du kan dölja notchen, justera skärmens upplösning eller minska antalet synliga objekt i Barbees inställningar.";
+
+/* No comment provided by engineer. */
+"The item is invisible because the menu bar does not have enough space, you can adjust the resolution of the display or reduce the number of visible items in the Barbee preferences." = "Objektet är osynligt eftersom menyraden inte har tillräckligt med utrymme. Du kan justera skärmens upplösning eller minska antalet synliga objekt i Barbees inställningar.";
+
+/* No comment provided by engineer. */
+"The local profiles will be replaced by the iCloud profiles, which cannot be restored." = "De lokala profilerna kommer att ersättas av iCloud-profilerna, vilka inte kan återställas.";
+
+/* No comment provided by engineer. */
+"The profile has been exported." = "Profilen har exporterats.";
+
+/* No comment provided by engineer. */
+"The profile has been imported." = "Profilen har importerats.";
+
+/* No comment provided by engineer. */
+"The selected item is not in the menu bar now" = "Det valda objektet finns inte i menyraden just nu";
+
+/* No comment provided by engineer. */
+"The shadow below the menu bar" = "Skuggan under menyraden";
+
+/* No comment provided by engineer. */
+"The shadow in the menu bar" = "Skuggan i menyraden";
+
+/* No comment provided by engineer. */
+"The shortcut will be deleted and changes take effect immediately" = "Genvägen kommer att raderas och ändringarna träder i kraft omedelbart";
+
+/* No comment provided by engineer. */
+"Then: %@" = "Sedan: %@";
+
+/* No comment provided by engineer. */
+"Top Notch" = "Notch";
+
+/* No comment provided by engineer. */
+"Topmost" = "Överst";
+
+/* No comment provided by engineer. */
+"Trigger:" = "Utlösare:";
+
+/* No comment provided by engineer. */
+"Upgrade to Barbee VIP" = "Uppgradera till Barbee VIP";
+
+/* No comment provided by engineer. */
+"Use Barbee in enhanced mode?" = "Använda Barbee i utökat läge?";
+
+/* No comment provided by engineer. */
+"Use in Shortcuts" = "Använd i Genvägar";
+
+/* No comment provided by engineer. */
+"View iCloud profiles" = "Visa iCloud-profiler";
+
+/* No comment provided by engineer. */
+"View URL Schemes" = "Visa URL-scheman";
+
+/* No comment provided by engineer. */
+"Welcome to Barbee!" = "Välkommen till Barbee!";
+
+/* No comment provided by engineer. */
+"When hovering for more than a certain period of time, show hidden items." = "Visa dolda objekt när du hovrar under en viss tid.";
+
+/* No comment provided by engineer. */
+"When hovering over the menu bar, hidden items will be shown automatically" = "När du hovrar över menyraden visas dolda objekt automatiskt";
+
+/* No comment provided by engineer. */
+"When hovering over the menu of the app or the Apple(🍎) logo, hidden items will be also shown automatically" = "När du hovrar över appmenyn eller Apple-logotypen (🍎) visas även dolda objekt automatiskt";
+
+/* No comment provided by engineer. */
+"When leaving the menu bar, hidden items will be hidden again" = "När du lämnar menyraden döljs dolda objekt igen";
+
+/* No comment provided by engineer. */
+"When the external screen becomes the focus, all menu bar items will be visible, and when the focus is lost, they will be hidden again." = "När den externa skärmen får fokus blir alla menyradsobjekt synliga, och när fokus förloras döljs de igen.";
+
+/* No comment provided by engineer. */
+"When there is a problem with Barbee, you can try to relaunch Barbee to solve this problem." = "Om det uppstår ett problem med Barbee kan du försöka starta om Barbee för att lösa det.";
+
+/* No comment provided by engineer. */
+"When you click on the blank area of the menu bar, Barbee will toggle showing hidden items." = "När du klickar på ett tomt område i menyraden kommer Barbee att växla visning av dolda objekt.";
+
+/* No comment provided by engineer. */
+"When you click on the menu bar icon, Barbee will toggle showing hidden items instead of Barbee menu. The Barbee menu will be displayed when you right-click the menu bar icon." = "När du klickar på menyradsikonen kommer Barbee att växla visning av dolda objekt istället för Barbee-menyn. Barbee-menyn visas när du högerklickar på menyradsikonen.";
+
+/* No comment provided by engineer. */
+"When you hold CONTROL(⌃) and click on the menu bar icon, Barbee will toggle showing / hiding all items." = "När du håller ner CONTROL (⌃) och klickar på menyradsikonen kommer Barbee att växla visning/döljande av alla objekt.";
+
+/* No comment provided by engineer. */
+"When you hold CONTROL(⌃) and click on the menu bar, Barbee will toggle showing / hiding all items." = "När du håller ner CONTROL (⌃) och klickar på menyraden kommer Barbee att växla visning/döljande av alla objekt.";
+
+/* No comment provided by engineer. */
+"When you hold OPTION(⌥) and click on the menu bar icon, Barbee will toggle showing / hiding hidden items." = "När du håller ner OPTION (⌥) och klickar på menyradsikonen kommer Barbee att växla visning/döljande av dolda objekt.";
+
+/* No comment provided by engineer. */
+"When: %@" = "När: %@";
+
+/* No comment provided by engineer. */
+"Which mode of tutorial would you like to see?" = "Vilket läge av guiden vill du se?";
+
+/* No comment provided by engineer. */
+"Widget" = "Widget";
+
+/* No comment provided by engineer. */
+"Widget Entry:" = "Widget-post:";
+
+/* No comment provided by engineer. */
+"Widget feature requires additional permissions!" = "Widget-funktionen kräver ytterligare behörigheter!";
+
+/* No comment provided by engineer. */
+"Width" = "Bredd";
+
+/* No comment provided by engineer. */
+"Wrong order of Barbee menu bar icons" = "Fel ordning på Barbees menyradsikoner";
+
+/* No comment provided by engineer. */
+"X" = "X";
+
+/* No comment provided by engineer. */
+"Y" = "Y";
+
+/* No comment provided by engineer. */
+"Yes" = "Ja";
+
+/* No comment provided by engineer. */
+"You can check out the quick start guide to learn more about the two modes of Barbee." = "Du kan ta en titt i snabbstartsguiden för att lära dig mer om Barbees två lägen.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Profile` entry in Barbee's menu." = "Du kan aktivera eller inaktivera posten `Profil` i Barbees meny.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Quick Search` entry in Barbee's menu." = "Du kan aktivera eller inaktivera posten `Snabbsök` i Barbees meny.";
+
+/* No comment provided by engineer. */
+"You can enable or disable the `Widget` entry in Barbee's menu." = "Du kan aktivera eller inaktivera posten `Widget` i Barbees meny.";
+
+/* No comment provided by engineer. */
+"You can export diagnostic logs and send them back to the developer, which can help the developer resolve your issue." = "Du kan exportera diagnostikloggar och skicka dem till utvecklaren, vilket kan hjälpa utvecklaren att lösa ditt problem.";
+
+/* No comment provided by engineer. */
+"You can modify the layout of the extra menu bar in the app's preferences window" = "Du kan ändra layouten för den extra menyraden i appens inställningsfönster";
+
+/* No comment provided by engineer. */
+"You have unlocked all features for 3 days, enjoy!" = "Du har låst upp alla funktioner i 3 dagar, ha så kul!";
+
+/* No comment provided by engineer. */
+"You have unlocked all features, enjoy!" = "Du har låst upp alla funktioner, ha så kul!";
+
+/* No comment provided by engineer. */
+"Arrange" = "Arrangera";
+
+/* No comment provided by engineer. */
+"• Cloud backup and sync profiles" = "• Molnbaserad säkerhetskopiering och synkronisering av profiler";
+
+/* No comment provided by engineer. */
+"• Supercharge your scripts or shortcuts with Barbee" = "• Turboladda dina skript eller genvägar med Barbee";
+
+/* No comment provided by engineer. */
+"No items found" = "Inga objekt hittades";
+
+/* No comment provided by engineer. */
+"This prompt will appear when Barbee is running on a newer version of macOS to capture the screenshot of menu bar items. \\n⛔️ Barbee is an offline app with no network permissions." = "Denna uppmaning visas när Barbee körs på en nyare version av macOS för att ta skärmbilder av menyradsobjekt. \\n⛔️ Barbee är en offline-app utan nätverksbehörigheter.";
+
+/* No comment provided by engineer. */
+"Got it" = "Jag förstår";
+
+/* No comment provided by engineer. */
+"🧮 Restore Patches" = "🧮 Återställ patchar";
+
+/* No comment provided by engineer. */
+"Reset All Permissions" = "Återställ alla behörigheter";
+
+/* No comment provided by engineer. */
+"Do you want to import this patch?" = "Vill du importera denna patch?";
+
+/* No comment provided by engineer. */
+"The patch has been imported." = "Patchen har importerats.";
+
+/* No comment provided by engineer. */
+"Failed to import patch." = "Kunde inte importera patch.";
+
+/* No comment provided by engineer. */
+"Active Symbol" = "Aktiv symbol";
+
+/* No comment provided by engineer. */
+"Active Barbee symbol with number: ${number}" = "Aktiv Barbee-symbol med nummer: ${number}";
+
+/* No comment provided by engineer. */
+"Active Barbee symbol with number." = "Aktiv Barbee-symbol med nummer.";
+
+/* No comment provided by engineer. */
+"Symbol Number" = "Symbolnummer";
+
+/* No comment provided by engineer. */
+"Text" = "Text";
+
+/* No comment provided by engineer. */
+"Image" = "Bild";
+
+/* No comment provided by engineer. */
+"Search" = "Sök";
+
+/* No comment provided by engineer. */
+"Cancel" = "Avbryt";
+
+/* No comment provided by engineer. */
+"Launch Barbee at login?" = "Starta Barbee vid inloggning?";
+
+/* No comment provided by engineer. */
+"It is strongly recommended to launch Barbee at login, would you like to enable it?" = "Det rekommenderas starkt att starta Barbee vid inloggning, vill du aktivera det?";
+
+/* No comment provided by engineer. */
+"Rate on the Mac App Store" = "Betygsätt på Mac App Store";
+
+/* No comment provided by engineer. */
+"Rate Now" = "Betygsätt nu";
+
+/* No comment provided by engineer. */
+"Love Barbee?" = "Älskar du Barbee?";
+
+/* No comment provided by engineer. */
+"Whether you love Barbee or feel we could be doing better, we want to know!" = "Oavsett om du älskar Barbee eller tycker att vi kan bli bättre, vill vi veta!";
+
+/* No comment provided by engineer. */
+"Barbee's menu bar icon has been hidden" = "Barbees menyradsikon har dolts";
+
+/* No comment provided by engineer. */
+"You can change the location of Barbee's menu bar icon in the `Menu Bar Layout` setting" = "Du kan ändra platsen för Barbees menyradsikon i inställningen `Layout för menyraden`";
+
+/* No comment provided by engineer. */
+"Ignore" = "Ignorera";
+
+/* No comment provided by engineer. */
+"The icon may persist in the menu bar and impact your experience using Barbee." = "Ikonen kan finnas kvar i menyraden och påverka din upplevelse av att använda Barbee.";
+
+/* No comment provided by engineer. */
+"Cursor Keeps Flickering?" = "Flimrar muspekaren?";
+
+/* No comment provided by engineer. */
+"If your cursor keeps flickering, try clicking the button to fix it." = "Om din muspekare fortsätter att flimra, prova att klicka på knappen för att åtgärda det.";
+
+/* No comment provided by engineer. */
+"🔨 Fix cursor issues" = "🔨 Åtgärda muspekarsproblem";
+
+/* No comment provided by engineer. */
+"Cursor issues fixed successfully" = "Muspekarsproblem åtgärdade";
+
+/* No comment provided by engineer. */
+"Cursor issue fix failed" = "Åtgärd av muspekarsproblem misslyckades";
+
+/* No comment provided by engineer. */
+"Menu Bar Style:" = "Stil för menyraden:";
+
+/* No comment provided by engineer. */
+"Menu Bar Size:" = "Storlek på menyraden:";
+
+/* No comment provided by engineer. */
+"Unified" = "Enhetlig";
+
+/* No comment provided by engineer. */
+"Separated" = "Separerad";
+
+/* No comment provided by engineer. */
+"Regular" = "Normal";
+
+/* No comment provided by engineer. */
+"Thin" = "Smal";
+
+/* No comment provided by engineer. */
+"Mini" = "Mini";
+
+/* No comment provided by engineer. */
+"Menu Bar Tint:" = "Färgton för menyraden:";
+
+/* No comment provided by engineer. */
+"⬅️Left" = "⬅️Vänster";
+
+/* No comment provided by engineer. */
+"Right➡️" = "Höger➡️";
+
+/* No comment provided by engineer. */
+"Menu Bar Corner Radius:" = "Hörnradie för menyraden:";
+
+/* No comment provided by engineer. */
+"Default" = "Standard";
+
+/* No comment provided by engineer. */
+"Menu Bar Border Color:" = "Kantlinjefärg för menyraden:";
+
+/* No comment provided by engineer. */
+"Menu Bar Border Width:" = "Kantlinjebredd för menyraden:";
+
+/* No comment provided by engineer. */
+"Thanks to all who keep supporting Barbee🖤.\\nYour encouragement is the fuel that keeps me going.\\n\\nIf you are a student, a teacher, an open-source maintainer, or if purchasing this paid version is beyond your current means,\\n👋 please reach out. You will get it free of charge🆓️. \\n\\n🌐️ If you can help translate Barbee into your language or improve Barbee's current translations, \\nyou will have the lifetime version and your name will be listed as a contributor to Barbee." = "Tack till alla som fortsätter att stödja Barbee🖤.\\nEr uppmuntran är bränslet som håller mig igång.\\n\\nOm du är student, lärare, underhållare av öppen källkod, eller om det är bortom dina nuvarande medel att köpa denna betalversion,\\n👋 vänligen kontakta mig. Du får den gratis🆓️. \\n\\n🌐️ Om du kan hjälpa till att översätta Barbee till ditt språk eller förbättra Barbees nuvarande översättningar, \\nkommer du att få livstidsversionen och ditt namn kommer att listas som en bidragsgivare till Barbee.";
+
+/* No comment provided by engineer. */
+"Get it for free" = "Skaffa gratis";
+
+/* No comment provided by engineer. */
+"Redeem code" = "Lös in kod";
+
+/* No comment provided by engineer. */
+"Award" = "Utmärkelse";
+
+/* No comment provided by engineer. */
+"Yearly" = "Årlig";
+
+/* No comment provided by engineer. */
+"Yearly VIP membership" = "Årligt VIP-medlemskap";
+
+/* No comment provided by engineer. */
+"Yearly - %@" = "Årligen - %@";
+
+/* No comment provided by engineer. */
+"Your payment will be charged to your iTunes Account once you confirm your purchase. Your iTunes account will be charged again when your subscription automatically renews at the end of your current subscription period unless auto-renew is turned off at least 24 hours prior to the end of the current period. You can manage or turn off auto-renew in your Apple ID Account Settings any time after purchase." = "Din betalning kommer att debiteras ditt iTunes-konto när du bekräftar ditt köp. Ditt iTunes-konto kommer att debiteras igen när din prenumeration automatiskt förnyas i slutet av din nuvarande prenumerationsperiod, såvida inte automatisk förnyelse stängs av minst 24 timmar före slutet av den nuvarande perioden. Du kan hantera eller stänga av automatisk förnyelse i dina Apple-ID-kontoinställningar när som helst efter köpet.";
+
+/* No comment provided by engineer. */
+"Manage Subscription" = "Hantera prenumeration";
+
+/* No comment provided by engineer. */
+"When the screen width is wide enough, menu bar icons will no longer be hidden" = "När skärmbredden är tillräckligt stor kommer menyradsikoner inte längre att döljas";
+
+/* No comment provided by engineer. */
+"The screen width threshold" = "Tröskelvärde för skärmbredd";
+
+/* No comment provided by engineer. */
+"pixel(s)" = "pixlar";
+
+/* No comment provided by engineer. */
+"Found screen size(s):" = "Hittade skärmstorlek(ar):";
+
+/* No comment provided by engineer. */
+"Reset All" = "Återställ allt";
+
+/* No comment provided by engineer. */
+"Reset to default appearance:" = "Återställ till standardutseende:";
+
+/* No comment provided by engineer. */
+"Follow us" = "Följ oss";
+
+/* No comment provided by engineer. */
+"Translate Barbee" = "Översätt Barbee";
+
+/* No comment provided by engineer. */
+"Start Translating" = "Börja översätta";
+
+/* No comment provided by engineer. */
+"💦Contributors" = "💦Medverkande";
+
+/* No comment provided by engineer. */
+"Special thanks to these volunteers for helping with Barbee Localization! 🌍🌎🌏" = "Särskilt tack till dessa volontärer som hjälper till med Barbees lokalisering! 🌍🌎🌏";
+
+/* No comment provided by engineer. */
+"👋Translating Barbee" = "👋Översätt Barbee";
+
+/* No comment provided by engineer. */
+"If you want to help translate Barbee into other languages or improve existing translations, we would very appreciate that." = "Om du vill hjälpa till att översätta Barbee till andra språk eller förbättra befintliga översättningar, skulle vi uppskatta det väldigt mycket.";
+
+/* No comment provided by engineer. */
+"Optimization:" = "Optimering:";
+
+/* No comment provided by engineer. */
+"Reduce the interference of the `Screen Recording` icon" = "Minska störningen från ikonen `Skärminspelning`";
+
+/* No comment provided by engineer. */
+"Reduce the refresh frequency of the menu bar icon and optimize the appearance probability of the `Screen Recording` icon." = "Minska uppdateringsfrekvensen för menyradsikonen och optimera sannolikheten för att ikonen `Skärminspelning` visas.";
+
+/* No comment provided by engineer. */
+"Special thanks to:" = "Särskilt tack till:";
+
+/* No comment provided by engineer. */
+"Optimize the cursor click, unable to move, flicker and disappear issues" = "Optimera problem med pekarklick, oförmåga att flytta, flimmer och försvinnande";
+
+/* No comment provided by engineer. */
+"Use the more optimized menu bar icon management algorithm" = "Använd den mer optimerade algoritmen för hantering av menyradsikoner";
+
+/* No comment provided by engineer. */
+"Tip: You can also hold down command ⌘ and drag the icon in the menu bar to change the menu bar layout." = "Tips: Du kan också hålla nere command ⌘ och dra ikonen i menyraden för att ändra menyradens layout.";
+
+/* No comment provided by engineer. */
+"Special Item Library:" = "Bibliotek för specialobjekt:";
+
+/* No comment provided by engineer. */
+"Add spacer between items" = "Lägg till mellanrum mellan objekt";
+
+/* No comment provided by engineer. */
+"Put items into a group" = "Placera objekt i en grupp";
+
+/* No comment provided by engineer. */
+"Spacer width: %d" = "Mellanrumsbredd: %d";
+
+/* No comment provided by engineer. */
+"Width:" = "Bredd:";
+
+/* No comment provided by engineer. */
+"Automatically hide other items before showing hidden items" = "Dölj andra objekt automatiskt innan dolda objekt visas";
+
+/* No comment provided by engineer. */
+"Show hidden items more concisely and focused, but only works in 'Enhanced Mode'" = "Visa dolda objekt mer koncist och fokuserat, men fungerar endast i 'Utökat läge'";
+
+/* No comment provided by engineer. */
+"Items in group:" = "Objekt i grupp:";
+
+/* No comment provided by engineer. */
+"Candidates:" = "Kandidater:";
+
+/* No comment provided by engineer. */
+"Group: %@" = "Grupp: %@";
+
+/* No comment provided by engineer. */
+"No name" = "Inget namn";
+
+/* No comment provided by engineer. */
+"Drop down menu bar participates in macOS window cycling" = "Nedfällbar menyrad deltar i macOS fönstercykling";
+
+/* No comment provided by engineer. */
+"The drop down menu bar can become the user's active window." = "Den nedfällbara menyraden kan bli användarens aktiva fönster.";
+
+/* No comment provided by engineer. */
+"Show group on click" = "Visa grupp vid klick";
+
+/* No comment provided by engineer. */
+"Show group on hover" = "Visa grupp vid hovring";
+
+/* No comment provided by engineer. */
+"Auto sync with iCloud" = "Synka automatiskt med iCloud";
+
+/* No comment provided by engineer. */
+"Rename" = "Byt namn";
+
+/* No comment provided by engineer. */
+"Matches icon state" = "Matchar ikonstatus";
+
+/* No comment provided by engineer. */
+"Does not match icon state" = "Matchar inte ikonstatus";
+
+/* No comment provided by engineer. */
+"Battery state" = "Batteristatus";
+
+/* No comment provided by engineer. */
+"Power source" = "Strömkälla";
+
+/* No comment provided by engineer. */
+"⚡️Any Power Source" = "⚡️Valfri strömkälla";
+
+/* No comment provided by engineer. */
+"🔋 Battery" = "🔋 Batteri";
+
+/* No comment provided by engineer. */
+"🔌 Power Adapter" = "🔌 Strömadapter";
